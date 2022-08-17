@@ -2,7 +2,7 @@ import React from "react";
 import BlockContent from "@sanity/block-content-to-react";
 import client from "@lib/sanity";
 
-const { projectId, dataset } = client.config();
+const { dataset } = client.config();
 
 function SimpleBlockContent(props) {
   const { blocks } = props;
@@ -15,7 +15,6 @@ function SimpleBlockContent(props) {
   return (
     <BlockContent
       blocks={blocks}
-      projectId={projectId}
       dataset={dataset}
     />
   );
