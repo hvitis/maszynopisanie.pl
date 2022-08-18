@@ -8,21 +8,20 @@ const Contact = ({ data }) => {
     <section className="section">
       <div className="container max-w-[700px]">
         {markdownify(title, "h1", "h2 mb-8 text-center")}
-        <form className="contact-form">
+        <form className="contact-form" action="https://formspree.io/f/xlevevwl" method="POST">
           <div className="mb-6">
             <label className="mb-2 block" htmlFor="name">
-              Name
+              Imię / Nick
             </label>
             <input
               className="form-input w-full"
               name="name"
               type="text"
-              required
             />
           </div>
           <div className="mb-6">
             <label className="mb-2 block" htmlFor="email">
-              Email
+              Meil
             </label>
             <input
               className="form-input w-full"
@@ -33,7 +32,7 @@ const Contact = ({ data }) => {
           </div>
           <div className="mb-6">
             <label className="mb-2 block" htmlFor="subject">
-              Subject
+              Tytuł
             </label>
             <input
               className="form-input w-full"
@@ -44,11 +43,11 @@ const Contact = ({ data }) => {
           </div>
           <div className="mb-6">
             <label className="mb-2 block" htmlFor="message">
-              Message
+              Treść
             </label>
-            <textarea className="form-textarea w-full" rows="7" />
+            <textarea className="form-textarea w-full" rows="7" required/>
           </div>
-          <button className="btn btn-outline-primary">Submit Now</button>
+          <button className="btn btn-outline-primary">Wyślij</button>
         </form>
       </div>
     </section>

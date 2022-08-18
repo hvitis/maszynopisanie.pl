@@ -1,17 +1,15 @@
 ---
 title: "To strona o maszynach do pisania ale i ich właścicielach. Napisz do nas jeśli chciałbyś ją współtworzyć."
-meta_title: "About"
+meta_title: "Strona Miłośników Maszyn do Pisania - zacznij swoją przygodę a może i dołącz do nas!"
 image: "/images/author.jpg"
 layout: "about"
 draft: false
 
 # social sites
-social:
-  facebook: "https://www.facebook.com"
-  twitter: "https://www.twitter.com"
-  instagram: "https://www.instagram.com"
+# social:
+#   facebook: "https://www.facebook.com"
+#   twitter: "https://www.twitter.com"
+#   instagram: "https://www.instagram.com"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Jeśli jesteś zainteresowany podzieleniem się swoją hisotirą albo swoimi przemyśleniami - napisz! Pomożemy Ci dodać artykuł na stronę i zaistnieć w sieci. Organizujemy spotkania i wymieniamy się doświadczeniem w naprawie oraz użytkowaniu maszyn.
