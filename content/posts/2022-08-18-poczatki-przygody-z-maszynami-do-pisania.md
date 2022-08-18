@@ -1,11 +1,11 @@
 ---
-title: What you need to know about Photography
-description: "meta description"
-date: 2022-04-02T06:00:00+00:00
-image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+title: "Początki przygody z maszynami do pisania."
+description: "Kiedy tak naprawdę się zaczęła i co popchnęło ją do przodu."
+date: 2022-08-04T05:00:00Z
+image: "/images/posts/01.webp"
+categories: ["olivetti"]
+authors: ["Adam Piskorek"]
+tags: ["typewriters", "histories"]
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "To strona o maszynach do pisania ale i ich właścicielach. Napisz do nas jeśli chciałbyś ją współtworzyć."
 meta_title: "About"
 image: "/images/author.jpg"
 layout: "about"
