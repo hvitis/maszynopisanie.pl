@@ -6,10 +6,10 @@ layout: "about"
 draft: false
 
 # social sites
-# social:
-#   facebook: "https://www.facebook.com"
-#   twitter: "https://www.twitter.com"
-#   instagram: "https://www.instagram.com"
+social:
+  facebook: "https://www.facebook.com"
+  twitter: "https://www.twitter.com"
+  instagram: "https://www.instagram.com"
 ---
 
 Jeśli jesteś zainteresowany podzieleniem się swoją hisotirą albo swoimi przemyśleniami - napisz! Pomożemy Ci dodać artykuł na stronę i zaistnieć w sieci. Organizujemy spotkania i wymieniamy się doświadczeniem w naprawie oraz użytkowaniu maszyn.
