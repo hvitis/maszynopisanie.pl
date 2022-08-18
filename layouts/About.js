@@ -18,7 +18,7 @@ const About = ({ data }) => {
               width={920}
               height={515}
               alt={title}
-              className="rounded-lg"
+              className="rounded-lg object-cover"
             />
           </div>
         )}

@@ -72,7 +72,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                 width="1000"
                 alt={title}
                 layout="responsive"
-                className="rounded-lg"
+                className="rounded-lg object-cover"
               />
             )}
             <div className="content mb-16 text-left">

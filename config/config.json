@@ -1,16 +1,16 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "Maszynopisacze.pl | Pasjonaci Maszyn Do Pisania",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Maszynopisacze.pl"
   },
 
   "settings": {
-    "pagination": 3,
+    "pagination": 7,
     "summary_length": 200,
     "blog_folder": "posts"
   },
@@ -20,8 +20,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Maszynopisacze - Maszyny do Pisania",
+    "meta_image": "/images/favicon.png",
+    "meta_description": "Pasja posiadania i używania idealnej maszyny drzemie na pewno w tobie. Wejdź do nas i daj się pochłonąć."
   }
 }

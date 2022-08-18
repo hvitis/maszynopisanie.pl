@@ -15,7 +15,7 @@ const Posts = ({ posts, authors, className }) => {
         >
           {post.frontmatter.image && (
             <Image
-              className="rounded-lg object-cover h-48"
+              className="rounded-lg object-cover"
               src={post.frontmatter.image}
               alt={post.frontmatter.title}
               width={i === 0 ? "925" : "445"}
