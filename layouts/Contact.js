@@ -21,7 +21,7 @@ const Contact = ({ data }) => {
           </div>
           <div className="mb-6">
             <label className="mb-2 block" htmlFor="email">
-              Meil
+              Mejl
             </label>
             <input
               className="form-input w-full"
