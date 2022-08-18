@@ -1,40 +1,36 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Główna",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "O Nas",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Więcej",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "Maszynopisacze",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "Kategorie",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "Tagi",
           "url": "/tags"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
+          "name": "Polityka Prywatności",
           "url": "/privacy-policy"
         }
       ]
@@ -42,19 +38,15 @@
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "O Nas",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
+      "name": "Polityka Prywatności",
       "url": "/privacy-policy"
     }
   ]
