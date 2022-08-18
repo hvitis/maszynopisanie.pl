@@ -4,6 +4,9 @@ import { humanize, slugify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import Link from "next/link";
 
+// Deleted
+// height={i === 0 ? "475" : "230"}
+
 const Posts = ({ posts, authors, className }) => {
   const { summary_length } = config.settings;
   return (
@@ -15,11 +18,10 @@ const Posts = ({ posts, authors, className }) => {
         >
           {post.frontmatter.image && (
             <Image
-              className="rounded-lg"
+              className="rounded-lg object-cover"
               src={post.frontmatter.image}
               alt={post.frontmatter.title}
               width={i === 0 ? "925" : "445"}
-              height={i === 0 ? "475" : "230"}
               layout="responsive"
               priority={i === 0 ? true : false}
             />
