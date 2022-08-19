@@ -6,11 +6,11 @@
     },
     {
       "name": "O Nas",
-      "url": "/o-nas"
+      "url": "/about"
     },
     {
       "name": "Kontakt",
-      "url": "/kontakt"
+      "url": "/contact"
     },
     {
       "name": "Więcej",
@@ -19,7 +19,7 @@
       "children": [
         {
           "name": "Maszynopisacze",
-          "url": "/maszynopisacze"
+          "url": "/authors"
         },
         {
           "name": "Maszynolity",
@@ -27,11 +27,11 @@
         },
         {
           "name": "Kategorie",
-          "url": "/kategorie"
+          "url": "/categories"
         },
         {
           "name": "Tagi",
-          "url": "/tagi"
+          "url": "/tags"
         }
       ]
     }
@@ -39,11 +39,11 @@
   "footer": [
     {
       "name": "O Nas",
-      "url": "/o-nas"
+      "url": "/about"
     },
     {
       "name": "Kontakt",
-      "url": "/kontakt"
+      "url": "/contact"
     }
   ]
 }
