@@ -1,7 +1,7 @@
 ---
-title: "To strona o maszynach do pisania ale i ich właścicielach. Napisz do nas jeśli chciałbyś ją współtworzyć."
-meta_title: "Strona Miłośników Maszyn do Pisania - zacznij swoją przygodę a może i dołącz do nas!"
-image: "/images/author.jpg"
+title: "Skany naszych tekstów"
+meta_title: "Strona ze skanami napisanych tekstów!"
+image: "/images/maszynolity/maszynolity.jpeg"
 layout: "about"
 draft: false
 
@@ -12,4 +12,9 @@ social:
   instagram: "https://www.instagram.com"
 ---
 
-Jeśli jesteś zainteresowany podzieleniem się swoją hisotirą albo swoimi przemyśleniami - napisz! Pomożemy Ci dodać artykuł na stronę i zaistnieć w sieci. Organizujemy spotkania i wymieniamy się doświadczeniem w naprawie oraz użytkowaniu maszyn.
+
+
+
+Tzw. [typecasting][1] ale po polsku.
+
+[1]: https://nontxt.com/writing-on-a-manual-typewriter/
