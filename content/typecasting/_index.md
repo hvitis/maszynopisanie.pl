@@ -1,5 +1,7 @@
 ---
 title: "Maszynolity"
+layout: "about"
+draft: false
 ---
 
 Tzw. [typecasting][1] ale po polsku.
