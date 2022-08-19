@@ -23,7 +23,7 @@ i [zdjęcie][1].
 
 Musiało to trząsnąć wspomnieniami i powstał jakiś przeciek z nieświadomości: __a grybym tak kupił maszynę do pisania?__.
 
-Jakie to był← wspomnienia?
+Jakie to były wspomnienia?
 
 Ogromna radość z możliwości pisania na maszynie babci. Za każdym razem kiedy zabierała mnie na wycieczkę do pracy. Pamiętam zasłony w małym sekretariacie, maszynę, kolor, kalki, radość. Jeśli zadziałało raz - dlaczego miałoby nie zadziałać drugi raz? Zazwyczaj dzieci cieszą się z różności ale trzeba postawić tezę - tylko radość tożsama z nami zostaje na całe życie.
 
@@ -36,6 +36,7 @@ Padło na hermes baby za 80zł. Musi mieć polską czcionkę - po co komu maszyn
 
 ![hermes baby z polskimi klawiszami](./images/posts/2022-08-18/maszyna-do-pisania-hermes-baby-szwajcarska-made-in-germany.jpg)
 
+Kupiłem oczywiście z obudową ale palce tak ciągnęło do naprawy i majsterkowania, że nie zdążyłem zrobić zdjęcia. 
 
 
 [1]: https://assets2.cbsnewsstatic.com/hub/i/r/2016/01/08/4247093e-69a4-4e6d-94b8-0d484d6b40c2/thumbnail/1200x630/3d637c934fbeeace8e773bf18fcb4555/ernest-hemingway-typewriter-promo.jpg
