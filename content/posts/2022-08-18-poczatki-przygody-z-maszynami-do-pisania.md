@@ -47,7 +47,7 @@ Przeglądając komentarze i poradniki w internecie natknąłem się na radę: "_
 
 Zrobiłem całą serię zdjęć, żeby pamiętać układ części, rozebrałem tylko najbardziej dostępne i zabrudzone elementy. Niestety po wyczyszczeniu i próbie składania nie było tak łatwo jak myślałem. Po zacięciu się znalazłem jednak stronę na której dostępne są _instrukcje do maszyn do pisania_.
 
-Strona nazywa się typewriterdatabase.com a na ich [sklepie][1] ([dostępnym tutaj][2]) znalazłem [instrukcje do naprawy maszyn Hermes][2]. Te porandiki są niestety płatne, poniewaz [na darmowej stronie z poradnikami][3] nie mogłem znaleźć takiego, który pasowałby do modelu Hermes Baby (są tam głównie instrukcje obsługi). 
+Strona nazywa się typewriterdatabase.com a na ich [sklepie][1] ([dostępnym tutaj][2]) znalazłem [instrukcje do naprawy maszyn Hermes][2]. Te porandiki są niestety płatne, poniewaz [na darmowej stronie z poradnikami][3] nie mogłem znaleźć takiego, który pasowałby do modelu Hermes Baby (są tam głównie instrukcje obsługi). Więcej instrukcji do naprawy i przeglądu maszyny mozna znaleźć jeszcze [tutaj][5].
 
 Po ściągnięciu zakupionej instrukcji, zachwyciłem się okładką reklamową i marketingiem mojej maszyny.
 
@@ -73,3 +73,4 @@ Na razie pasja została rozbudzona zupełnie i jestem w trakcie szukania idealne
 [2]: https://twdb.sellfy.store/hermes-typewriters/
 [3]: https://site.xavier.edu/polt/typewriters/tw-manuals.html#servicemanuals
 [4]: https://pl.wikipedia.org/wiki/Hello_world
+[5]: https://www.mrmrsvintagetypewriters.com/pages/typewriter-manuals-page
