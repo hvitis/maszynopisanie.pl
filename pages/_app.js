@@ -4,6 +4,7 @@ import { JsonContext } from "context/state";
 import Head from "next/head";
 import { useEffect, useState } from "react";
 import "styles/style.scss";
+import { GoogleAnalytics } from "nextjs-google-analytics";
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
@@ -44,6 +45,7 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
       </Head>
+      <GoogleAnalytics trackPageViews />
       <Component {...pageProps} />
     </JsonContext>
   );
