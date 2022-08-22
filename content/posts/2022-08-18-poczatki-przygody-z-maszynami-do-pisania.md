@@ -40,3 +40,36 @@ Kupiłem oczywiście z obudową ale palce tak ciągnęło do naprawy i majsterko
 
 
 [1]: https://assets2.cbsnewsstatic.com/hub/i/r/2016/01/08/4247093e-69a4-4e6d-94b8-0d484d6b40c2/thumbnail/1200x630/3d637c934fbeeace8e773bf18fcb4555/ernest-hemingway-typewriter-promo.jpg
+
+## Pierwsze doświadczenia
+
+Przeglądając komentarze i poradniki w internecie natknąłem się na radę: "_nie próbuj rozkręcać maszyny jeśli się na tym nie znasz_". Nie wszystkie rady są jednak pomocne - jak bowiem ktoś ma nauczyć się budowy maszyny bez rozkęcania? Dobrze, że kosztowała tanio - nie będzie problemu jeśli coś nie wyjdzie.
+
+Zrobiłem całą serię zdjęć, żeby pamiętać układ części, rozebrałem tylko najbardziej dostępne i zabrudzone elementy. Niestety po wyczyszczeniu i próbie składania nie było tak łatwo jak myślałem. Po zacięciu się znalazłem jednak stronę na której dostępne są _instrukcje do maszyn do pisania_.
+
+Strona nazywa się typewriterdatabase.com a na ich [sklepie][1] ([dostępnym tutaj][2]) znalazłem [instrukcje do naprawy maszyn Hermes][2]. Te porandiki są niestety płatne, poniewaz [na darmowej stronie z poradnikami][3] nie mogłem znaleźć takiego, który pasowałby do modelu Hermes Baby (są tam głównie instrukcje obsługi). 
+
+Po ściągnięciu zakupionej instrukcji, zachwyciłem się okładką reklamową i marketingiem mojej maszyny.
+
+![hermes baby okładka instrukcji obsługi](./images/posts/2022-08-18/the-hermes-rocket-and-baby-typewriter-repair-bible-ebook-cover.png)
+
+I od razu zabrałem się za składanie. Nic tak nie zapala frajdy majsterkowicza jak składanie maszyny do pisania. Myślę, że nic tak nie uczy budowy maszyny niż jej rozebranie i złożenie. Mechanicy samochodowi być mają podobną opinię.
+
+## Pierwsze litery
+
+"[Hello World][4]" to były moje pierwsze litery napisane na naszynie. Wcześniej tylko wyklikiwałem losowe litery poniewaz po złozeniu maszyny do pisania nalezy ją dostroić - skalibrować wysokość wystukiwanych liter (budowa maszyny do pisania to tez było dla mnie coś zupełnie nowego). Litery znajdują się na czcionce, która posiada wielkie oraz małe litery na kazdym klawiszu.
+
+## Co Dalej
+
+Na maszynie napisałem listę wszystkich rzeczy, które nalezy jeszcze w niej naprawić:
+![hermes baby okładka instrukcji obsługi](./images/posts/2022-08-18/narzedzia-do-naprawy-maszyny-maszynolit.jpeg)
+
+jak widać sporo pracy przede mną.
+
+Na razie pasja została rozbudzona zupełnie i jestem w trakcie szukania idealnej maszyny do pisania.
+
+
+[1]: https://twdb.sellfy.store/
+[2]: https://twdb.sellfy.store/hermes-typewriters/
+[3]: https://site.xavier.edu/polt/typewriters/tw-manuals.html#servicemanuals
+[4]: https://pl.wikipedia.org/wiki/Hello_world
