@@ -90,7 +90,7 @@ const Header = () => {
                     </ul>
                   </li>
                 ) : (
-                  <li className="nav-item">
+                  <li className="nav-item mr-5">
                     <Link href={menu.url} passHref>
                       <a className="nav-link block">{menu.name}</a>
                     </Link>
