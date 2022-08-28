@@ -1,10 +1,10 @@
 ---
-title: Adam Piskorek
-image: /images/authors/adam-piskorek.jpg
+title: Adam
+image: /images/authors/maszynista.jpg
 description: Pasjonat maszyn do pisania.
 social:
-  facebook: https://www.facebook.com/hvitis.dev
-  twitter: https://www.twitter.com/hvitis_
+  facebook: https://www.facebook.com/
+  twitter: https://www.twitter.com/
   # instagram: https://www.instagram.com/
 ---
 
