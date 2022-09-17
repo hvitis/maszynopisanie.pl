@@ -4,6 +4,13 @@ meta_title: "Dlaczego maszyny do pisania mają jeszcze jedno zadanie do zrobieni
 layout: "about"
 draft: false
 
+
+# social sites
+social:
+  facebook: "https://www.facebook.com"
+  twitter: "https://www.twitter.com"
+  instagram: "https://www.instagram.com"
+  
 ---
 
 Ponizszy tekst jest związany z ideami, które są wytłumaczone na stronie 

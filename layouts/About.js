@@ -8,6 +8,7 @@ const About = ({ data }) => {
   const { frontmatter, mdxContent } = data;
   const { title, image, social } = frontmatter;
 
+  // TODO: social check for emptiness 
   return (
     <section className="section">
       <div className="container text-center">
