@@ -18,6 +18,10 @@
       "hasChildren": true,
       "children": [
         {
+          "name": "Manifest",
+          "url": "/manifesto"
+        },
+        {
           "name": "Maszynopisacze",
           "url": "/authors"
         },
