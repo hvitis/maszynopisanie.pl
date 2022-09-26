@@ -1,26 +1,23 @@
 ---
 title: "Manifest"
-meta_title: "Dlaczego maszyny do pisania mają jeszcze jedno zadanie do zrobienia."
+meta_title: "Dlaczego maszyny do pisania mają jeszcze wiele zadań do wykonania."
 layout: "about"
 draft: false
-
-
-# social sites
-social:
-  facebook: "https://www.facebook.com"
-  twitter: "https://www.twitter.com"
-  instagram: "https://www.instagram.com"
-  
 ---
 
-Ponizszy tekst jest związany z ideami, które są wytłumaczone na stronie 
-inicjatora typosfery, mozna przeczytać więcej [na tej stronie][0].
+Tytuł brzmi poważnie! Tak jakbyśmy mieli tę rewolucję prowadzić albo tak jakby ta rewolucja miała
+się dokonać na bardzo jasnych zasadach.
+
+Otóż tak też i jest z tą różnicą, że manifest jest myślowy a rewolucja cicha i powolna.
+Każda osoba, która dziś z pisze na maszynie, pisze z powodu, który wpisuje się w 
+założenia manifestu. Trudno jest pisać na maszynie z innych powodów.
+
+O inicjatorze inicjatywy manifestu, dzielenia się swoimi przemyśleniami na temat
+tych kilku zdań i tłumaczenia ich na inne języki można przeczytać [na tej stronie][0].
 
 ![manifest maszynopisania](./images/manifest/manifest-pisanie-na-maszynie-typosphere.jpg)
 
-
-
-
+Transkrybcja OCR:
 
 ```
 MANIFEST MASZYNOPISANIA

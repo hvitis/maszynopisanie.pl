@@ -1,14 +1,13 @@
-import { markdownify } from "@lib/utils/textConverter";
-import { shortcodes } from "@shortcodes/all";
-import { MDXRemote } from "next-mdx-remote";
-import Image from "next/image";
-import Social from "./components/Social";
+import { markdownify } from '@lib/utils/textConverter';
+import { shortcodes } from '@shortcodes/all';
+import { MDXRemote } from 'next-mdx-remote';
+import Image from 'next/image';
+import Social from './components/Social';
 
 const About = ({ data }) => {
   const { frontmatter, mdxContent } = data;
   const { title, image, social } = frontmatter;
 
-  // TODO: social check for emptiness 
   return (
     <section className="section">
       <div className="container text-center">
@@ -23,8 +22,9 @@ const About = ({ data }) => {
             />
           </div>
         )}
-        {markdownify(title, "h1", "h2")}
-        <Social source={social} className="social-icons-simple my-8" />
+        {markdownify(title, 'h1', 'h2')}
+
+        {social ? <Social source={social} className="social-icons-simple my-8" /> : null}
 
         <div className="content">
           <MDXRemote {...mdxContent} components={shortcodes} />
