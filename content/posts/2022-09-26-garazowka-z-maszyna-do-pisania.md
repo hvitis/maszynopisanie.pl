@@ -2,7 +2,7 @@
 title: "Maszynopisanie na Garażówce."
 description: "Dlaczego warto mieć ze sobą maszynę na wyprzedażach i wydarzeniach."
 date: 2022-09-26T05:00:00Z
-image: "/images/posts/2022-09-26/maszynopisanie-pl.png"
+image: "/images/posts/2022-09-26/maszynopisanie-pl.jpeg"
 categories: ["wydarzenia"]
 authors: ["Adam"]
 tags: ["kupowanie", "pisanie publicznie"]
