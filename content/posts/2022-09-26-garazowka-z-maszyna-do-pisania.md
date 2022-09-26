@@ -2,7 +2,7 @@
 title: "Maszynopisanie na Garażówce."
 description: "Dlaczego warto mieć ze sobą maszynę na wyprzedażach i wydarzeniach."
 date: 2022-09-26T05:00:00Z
-image: "/images/posts/2022-09-26/wiersz-na-maszynie.png"
+image: "/images/posts/2022-09-26/maszynopisanie-pl.png"
 categories: ["wydarzenia"]
 authors: ["Adam"]
 tags: ["kupowanie", "pisanie publicznie"]
@@ -23,7 +23,7 @@ Klak, klak, klak, ding. Delikatny dzwoneczek przykuwał uwagę i ludzie nawet py
 
 Najpierw napisałem kilka zalet maszyn do pisania a potem przerzuciłem się na pisanie wierszyków w miarę jak odwiedzali mnie znajomi.
 
-![publiczne pisanie wierszy na maszynie](./images/posts/2022-09-26/garazowka-maszyna-do-pisania.jpeg)
+![publiczne pisanie wierszy na maszynie](./images/posts/2022-09-26/wiersz-na-maszynie.png)
 
 Wspaniałe wydarzenie wspierające ekonomię cyrkularną, kontakt między ludźmi i pozwalające
 na sprzedanie połowy książek, które przytachałem w walizkach!
