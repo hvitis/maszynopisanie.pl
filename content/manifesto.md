@@ -9,8 +9,7 @@ Tytuł brzmi poważnie! Tak jakbyśmy mieli tę rewolucję prowadzić albo tak j
 się dokonać na bardzo jasnych zasadach.
 
 Otóż tak też i jest z tą różnicą, że manifest jest myślowy a rewolucja cicha i powolna.
-Każda osoba, która dziś z pisze na maszynie, pisze z powodu, który wpisuje się w 
-założenia manifestu. Trudno jest pisać na maszynie z innych powodów.
+Każda osoba, która dziś z pisze na maszynie, pisze na niech z [różnych powodów][1], które po prostu w manifeście są podsumowane w sposób ogólny.
 
 O inicjatorze inicjatywy manifestu, dzielenia się swoimi przemyśleniami na temat
 tych kilku zdań i tłumaczenia ich na inne języki można przeczytać [na tej stronie][0].
@@ -49,3 +48,4 @@ REWOLUCJA BĘDZIE NAPISANA NA MASZYNIE
 Tłum. Maszynista
 
 [0]: https://typewriterinsurgency.webstarts.com/
+[1]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
