@@ -9,7 +9,7 @@ tags: ["maszyny", "pisanie"]
 draft: false
 ---
 
-Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak to używał ich w Polsce? Na to pytanie postaramy odpowiedzieć się tutaj. Jeśli wiesz jeszcze o kimś kogo tutaj nie wymieniłem, lub któraś z maszyn jest źle nazwana - [daj mi znać][2]. 
+Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak kto używał ich w Polsce? Na to pytanie postaramy się tutaj odpowiedzieć. Jeśli wiesz jeszcze o kimś kogo tutaj nie wymieniłem lub któraś z maszyn jest źle nazwana - [daj mi znać][2]. 
 
 ## Maszyny do Pisania i ich Twórczy Właściciele
 
