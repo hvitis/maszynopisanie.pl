@@ -63,13 +63,28 @@ Swoją Olympie przywiozła ze Stanów Zdjednoczonych. Można ją zobaczyć w [Mu
 ![maszyna do pisania i Ryszard Kapuściński](./images/posts/2022-10-02/08-halina-poswiatowska-maszyna-do-pisania-muzeum.jpeg)
 _Maszyna do Pisania Haliny Poświatowskiej_
 
-8. Bolesław Prus
+8. Bolesław Prus - jeden z najwybitniejszych i najważniejszych pisarzy w historii literatury polskiej.
 
-9. Mieczysław Grydzewski
+Był zafascynowany nowinkami technologicznymi w tym maszyną do pisania. W [rozprawie Agaty Grabowskiej-Kuniczuk i Marty Parnowskiej][12] o tej fascynacji możemy dowiedzieć się wszystkiego na ten temat. Tego, że pisał na maszynie Hammond czy tego, że jego nieczytelny charakter pisma mógł przestać być problemem w zawodzie pisarza. Niewątpliwie jest to jedna z zalet maszyn do pisania (o innych można przeczytać [tutaj][13]).
 
-10. Bolesław Leśmian
+![maszyna do pisania Bolesława Prusa](./images/posts/2022-10-02/11-bolesawa-prusa-maszyna-do-pisania.jpeg)
+_Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
-11. Gustaw Herling‑Grudziński
+
+9. Mieczysław Grydzewski - 
+
+10. Bolesław Leśmian - polski poeta i prozaik żydowskiego pochodzenia, czołowy przedstawiciel literatury dwudziestolecia międzywojennego, krytyk literacki.
+
+![maszyna do pisania i Bolesław Leśmian](./images/posts/2022-10-02/15-boleslaw-lesmian-maszyna-do-pisania.webp)
+
+
+11. Gustaw Herling‑Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
+
+![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/13-herling-grudzinski-maisons-lafitte-1987-wk.jpeg)
+
+![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/12-gustaw-herling-grudzinski-maszyna-do-pisania.jpeg)
+_Na biurku przenośna maszyna do pisania._
+
 
 12. Jan Himilsbach
 
@@ -98,3 +113,7 @@ Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarc
 [9]: https://www.national-geographic.pl/artykul/ryszard-kapuscinski-chlopiec-z-pinska?page=3
 [10]: https://pl.wikipedia.org/wiki/Muzeum_Haliny_Poświatowskiej
 [11]: http://gs.uni.opole.pl/nie-dzwonic-umarlam/
+[12]: https://rcin.org.pl/Content/64416/PDF/WA248_83673_P-I-2795_kuniczuk-boleslawa_o.pdf
+[13]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
+
+[15]: http://polaneis.pl/miejsca/muzeum-boleslawa-prusa-w-naleczowie-lubelszczyzna-jakosc-obslugi-zwiedzajacych-w-tym-muzeum-to-dramat
