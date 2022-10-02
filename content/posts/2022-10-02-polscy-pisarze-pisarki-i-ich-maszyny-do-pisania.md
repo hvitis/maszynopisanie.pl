@@ -99,7 +99,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 
 
-11. Gustaw Herling‑Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
+11. Gustaw Herling-Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
 
 ![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/13-herling-grudzinski-maisons-lafitte-1987-wk.jpeg)
 
@@ -108,7 +108,7 @@ _Na biurku przenośna maszyna do pisania._
 
 
 
-12. Maria Dąbrowska - polska powieściopisarka, eseistka, dramatopisarka, tłumaczka dzieł literatury duńskiej, angielskiej i rosyjskiej; jedna z najważniejszych polskich powieściopisarek XX wieku, autorka tetralogii powieściowej Noce i dnie (1931–1934), za którą była nominowana do Nagrody Nobla w dziedzinie literatury w 1939, 1957, 1959, 1960 i 1965[1].
+12. Maria Dąbrowska - polska powieściopisarka, eseistka, dramatopisarka, tłumaczka dzieł literatury duńskiej, angielskiej i rosyjskiej; jedna z najważniejszych polskich powieściopisarek XX wieku, autorka tetralogii powieściowej Noce i dnie (1931–1934), za którą była nominowana do Nagrody Nobla w dziedzinie literatury w 1939, 1957, 1959, 1960 i 1965.
 
 ![maszyna do pisania i Maria Dąbrowska](./images/posts/2022-10-02/20-maria-dabrowska-maszyna-do-pisania.jpg)
 _Zdjęcie Lucjan Fogiel / East News._
