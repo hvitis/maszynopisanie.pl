@@ -5,14 +5,13 @@ layout: "about"
 draft: false
 ---
 
-Tytuł brzmi poważnie! Tak jakbyśmy mieli tę rewolucję prowadzić albo tak jakby ta rewolucja miała
-się dokonać na bardzo jasnych zasadach.
+Tytuł brzmi poważnie! Tak jakbyśmy mieli tę rewolucję prowadzić albo tak jakby ta rewolucja miała wybuchać.
 
 Otóż tak też i jest z tą różnicą, że manifest jest myślowy a rewolucja cicha i powolna.
-Każda osoba, która dziś z pisze na maszynie, pisze na niech z [różnych powodów][1], które po prostu w manifeście są podsumowane w sposób ogólny.
+Każda osoba, która dziś pisze na maszynie, pisze na nie z [różnych powodów][1], które są po prostu w manifeście podsumowane w sposób ogólny.
 
-O inicjatorze inicjatywy manifestu, dzielenia się swoimi przemyśleniami na temat
-tych kilku zdań i tłumaczenia ich na inne języki można przeczytać [na tej stronie][0].
+O inicjatorze inicjatywy manifestu, dzieleni się swoimi przemyśleniami na temat
+tych kilku zdań ora tłumaczenia manifest na inne języki można przeczytać [na tej stronie][0].
 
 ![manifest maszynopisania](./images/manifest/manifest-pisanie-na-maszynie-typosphere.jpg)
 
