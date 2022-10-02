@@ -79,7 +79,6 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 ![maszyna do pisania i Bolesław Leśmian](./images/posts/2022-10-02/15-boleslaw-lesmian-maszyna-do-pisania.webp) _Maszyna do pisania Bolesława Leśmiana w muzeum w Iłży. ([źródło][16])_
 
-
 11. Gustaw Herling‑Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
 
 ![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/13-herling-grudzinski-maisons-lafitte-1987-wk.jpeg)
@@ -87,22 +86,39 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 ![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/12-gustaw-herling-grudzinski-maszyna-do-pisania.jpeg)
 _Na biurku przenośna maszyna do pisania._
 
+12. Maria Dąbrowska - polska powieściopisarka, eseistka, dramatopisarka, tłumaczka dzieł literatury duńskiej, angielskiej i rosyjskiej; jedna z najważniejszych polskich powieściopisarek XX wieku, autorka tetralogii powieściowej Noce i dnie (1931–1934), za którą była nominowana do Nagrody Nobla w dziedzinie literatury w 1939, 1957, 1959, 1960 i 1965[1].
 
-12. Mieczysław Grydzewski
+![maszyna do pisania i Maria Dąbrowska](./images/posts/2022-10-02/20-maria-dabrowska-maszyna-do-pisania.jpg)
+_Zdjęcie Lucjan Fogiel / East News._
 
-13. Maria Dąbrowska
-
-14. Władysław Konopczyński
-
-15. Stefan Łoś
-
-16. Julian Stryjkowski
-
-17. Karol Hubert Rostworowski
+![maszyna do pisania i Maria Dąbrowska](./images/posts/2022-10-02/21-maria-dabrowska-maszyna-do-pisania.jpg)
+_Maszyna do pisania Marii Dąbrowskiej ([źródło][21])._
 
 
+13. Stefan Łoś - pisarz, działacz harcerski, podróżnik. Był ofiarą dwóch totalitaryzmów, które zawładnęły polską.
 
-Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarczuk][6], 
+> Stanisław Łoś wielokrotnie pomagał Markowi, dawał schronienie, zapewniał opiekę, zabiegał o stypendia, a przede wszystkim zachęcał do pisania. 9 czerwca 1953 r. Hłasko pisał do matki: "Idealnym wręcz człowiekiem o ogromnej wprost dobroci jest dla mnie p. Łoś. Podtrzymuje mnie na duchu, pożycza książki i forsę. Daje mi swoje mieszkanie do dyspozycji, pożycza maszynę do pisania. Robi wszystko, żeby mnie zachęcić do pisania i umożliwia mi pracę. Takiej dobroci nie spotyka się na ogół". ([źródło][22])
+
+14. Julian Stryjkowski -  filolog polski i pisarz żydowskiego pochodzenia, doktor nauk humanistycznych (1932), prozaik, autor opowiadań, dramaturg i dziennikarz.
+
+![maszyna do pisania i Julian Stryjkowski](./images/posts/2022-10-02/19-julian-stryjkowski-maszyna-do-pisania.jpg)
+_Maszyna Juliana Stryjkowskiego ([źródło][18])_
+
+15. [Karol Hubert Rostworowski][17] -  polski dramaturg i poeta, muzyk; publicysta, stronnik Obozu Wielkiej Polski.
+
+![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/17-prof-rostworowski-maszyna-do-pisania.webp)
+_Zdjęcie dzięki uprzejmości [pani Magdy][14]._
+
+16. Mieczysław Grydzewski - polski historyk pochodzenia żydowskiego, felietonista, dziennikarz, redaktor czasopisma „Skamander” oraz tygodnika „Wiadomości Literackie”.
+
+![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/22-mieczysław-grydzewski-maszyna-do-pisania-olimpia.webp)
+_Biurko wraz z maszyną Olympia w biurze redakcji Londyńskich._
+
+
+
+
+
+Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarczuk][6], Władysław Konopczyński.
 
 [1]: https://site.xavier.edu/polt/typewriters/typers.html
 [2]: https://www.maszynopisanie.pl/contact
@@ -117,6 +133,11 @@ Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarc
 [11]: http://gs.uni.opole.pl/nie-dzwonic-umarlam/
 [12]: https://rcin.org.pl/Content/64416/PDF/WA248_83673_P-I-2795_kuniczuk-boleslawa_o.pdf
 [13]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
-
+[14]: https://www.rybna-zdjeciaispacery.com/amp/rybna-odrodzenie
 [15]: http://polaneis.pl/miejsca/muzeum-boleslawa-prusa-w-naleczowie-lubelszczyzna-jakosc-obslugi-zwiedzajacych-w-tym-muzeum-to-dramat
 [16]: https://www.polishnews.com/lesmian-czyli-wycieczka-do-ilzy
+[17]: https://culture.pl/pl/tworca/karol-hubert-rostworowski
+[18]: https://www.polin.pl/pl/aktualnosci/2016/08/08/maszyna-do-pisania-juliana-stryjkowskiego
+
+[21]: http://polaneis.pl
+[22]: https://kultura.onet.pl/ksiazki/65-lat-temu-zmarl-stefan-los-byl-stolownikiem-ubogim-krewnym-przypominajacym-wieslawa/fm9bhs4.amp
