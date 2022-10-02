@@ -45,7 +45,7 @@ _Publicysta "Przekroju" Leopold Tyrmand pisze na maszynie podczas meczu Pucharu 
 
 5. [Ryszard Kapuściński][7] - dziennikarz, pisarz, podróżnik.
 
-O warsztacie pisania mówi rozlegle w książke "[Pisanie][7]", która jest wywiadem oraz filmem DVD nakręconym podczas rozmowy. W wywiadzie, który można częściowo przesłuchać [tutaj][8], pada cytat:
+O warsztacie pisania mówi rozlegle w książce "[Pisanie][7]", która jest wywiadem do którego dołączony jes film DVD nakręconym podczas rozmowy. W wywiadzie, który można częściowo przesłuchać [tutaj][8], pada cytat:
 
 > Maszyna do pisania jest dla niego bogiem.
 
