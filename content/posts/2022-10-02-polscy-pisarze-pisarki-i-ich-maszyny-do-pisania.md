@@ -24,14 +24,12 @@ Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wiek
 > Gotowe wiersze Szymborska przepisuje na maszynie marki Erika albo Łucznik natomiast korekty redakcyjne wprowadza już w komputerze. ([cytat][3])
 
 ![maszyna do pisania Wisławy Szymborskiej](./images/posts/2022-10-02/05-wislawa-szymborska-maszyna-do-pisania.jpeg)
-
 _Maszyna do pisania Łucznik 1301 Wisławy Szymborskiej w [Muzeum Narodowym w Krakowie](https://mnk.pl/wystawy/szuflada-szymborskiej)_
 
 
 3. [Leopola Tyrmand][5] - polski pisarz i publicysta, popularyzator jazzu w Polsce.
 
 ![maszyna do pisania i Leopold Tyrmand](./images/posts/2022-10-02/04-leopold-tyrmand-korty-legii-15-05-1947-maszyna-do-pisania.jpeg)
-
 _Publicysta "Przekroju" Leopold Tyrmand pisze na maszynie podczas meczu Pucharu Davisa na kortach warszawskiej Legii, 15.05.1947, fot. CAF / PAP_
 
 
