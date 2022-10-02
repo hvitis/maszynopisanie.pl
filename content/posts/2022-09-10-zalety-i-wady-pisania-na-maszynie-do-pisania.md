@@ -10,8 +10,7 @@ draft: false
 ---
 
 
-Ludzie używający maszyn do pisania dzisiaj wymieniają liczne zalety ich użytkowania. Poprosiłem społeczność maszynową o ich wymienienie i otrzymałem następujące zestawienie:
-
+Ludzie używający maszyn do pisania dzisiaj wymieniają liczne zalety ich użytkowania. Poprosiłem społeczność maszynową o ich wymienienie i otrzymałem następujące zestawienie.
 
 Ludzie uwielbiają pisać na maszynie. Mnóstwo zachwytu odnosiło się do podobnych plusów. Wymieniano ich mnóstwo, niektóre się powtarzały. Podsumowałem te wypowiedzi tak, że można z nich wyciągnąć następujące zalety:
 
@@ -33,27 +32,27 @@ Mniej ale nadal często:
 - Cena - maszyny są dziś tanie.
 - Stukot nawet najcichszej maszyny do pisania to dobry sygnał dla mojej żony, że jestem zajęty pisaniem.
 - Most łączący pomiędzy wewnętrznym umysłem a sferą zewnętrzną.
-- Zabawne, prowokujące do myślenia, łatwe do zrozumienia (w przeciwieństwie do niektórych dzisiejszych technologii przeznaczonych dla ptaków), umiejętność wskakiwania i pisania od razu w porównaniu do czekania na włączenie, załadowanie komputera i wydrukowanie.
 - Łatwiejsze pisanie poezji poprzez fizyczną kontrolę tekstu, marginesów, akapitów i kolorów. (Polecam [tekst o polskich pisarkach][2], które używały maszyn do pisania.)
 - Brak losowej utraty pisania dzięki decyzji komputera o rozpoczęciu instalowania aktualizacji!
-- To sztuka! Nawet jeśli nie uważasz, że jesteś artystą, teraz jesteś!
+- To sztuka! Nawet jeśli nie uważasz, że jesteś artystą, teraz już jesteś!
 - Żadnych zakłóceń podczas pisania. Tylko ja i maszyna, żadnej innej z setek aplikacji, które mam na komputerze.
-- Nie możesz cofnąć się, więc musisz po prostu pisać i edytować później, co jest świetne, aby wszystkie pomysły zostały zapisane na papierze, a nie do samodzielnej edycji podczas pisania, co spowalnia wszystko.
+- Nie możesz cofnąć się, więc musisz po prostu pisać i edytować później, co jest świetne, aby wszystkie pomysły zostały zapisane na papierze.
 - Nie musisz podłączać maszyny do prądu. Jest zasilana przez użytkownika i jego palce/myśli.
 - To o wiele przyjemniejsze niż pisanie na komputerze.
 - Setki, a nawet tysiące malutkich uderzeń dopaminy podczas każdej sesji.
-- Podnieca lepszych członków płci przeciwnej. Nudzi ludzie będą cię unikać, gorące, błyskotliwe i ciekawe osoby uznają że jesteś zniewalający.
-- Spowalnia mnie, jednocześnie pozwalając mi pisać, gdy pracuję nad opowiadaniem lub powieścią, która sprawia mi kłopoty. Kiedy jednak pomysły pojawiają się szybciej, muszę być w stanie pisać bezwzrokowo. Maszyny do pisania są szczególnie dobre do pisania poezji, ponieważ uświadamiają ci czcionkę na stronie, rytm, przestrzeń. I uświadamiają ci wybór każdego słowa.
+- Podnieca lepszych członków płci przeciwnej. Nudni ludzie będą cię unikać, gorące, błyskotliwe i ciekawe osoby uznają że jesteś zniewalający.
+- Spowalnia mnie, jednocześnie pozwalając mi pisać, gdy pracuję nad opowiadaniem lub powieścią, która sprawia mi kłopoty. 
+- Maszyny do pisania są szczególnie dobre do pisania poezji, ponieważ uświadamiają ci czcionkę na stronie, rytm, przestrzeń i uświadamiają ci wybór każdego słowa.
 - Daje pewność w wyrażaniu swoich uczuć.
-- Ręczna maszyna do pisania jest solidna, solidna i wytrzymała, która ma duszę. Komputer to zabawkowe urządzenie e-gadżetarne z paskudnymi, akcesoriami Made in China.
+- Nawet przenośna maszyna do pisania jest solidna, trwała i wytrzymała. Ma duszę.
 - Jestem zmuszona poświęcić trochę czasu, aby naprawdę pomyśleć o tym, co piszę i jak będą układane moje słowa.
 - Moim zdaniem pisanie na maszynie rozwija, bo musisz od razu mieć w głowie szkielet całego tekstu. Dodatkowo ja używam maszyny, aby wypełniać wszelkiej maści druki urzędowe. Wbrew pozorom jest ich dość sporo do wypełniania (w mojej branży), a na maszynie jest to najłatwiejsze - dużo szybsze jak na komputerze moim zdaniem.
 - Zapach
 
-Najrzadziej wymieniane jednaj po namyśle najważniejsze:
+Najrzadziej wymieniane jednak po namyśle najważniejsze:
 
 - To ostatni bastion poufnego pisania. Żadne złośliwe oprogramowanie nie może szpiegować naciśnięć klawiszy.
-- To teraz forma mojej Terapii. Po udarze zostałem częściowo sparaliżowany i moja żona kazała mi kupić maszynę do pisania. Teraz mam ich ponad 20. Po prostu CZUJE SIĘ WŁAŚCIWE kiedy piszę na niej i wlewam swoją duszę w list. Wyobrażam sobie, że ktoś to bardziej doceni. Kup jedną a pokochasz ją !!!
+- To teraz forma mojej Terapii. Po udarze zostałem częściowo sparaliżowany i moja żona kazała mi kupić maszynę do pisania. Teraz mam ich ponad 20. Po prostu CZUJE SIĘ WŁAŚCIWE kiedy piszę na niej i wlewam swoją duszę w list. Wyobrażam sobie, że ktoś to bardziej doceni. Kup jedną a pokochasz ją!
 
 
 Moi faworyci to:
