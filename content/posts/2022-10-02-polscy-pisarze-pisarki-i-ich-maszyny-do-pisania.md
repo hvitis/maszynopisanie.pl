@@ -89,7 +89,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 9. Jan Himilsbach - aktor, pisarz.
 
-![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/16-jan-himilsbach-maszyna-do-pisania.jpeg15-boleslaw-lesmian-maszyna-do-pisania.webp) _Maszyna do pisania i Jan Himilsbach_
+![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/16-jan-himilsbach-maszyna-do-pisania.jpeg) _Maszyna do pisania i Jan Himilsbach_
 
 
 
