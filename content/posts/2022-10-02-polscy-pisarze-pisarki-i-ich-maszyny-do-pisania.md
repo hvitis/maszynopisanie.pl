@@ -154,7 +154,7 @@ _Melchior Wańkowicz, Warszawa, 1963Foto: PAP/CAF-Stanisław Dąbrowiecki /bp/_
 
 
 
-9. Marek Hłasko - pisarz i scenarzysta filmowy.
+18. Marek Hłasko - pisarz i scenarzysta filmowy.
 
 ![maszyna do pisania i Marek Hłasko](./images/posts/2022-10-02/16-marek-hlasko-maszyna-do-pisania.jpeg) _Maszyna do pisania Rheinmetall KsT i Marek Hłasko_
 
