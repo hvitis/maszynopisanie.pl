@@ -89,7 +89,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 9. Jan Himilsbach - aktor, pisarz.
 
-![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/16-jan-himilsbach-maszyna-do-pisania.jpeg) _Maszyna do pisania i Jan Himilsbach_
+![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/26-jan-himilsbach-maszyna-do-pisania.jpg) _Maszyna do pisania i Jan Himilsbach_
 
 
 
@@ -151,6 +151,13 @@ _Biurko wraz z maszyną Olympia w biurze redakcji Londyńskich._
 
 ![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/23-melchior-wankowicz-maszyna-do-pisania.jpg)
 _Melchior Wańkowicz, Warszawa, 1963Foto: PAP/CAF-Stanisław Dąbrowiecki /bp/_
+
+
+
+9. Marek Hłasko - pisarz i scenarzysta filmowy.
+
+![maszyna do pisania i Marek Hłasko](./images/posts/2022-10-02/16-marek-hlasko-maszyna-do-pisania.jpeg) _Maszyna do pisania Rheinmetall KsT i Marek Hłasko_
+
 
 
 Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarczuk][6], Władysław Konopczyński, [Jerzy Kosinski][20] czy Stefan Łoś.
