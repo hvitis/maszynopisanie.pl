@@ -114,8 +114,10 @@ _Zdjęcie dzięki uprzejmości [pani Magdy][14]._
 ![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/22-mieczysław-grydzewski-maszyna-do-pisania-olimpia.webp)
 _Biurko wraz z maszyną Olympia w biurze redakcji Londyńskich._
 
+17. Melchior Wańkowicz - polski pisarz, dziennikarz, reportażysta i publicysta.
 
-
+![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/23-melchior-wankowicz-maszyna-do-pisania.jpg)
+_Melchior Wańkowicz, Warszawa, 1963Foto: PAP/CAF-Stanisław Dąbrowiecki /bp/_
 
 
 Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarczuk][6], Władysław Konopczyński.
