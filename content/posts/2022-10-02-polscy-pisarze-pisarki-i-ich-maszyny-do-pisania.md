@@ -71,11 +71,13 @@ Był zafascynowany nowinkami technologicznymi w tym maszyną do pisania. W [rozp
 _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 
-9. Mieczysław Grydzewski - 
+9. Jan Himilsbach - aktor, pisarz.
+
+![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/16-jan-himilsbach-maszyna-do-pisania.jpeg15-boleslaw-lesmian-maszyna-do-pisania.webp) _Maszyna do pisania i Jan Himilsbach_
 
 10. Bolesław Leśmian - polski poeta i prozaik żydowskiego pochodzenia, czołowy przedstawiciel literatury dwudziestolecia międzywojennego, krytyk literacki.
 
-![maszyna do pisania i Bolesław Leśmian](./images/posts/2022-10-02/15-boleslaw-lesmian-maszyna-do-pisania.webp)
+![maszyna do pisania i Bolesław Leśmian](./images/posts/2022-10-02/15-boleslaw-lesmian-maszyna-do-pisania.webp) _Maszyna do pisania Bolesława Leśmiana w muzeum w Iłży. ([źródło][16])_
 
 
 11. Gustaw Herling‑Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
@@ -86,7 +88,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 _Na biurku przenośna maszyna do pisania._
 
 
-12. Jan Himilsbach
+12. Mieczysław Grydzewski
 
 13. Maria Dąbrowska
 
@@ -117,3 +119,4 @@ Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarc
 [13]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
 
 [15]: http://polaneis.pl/miejsca/muzeum-boleslawa-prusa-w-naleczowie-lubelszczyzna-jakosc-obslugi-zwiedzajacych-w-tym-muzeum-to-dramat
+[16]: https://www.polishnews.com/lesmian-czyli-wycieczka-do-ilzy
