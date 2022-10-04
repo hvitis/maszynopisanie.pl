@@ -126,30 +126,30 @@ _Gabinet Juiana Tuwima w Muzeum Miasta Łodzi. (zdjęcie: J.C.)_
 
 
 
-14. Julian Stryjkowski -  filolog polski i pisarz żydowskiego pochodzenia, doktor nauk humanistycznych (1932), prozaik, autor opowiadań, dramaturg i dziennikarz.
+14. Julian Stryjkowski - filolog polski i pisarz żydowskiego pochodzenia, doktor nauk humanistycznych (1932), prozaik, autor opowiadań, dramaturg i dziennikarz.
 
 ![maszyna do pisania i Julian Stryjkowski](./images/posts/2022-10-02/19-julian-stryjkowski-maszyna-do-pisania.jpg)
 _Maszyna Juliana Stryjkowskiego ([źródło][18])_
 
 
 
-15. [Karol Hubert Rostworowski][17] -  polski dramaturg i poeta, muzyk; publicysta, stronnik Obozu Wielkiej Polski.
+15. [Emanuel Rostworowski][17] - polski historyk, profesor, członek Polskiej Akademii Nauk.
 
-![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/17-prof-rostworowski-maszyna-do-pisania.webp)
-_Zdjęcie dzięki uprzejmości [pani Magdy][14]._
+![maszyna do pisania Emanuela Rostworowskiego](./images/posts/2022-10-02/17-prof-rostworowski-maszyna-do-pisania.webp)
+_Zdjęcie dzięki uprzejmości [pani Kingi][14]._
 
 
 
 16. Mieczysław Grydzewski - polski historyk pochodzenia żydowskiego, felietonista, dziennikarz, redaktor czasopisma „Skamander” oraz tygodnika „Wiadomości Literackie”.
 
-![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/22-mieczysław-grydzewski-maszyna-do-pisania-olimpia.webp)
+![maszyna do pisania Mieczysława Grydzewskiego](./images/posts/2022-10-02/22-mieczysław-grydzewski-maszyna-do-pisania-olimpia.webp)
 _Biurko wraz z maszyną Olympia w biurze redakcji Londyńskich._
 
 
 
 17. Melchior Wańkowicz - polski pisarz, dziennikarz, reportażysta i publicysta.
 
-![maszyna do pisania Karol Hubert Rostworowski](./images/posts/2022-10-02/23-melchior-wankowicz-maszyna-do-pisania.jpg)
+![maszyna do pisania i Melchior Wańkowicz](./images/posts/2022-10-02/23-melchior-wankowicz-maszyna-do-pisania.jpg)
 _Melchior Wańkowicz, Warszawa, 1963Foto: PAP/CAF-Stanisław Dąbrowiecki /bp/_
 
 
@@ -178,7 +178,7 @@ Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarc
 [14]: https://www.rybna-zdjeciaispacery.com/amp/rybna-odrodzenie
 [15]: http://polaneis.pl/miejsca/muzeum-boleslawa-prusa-w-naleczowie-lubelszczyzna-jakosc-obslugi-zwiedzajacych-w-tym-muzeum-to-dramat
 [16]: https://www.polishnews.com/lesmian-czyli-wycieczka-do-ilzy
-[17]: https://culture.pl/pl/tworca/karol-hubert-rostworowski
+[17]: https://pl.wikipedia.org/wiki/Emanuel_Rostworowski
 [18]: https://www.polin.pl/pl/aktualnosci/2016/08/08/maszyna-do-pisania-juliana-stryjkowskiego
 [19]: http://dompoezji.muzeumczestochowa.pl/galeria/
 [20]: https://bi.im-g.pl/im/00/fb/12/z19904512IHR,Gabinet-Jerzego-Kosinskiego--Muzeum-Miasta-Lodzi.jpg
