@@ -1,7 +1,7 @@
 ---
 title: "Materiały do Pobrania"
 meta_title: "Plakaty, artykuły, zdjęcia i inne pliki - wszystkie o maszynach do pisania!"
-image: "/pobierz/debby-hudson-typewriter-posters-materials-download.jpg"
+image: "/pobierz/luca-onniboni-olivetti-typewriter-big-32-lettera.jpg"
 layout: "about"
 draft: false
 ---
