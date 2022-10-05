@@ -11,3 +11,7 @@ You can use the normal Next.js method to run the frontend. Just run the followin
 ```
 yarn dev
 ```
+
+### Contributors
+
+Adam P.
