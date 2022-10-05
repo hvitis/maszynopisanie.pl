@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Książki",
+      "url": "/books"
+    },
+    {
       "name": "Manifest",
       "url": "/manifesto"
     },
