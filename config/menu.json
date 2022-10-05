@@ -30,12 +30,8 @@
           "url": "/maszynolity"
         },
         {
-          "name": "Kategorie",
-          "url": "/categories"
-        },
-        {
-          "name": "Tagi",
-          "url": "/tags"
+          "name": "Pobierz",
+          "url": "/pobierz"
         }
       ]
     }
