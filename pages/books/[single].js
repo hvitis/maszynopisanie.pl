@@ -1,13 +1,13 @@
-import Authors from "@layouts/Authors";
+import Books from "@layouts/Books";
 import { getSinglePages, getSinglePagesSlug } from "@lib/contents";
 import { parseMDX } from "@lib/utils/mdxParser";
 
 // post single layout
-const Article = ({ author, mdxContent }) => {
-  const { frontmatter, content } = author[0];
+const Article = ({ book, mdxContent }) => {
+  const { frontmatter, content } = book[0];
 
   return (
-    <Authors
+    <Books
       frontmatter={frontmatter}
       content={content}
       mdxContent={mdxContent}
@@ -17,7 +17,7 @@ const Article = ({ author, mdxContent }) => {
 
 // get post single slug
 export const getStaticPaths = () => {
-  const allSlug = getSinglePagesSlug("content/authors");
+  const allSlug = getSinglePagesSlug("content/books");
   const paths = allSlug.map((slug) => ({
     params: {
       single: slug,
@@ -33,13 +33,16 @@ export const getStaticPaths = () => {
 // get post single content
 export const getStaticProps = async ({ params }) => {
   const { single } = params;
+  const getBooks = getSinglePages("content/books");
   const getAuthors = getSinglePages("content/authors");
-  const author = getAuthors.filter((author) => author.slug == single);
-  const mdxContent = await parseMDX(author[0].content);
+  const book = getBooks.filter((book) => book.slug == single);
+  const authors = getAuthors
+  const mdxContent = await parseMDX(book[0].content);
 
   return {
     props: {
-      author: author,
+      book: book,
+      authors: authors,
       mdxContent: mdxContent,
       slug: single,
     },

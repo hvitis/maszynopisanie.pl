@@ -12,11 +12,13 @@ const BookPagination = ({
   books,
   currentPage,
   pagination,
+  authors,
 }) => {
   const indexOfLastBook = currentPage * pagination;
   const indexOfFirstBook = indexOfLastBook - pagination;
   const totalPages = Math.round(books.length / pagination);
   const currentBooks = books.slice(indexOfFirstBook, indexOfLastBook);
+  const allAuthors = authors;
   const { frontmatter, content } = bookIndex;
   const { title } = frontmatter;
 
@@ -25,7 +27,7 @@ const BookPagination = ({
       <section className="section">
         <div className="container text-center">
           {markdownify(title, "h1", "h2 mb-16")}
-          <BookList books={currentBooks} />
+          <BookList books={currentBooks} authors={allAuthors}/>
           <Pagination
             section="books"
             totalPages={totalPages}
