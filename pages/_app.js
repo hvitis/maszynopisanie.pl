@@ -5,6 +5,7 @@ import Head from "next/head";
 import { useEffect, useState } from "react";
 import "styles/style.scss";
 import { GoogleAnalytics } from "nextjs-google-analytics";
+import { ThemeProvider } from 'next-themes';
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
@@ -22,6 +23,8 @@ const App = ({ Component, pageProps }) => {
   }, [pf, sf]);
 
   return (
+    <ThemeProvider enableSystem={true} attribute="class">
+
     <JsonContext>
       <Head>
         {/* favicon */}
@@ -48,6 +51,7 @@ const App = ({ Component, pageProps }) => {
       <GoogleAnalytics trackPageViews />
       <Component {...pageProps} />
     </JsonContext>
+    </ThemeProvider>
   );
 };
 

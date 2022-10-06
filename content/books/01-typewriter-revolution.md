@@ -12,3 +12,6 @@ readingTime: 3
 
  
 Ksiażka filozofa
+
+
+![Pisanie na Maszynie w Wannie](/images/books/01-typewriter-revolution/typewriter_revolution_rewolucja.jpg)

@@ -1,9 +1,10 @@
-import Logo from "@components/Logo";
-import menu from "@config/menu.json";
-import SearchModal from "@layouts/partials/SearchModal";
-import Link from "next/link";
-import React, { useEffect, useState } from "react";
-import { IoSearch } from "react-icons/io5";
+import Logo from '@components/Logo';
+import menu from '@config/menu.json';
+import SearchModal from '@layouts/partials/SearchModal';
+import Link from 'next/link';
+import React, { useEffect, useState } from 'react';
+import { IoSearch } from 'react-icons/io5';
+import ThemeToggler from '../components/ThemeToggler';
 
 const Header = () => {
   // distructuring the main menu from menu object
@@ -21,14 +22,14 @@ const Header = () => {
         setNavFixed(false);
       }
     };
-    window.addEventListener("scroll", changeNavbarBackground);
+    window.addEventListener('scroll', changeNavbarBackground);
   });
 
   return (
     <>
       <header
         className={`sticky top-0 z-50 bg-white py-2 transition-all ${
-          navFixed ? "shadow" : "pt-8 md:pt-16"
+          navFixed ? 'shadow' : 'pt-8 md:pt-16'
         }`}
       >
         <nav className="navbar container">
@@ -70,25 +71,36 @@ const Header = () => {
             {main.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
                 {menu.hasChildren ? (
-                  <li className="nav-item nav-dropdown group relative">
-                    <span className="nav-link inline-flex items-center">
-                      {menu.name}
-                      <svg className="h-4 w-4 fill-current" viewBox="0 0 20 20">
-                        <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-                      </svg>
-                    </span>
-                    <ul className="nav-dropdown-list hidden group-hover:block md:invisible md:absolute md:block md:opacity-0 md:group-hover:visible md:group-hover:opacity-100">
-                      {menu.children.map((child, i) => (
-                        <li className="nav-dropdown-item" key={`children-${i}`}>
-                          <Link href={child.url} passHref>
-                            <a className="nav-dropdown-link block">
-                              {child.name}
-                            </a>
-                          </Link>
-                        </li>
-                      ))}
+                  <div className="flex">
+                    <li className="nav-item nav-dropdown group relative">
+                      <span className="nav-link inline-flex items-center">
+                        {menu.name}
+                        <svg
+                          className="h-4 w-4 fill-current"
+                          viewBox="0 0 20 20"
+                        >
+                          <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                        </svg>
+                      </span>
+                      <ul className="nav-dropdown-list hidden group-hover:block md:invisible md:absolute md:block md:opacity-0 md:group-hover:visible md:group-hover:opacity-100">
+                        {menu.children.map((child, i) => (
+                          <li
+                            className="nav-dropdown-item"
+                            key={`children-${i}`}
+                          >
+                            <Link href={child.url} passHref>
+                              <a className="nav-dropdown-link block">
+                                {child.name}
+                              </a>
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    </li>
+                    <ul className="my-auto">
+                      <ThemeToggler />
                     </ul>
-                  </li>
+                  </div>
                 ) : (
                   <li className="nav-item mr-5">
                     <Link href={menu.url} passHref>
