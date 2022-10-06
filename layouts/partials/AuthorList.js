@@ -2,7 +2,7 @@ import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import Link from "next/link";
 
-const Authors = ({ authors }) => {
+const AuthorList = ({ authors }) => {
   return (
     <div className="row justify-center">
       {authors.map((author, i) => (
@@ -33,4 +33,4 @@ const Authors = ({ authors }) => {
   );
 };
 
-export default Authors;
+export default AuthorList;

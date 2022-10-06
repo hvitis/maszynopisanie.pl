@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "clsx": "^1.2.1",
     "github-slugger": "^1.4.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.0.18",
