@@ -1,5 +1,6 @@
 @tailwind base;
 @tailwind components;
+@tailwind prism;
 @tailwind utilities;
 
 @layer base {
@@ -14,4 +15,7 @@
 
 @layer utilities {
   @import "utilities";
+}
+@layer prism {
+  @import "prism";
 }

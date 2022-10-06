@@ -5,8 +5,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 const BookList = ({ books, authors }) => {
-  console.log('Book Authors', authors);
-
   let mainAuthor = authors[0];
 
   return (
