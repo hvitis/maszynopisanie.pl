@@ -5,13 +5,17 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 const BookList = ({ books, authors }) => {
+  console.log('Book Authors', authors);
+
+  let mainAuthor = authors[0];
+
   return (
     <div className="row justify-center">
       <div className="relative px-4 pt-2 pb-20 sm:px-6 lg:px-8 lg:pt-4 lg:pb-28">
         <div className="mx-auto mt-3 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
           {books.map((book, i) => (
             <div
-              key={book.title}
+              key={i}
               className="flex flex-col overflow-hidden rounded-lg shadow-lg"
             >
               <div className="flex-shrink-0">
@@ -23,12 +27,12 @@ const BookList = ({ books, authors }) => {
                   height={192}
                 />
               </div>
-              <div className="flex flex-1 flex-col justify-between bg-white p-6">
+              <div className="flex flex-1 flex-col justify-between bg-white p-6 text-left">
                 <div className="flex-1">
                   <p className="text-sm font-medium text-indigo-600">
                     <a>{book.frontmatter.title}</a>
                   </p>
-                  <a
+                  <Link
                     href={`/books/${book.slug}`}
                     passHref
                     className="mt-2 block"
@@ -36,55 +40,33 @@ const BookList = ({ books, authors }) => {
                     <p className="text-xl font-semibold text-gray-900">
                       {book.frontmatter.title}
                     </p>
-                    <p className="mt-3 text-base text-gray-500">
-                      {book.frontmatter.description}
-                    </p>
-                  </a>
+                  </Link>
+                  <p className="mt-3 text-base text-gray-500">
+                    {book.frontmatter.description}
+                  </p>
                 </div>
                 <div className="mt-6 flex items-center">
                   <div className="flex-shrink-0">
-                    {
-                      <span className="author-image">
-                        <Image
-                          src={book.frontmatter.authors.image}
-                          alt={book.frontmatter.authors.title}
-                          height={50}
-                          width={50}
-                        />
-                      </span>
-                    }
-                    {/* {book.frontmatter.authors.map((author, i) => (
-                      <Link
-                        href={`/authors/${slugify(author.title)}`}
-                        key={`author-${i}`}
-                        passHref
-                      >
-                        <a className="inline-block hover:text-primary">
-                          {author.image && (
-                            <span className="author-image">
-                              <Image
-                                src={author.image}
-                                alt={author.title}
-                                height={50}
-                                width={50}
-                              />
-                            </span>
-                          )}
-                          <span>{author.title}</span>
-                        </a>
-                      </Link>
-                    ))} */}
-
-                    <a href={book.frontmatter.authors.title}>
+                    <Link
+                      href={`/authors/${slugify(mainAuthor.frontmatter.title)}`}
+                      key={`author-${i}`}
+                      passHref
+                    >
                       <span className="sr-only">
-                        {book.frontmatter.authors.name}
+                        {mainAuthor.frontmatter.title}
                       </span>
+                    </Link>
+                    <Link
+                      href={`/authors/${slugify(mainAuthor.frontmatter.title)}`}
+                      key={`author-${i}`}
+                      passHref
+                    >
                       <img
                         className="h-10 w-10 rounded-full"
-                        src={book.frontmatter.authors.image}
+                        src={mainAuthor.frontmatter.image}
                         alt=""
                       />
-                    </a>
+                    </Link>
                   </div>
                   <div className="ml-3">
                     <p className="text-sm font-medium text-gray-900">

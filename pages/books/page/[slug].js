@@ -67,6 +67,8 @@ export const getStaticProps = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
   const { pagination } = config.settings;
   const books = getSinglePages("content/books");
+  const authors = getSinglePages("content/authors");
+
   const bookIndex = await getListPage("content/books");
   const mdxContent = await parseMDX(bookIndex.content);
 
@@ -77,6 +79,7 @@ export const getStaticProps = async ({ params }) => {
       currentPage: currentPage,
       bookIndex: bookIndex,
       mdxContent: mdxContent,
+      authors: authors,
     },
   };
 };

@@ -5,7 +5,7 @@ import Image from "next/image";
 import Base from "./Baseof";
 import Social from "./components/Social";
 
-const Authors = ({ frontmatter, content, mdxContent }) => {
+const BookSingle = ({ frontmatter, content, mdxContent }) => {
   const { description, social, title, image } = frontmatter;
 
   return (
@@ -39,4 +39,4 @@ const Authors = ({ frontmatter, content, mdxContent }) => {
   );
 };
 
-export default Authors;
+export default BookSingle;

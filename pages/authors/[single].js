@@ -1,13 +1,13 @@
-import Authors from "@layouts/Authors";
+import AuthorSingle from "@layouts/AuthorSingle";
 import { getSinglePages, getSinglePagesSlug } from "@lib/contents";
 import { parseMDX } from "@lib/utils/mdxParser";
 
 // post single layout
-const Article = ({ author, mdxContent }) => {
+const Page = ({ author, mdxContent }) => {
   const { frontmatter, content } = author[0];
 
   return (
-    <Authors
+    <AuthorSingle
       frontmatter={frontmatter}
       content={content}
       mdxContent={mdxContent}
@@ -46,4 +46,4 @@ export const getStaticProps = async ({ params }) => {
   };
 };
 
-export default Article;
+export default Page;
