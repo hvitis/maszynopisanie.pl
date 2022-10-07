@@ -6,3 +6,16 @@ strong {
 .shadow {
   box-shadow: 0 10px 30px rgb(22 28 45 / 10%);
 }
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+}
