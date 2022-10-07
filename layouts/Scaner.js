@@ -36,17 +36,16 @@ const loaderSvg = () => {
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ');
 }
-let fileUpload = '';
+
 const Scaner = ({ data }) => {
   const { frontmatter, mdxContent } = data;
   const { title } = frontmatter;
 
-  const [isScanning, setIsScanning] = useState(false);
-
-  const [selectedFile, setSelectedFile] = useState();
   const [isFilePicked, setIsFilePicked] = useState(false);
-
+  const [selectedFile, setSelectedFile] = useState();
+  const [isScanning, setIsScanning] = useState(false);
   const [preview, setPreview] = useState();
+  const [ocrTextResult, setText] = useState('');
 
   // create a preview as a side effect, whenever selected file is changed
   useEffect(() => {
@@ -64,6 +63,24 @@ const Scaner = ({ data }) => {
   const onLoadPicture = (event) => {
     setSelectedFile(event.target.files[0]);
     setIsFilePicked(true);
+  };
+
+  const dragHandler = (event) => {
+    // Prevent default behavior (Prevent file from being opened)
+    event.preventDefault();
+  };
+
+  const dragOverHandler = (event) => {
+    event.preventDefault();
+  };
+
+  const dropHandler = (e) => {
+    e.preventDefault();
+    if (e.dataTransfer.files && e.dataTransfer.files.length > 0) {
+      setSelectedFile(e.dataTransfer.files[0]);
+      setIsFilePicked(true);
+      e.dataTransfer.clearData();
+    }
   };
 
   const canvasRef = useRef(null);
@@ -86,7 +103,6 @@ const Scaner = ({ data }) => {
         setIsScanning(false);
       })
       .then((result) => {
-        // Get text
         if (result.data && result.data.text) {
           console.log('Extracted image', result);
           setText(result.data.text);
@@ -94,8 +110,6 @@ const Scaner = ({ data }) => {
         }
       });
   };
-
-  const [text, setText] = useState('');
 
   return (
     <>
@@ -107,28 +121,30 @@ const Scaner = ({ data }) => {
                 <div className="grid grid-cols-4 items-center gap-8">
                   <div className="col-span-2">
                     <nav className="flex space-x-4">
-                      {/* <div>
-                        <label
-                          className="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300"
-                          htmlFor="file_input"
-                        >
-                          Załaduj Zdjęcie
-                        </label>
-                        <input
-                          className="block w-full cursor-pointer rounded-lg border border-gray-300 bg-gray-50 text-sm text-gray-900 focus:outline-none dark:border-gray-600 dark:bg-gray-700 dark:text-gray-400 dark:placeholder-gray-400"
-                          aria-describedby="file_input_help"
-                          id="file_input"
-                          type="file"
-                          onChange={onLoadPicture}
-                          accept=".jpeg,.png"
-                        />
-                        <p
-                          className="mt-1 text-sm text-gray-500 dark:text-gray-300"
-                          id="file_input_help"
-                        >
-                          SVG, PNG, JPG or GIF (MAX. 1200x1200px).
-                        </p>
-                      </div> */}
+                      {!selectedFile ? (
+                        <div>
+                          <label
+                            className="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300"
+                            htmlFor="file_input"
+                          >
+                            Załaduj Zdjęcie
+                          </label>
+                          <input
+                            className="block w-full cursor-pointer rounded-lg border border-gray-300 bg-gray-50 text-sm text-gray-900 focus:outline-none dark:border-gray-600 dark:bg-gray-700 dark:text-gray-400 dark:placeholder-gray-400"
+                            aria-describedby="file_input_help"
+                            id="file_input"
+                            type="file"
+                            onChange={onLoadPicture}
+                            accept=".jpeg,.png"
+                          />
+                          <p
+                            className="mt-1 text-sm text-gray-500 dark:text-gray-300"
+                            id="file_input_help"
+                          >
+                            SVG, PNG, JPG or GIF (MAX. 1200x1200px).
+                          </p>
+                        </div>
+                      ) : null}
 
                       <button
                         disabled={!selectedFile && !isFilePicked}
@@ -148,28 +164,32 @@ const Scaner = ({ data }) => {
                     </nav>
                   </div>
                   <div></div>
-                  <div className="lg:col-span-1">
-                    <div className="ml-auto w-full max-w-md">
-                      <label htmlFor="mobile-search" className="sr-only">
-                        Search
-                      </label>
-                      <div className="relative text-gray-600 focus-within:text-gray-300">
-                        <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                          <MagnifyingGlassIcon
-                            className="h-5 w-5"
-                            aria-hidden="true"
+                  {ocrTextResult ? (
+                    <div className="lg:col-span-1">
+                      <div className="ml-auto w-full max-w-md">
+                        <label htmlFor="mobile-search" className="sr-only">
+                          Search
+                        </label>
+                        <div className="relative text-gray-600 focus-within:text-gray-300">
+                          <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+                            <MagnifyingGlassIcon
+                              className="h-5 w-5"
+                              aria-hidden="true"
+                            />
+                          </div>
+                          <input
+                            id="desktop-search"
+                            className="block w-full rounded-md border border-transparent bg-white bg-opacity-100 py-2 pl-10 pr-3 leading-5 text-gray-900 placeholder-gray-500 focus:border-transparent focus:bg-opacity-80 focus:placeholder-gray-300 focus:outline-none focus:ring-0 sm:text-sm"
+                            placeholder="Search"
+                            type="search"
+                            name="search"
                           />
                         </div>
-                        <input
-                          id="desktop-search"
-                          className="block w-full rounded-md border border-transparent bg-white bg-opacity-100 py-2 pl-10 pr-3 leading-5 text-gray-900 placeholder-gray-500 focus:border-transparent focus:bg-opacity-80 focus:placeholder-gray-300 focus:outline-none focus:ring-0 sm:text-sm"
-                          placeholder="Search"
-                          type="search"
-                          name="search"
-                        />
                       </div>
                     </div>
-                  </div>
+                  ) : (
+                    <div></div>
+                  )}
                 </div>
               </div>
             </div>
@@ -198,7 +218,12 @@ const Scaner = ({ data }) => {
                             htmlFor="dropzone-file"
                             className="dark:hover:bg-bray-800 flex h-64 w-full cursor-pointer flex-col items-center justify-center rounded-lg border-2 border-dashed border-gray-300 bg-gray-50 hover:bg-gray-100 dark:border-gray-600 dark:bg-gray-700 dark:hover:border-gray-500 dark:hover:bg-gray-600"
                           >
-                            <div className="flex flex-col items-center justify-center pt-5 pb-6">
+                            <div
+                              className="flex flex-col items-center justify-center pt-5 pb-6"
+                              onDrop={dropHandler}
+                              onDrag={dragHandler}
+                              onDragOver={dragOverHandler}
+                            >
                               <svg
                                 aria-hidden="true"
                                 className="mb-3 h-10 w-10 text-gray-400"
@@ -216,12 +241,12 @@ const Scaner = ({ data }) => {
                               </svg>
                               <p className="mb-2 text-sm text-gray-500 dark:text-gray-400">
                                 <span className="font-semibold">
-                                  Click to upload
+                                  Kliknij aby załadować
                                 </span>{' '}
-                                or drag and drop
+                                albo upuść tutaj plik.
                               </p>
                               <p className="text-xs text-gray-500 dark:text-gray-400">
-                                SVG, PNG, JPG or GIF (MAX. 800x400px)
+                                SVG, PNG, JPG or GIF (MAX. 1200x1200px).
                               </p>
                             </div>
                             <input
@@ -229,8 +254,6 @@ const Scaner = ({ data }) => {
                               type="file"
                               className="hidden"
                               onChange={onLoadPicture}
-                              onDrop={onLoadPicture}
-                              onDragOver={onLoadPicture}
                               accept=".jpeg,.png"
                             />
                           </label>
@@ -253,8 +276,8 @@ const Scaner = ({ data }) => {
                   <div className="p-10">
                     {isScanning ? (
                       <div className="text-center">{loaderSvg()}</div>
-                    ) : text ? (
-                      text
+                    ) : ocrTextResult ? (
+                      ocrTextResult
                     ) : (
                       <div className="content h-52">
                         <MDXRemote {...mdxContent} components={shortcodes} />
