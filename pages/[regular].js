@@ -3,6 +3,7 @@ import NotFound from "@layouts/404";
 import About from "@layouts/About";
 import Base from "@layouts/Baseof";
 import Contact from "@layouts/Contact";
+import Scaner from "@layouts/Scaner";
 import Default from "@layouts/Default";
 import PostSingle from "@layouts/PostSingle";
 import {
@@ -40,7 +41,9 @@ const RegularPages = ({ slug, data, postSlug, authors, posts }) => {
         <About data={data} />
       ) : layout === "contact" ? (
         <Contact data={data} />
-      ) : (
+      ) : layout === "scaner" ? (
+        <Scaner data={data} />
+      ): (
         <Default data={data} />
       )}
     </Base>

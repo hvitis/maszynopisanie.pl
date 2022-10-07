@@ -30,6 +30,11 @@
           "name": "O Nas",
           "url": "/about"
         },
+       
+        {
+          "name": "Skaner",
+          "url": "/ocr-scaner"
+        },
         {
           "name": "Kontakt",
           "url": "/contact"

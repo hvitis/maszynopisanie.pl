@@ -25,7 +25,8 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",
     "rehype-slug": "^5.0.1",
-    "remark-gfm": "^3.0.1"
+    "remark-gfm": "^3.0.1",
+    "tesseract.js": "^3.0.3"
   },
   "devDependencies": {
     "date-fns": "^2.29.1",
