@@ -168,7 +168,7 @@ const Scaner = ({ data }) => {
                     <div className="lg:col-span-1">
                       <div className="ml-auto w-full max-w-md">
                         <label htmlFor="mobile-search" className="sr-only">
-                          Search
+                          Szukaj
                         </label>
                         <div className="relative text-gray-600 focus-within:text-gray-300">
                           <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
@@ -180,7 +180,7 @@ const Scaner = ({ data }) => {
                           <input
                             id="desktop-search"
                             className="block w-full rounded-md border border-transparent bg-white bg-opacity-100 py-2 pl-10 pr-3 leading-5 text-gray-900 placeholder-gray-500 focus:border-transparent focus:bg-opacity-80 focus:placeholder-gray-300 focus:outline-none focus:ring-0 sm:text-sm"
-                            placeholder="Search"
+                            placeholder="Szukaj"
                             type="search"
                             name="search"
                           />
