@@ -5,7 +5,3 @@ meta_description: "Darmowe rozpoznawanie tekstu ze zdjęć OCR. Bez reklam, bez 
 layout: "scaner"
 draft: false
 ---
-
-Załaduj zdjęcie i kliknij przycisk Skanuj. 
-
-Skanowanie maszynopisów nigdy nie było łatwiejsze!

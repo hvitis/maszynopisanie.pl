@@ -1,24 +1,21 @@
-// react
 import { useState, useRef, useEffect } from 'react';
 import { Popover } from '@headlessui/react';
 
 // Project extensions
-import { shortcodes } from './shortcodes/all';
 import preprocessImage from '../lib/preprocess';
+import LanguageToggler from './components/LanguageToggler';
 
 // Icons
 import {
   ClipboardDocumentListIcon,
   ClipboardDocumentCheckIcon,
+  CloudArrowUpIcon,
 } from '@heroicons/react/24/outline';
 import { MagnifyingGlassIcon } from '@heroicons/react/20/solid';
+import Loader from '../public/assets/svg/loader.svg';
 
 // 3rd party lib
-import { MDXRemote } from 'next-mdx-remote';
 import Tesseract from 'tesseract.js';
-
-// Svgs
-import Loader from '../public/assets/svg/loader.svg';
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ');
@@ -30,11 +27,17 @@ const Scaner = ({ data }) => {
 
   const [isFilePicked, setIsFilePicked] = useState(false);
   const [selectedFile, setSelectedFile] = useState();
-  const [isScanning, setIsScanning] = useState(true);
+  const [isScanning, setIsScanning] = useState(false);
   const [progress, setProgress] = useState(0);
   const [preview, setPreview] = useState();
   const [ocrTextResult, setText] = useState('');
+  const [languageSelected, setLanguage] = useState('pol');
   const [isCopied, setIsCopied] = useState(false);
+
+  const handleLanguageToggle = (langCode) => {
+    console.log(langCode);
+    setLanguage(langCode);
+  };
 
   // create a preview as a side effect, whenever selected file is changed
   useEffect(() => {
@@ -100,7 +103,7 @@ const Scaner = ({ data }) => {
     ctx.putImageData(preprocessImage(canvas), 0, 0);
     const dataUrl = canvas.toDataURL('image/jpeg');
 
-    Tesseract.recognize(dataUrl, 'eng', {
+    Tesseract.recognize(dataUrl, languageSelected, {
       logger: (msg) => {
         if (msg.progress !== 1 && msg.progress !== 0.5) {
           let percentageOfScanning = (msg.progress * 100).toFixed(0) + '%';
@@ -120,6 +123,33 @@ const Scaner = ({ data }) => {
       });
   };
 
+  let translatedStatic = {
+    pol: [
+      'Kliknij aby załadować',
+      'albo upuść tutaj plik.',
+      'PNG, JPG, JPEG lub WEBP (max. 1200x1200px).',
+      'Szukaj',
+      'Skanuj',
+      'Wyczyść',
+      'Załaduj Zdjęcie',
+      'Załaduj zdjęcie i kliknij przycisk Skanuj',
+      'Skanowanie maszynopisów nigdy nie było łatwiejsze',
+    ],
+    eng: [
+      'Click to load',
+      'or drop the file here.',
+      'PNG, JPG, JPEG or WEBP (max. 1200x1200px).',
+      'Search',
+      'Scan',
+      'Reset',
+      'Load Image',
+      'Load image and click Scan',
+      'Scanning your typewritten texts has never been easier',
+    ],
+  };
+
+  const imageSpecifics = 'PNG, JPG, JPEG or WEBP (max. 1200x1200px).';
+
   return (
     <>
       <div className="min-h-full">
@@ -136,7 +166,7 @@ const Scaner = ({ data }) => {
                             className="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300"
                             htmlFor="file_input"
                           >
-                            Załaduj Zdjęcie
+                            {translatedStatic[languageSelected][6]}
                           </label>
                           <input
                             className="block w-full cursor-pointer rounded-lg border border-gray-300 bg-gray-50 text-sm text-gray-900 focus:outline-none dark:border-gray-600 dark:bg-gray-700 dark:text-gray-400 dark:placeholder-gray-400"
@@ -150,7 +180,7 @@ const Scaner = ({ data }) => {
                             className="mt-1 text-sm text-gray-500 dark:text-gray-300"
                             id="file_input_help"
                           >
-                            SVG, PNG, JPG or GIF (MAX. 1200x1200px).
+                            {translatedStatic[languageSelected][2]}
                           </p>
                         </div>
                       ) : null}
@@ -164,7 +194,7 @@ const Scaner = ({ data }) => {
                           type="button"
                           aria-current={'page'}
                         >
-                          Wyczyść
+                          {translatedStatic[languageSelected][5]}
                         </button>
                       ) : null}
                       {!ocrTextResult ? (
@@ -183,7 +213,7 @@ const Scaner = ({ data }) => {
                           {isScanning ? (
                             <Loader className="mr-3 inline h-4 w-4 animate-spin text-white" />
                           ) : null}
-                          Skanuj
+                          {translatedStatic[languageSelected][4]}
                         </button>
                       ) : null}
                     </nav>
@@ -193,7 +223,7 @@ const Scaner = ({ data }) => {
                     <div className="lg:col-span-1">
                       <div className="ml-auto w-full max-w-md">
                         <label htmlFor="mobile-search" className="sr-only">
-                          Szukaj
+                          {translatedStatic[languageSelected][3]}
                         </label>
                         <div className="relative text-gray-600 focus-within:text-gray-300">
                           <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
@@ -213,7 +243,11 @@ const Scaner = ({ data }) => {
                       </div>
                     </div>
                   ) : (
-                    <div></div>
+                    <div className="ml-auto">
+                      <LanguageToggler
+                        handleLanguageToggle={handleLanguageToggle}
+                      />
+                    </div>
                   )}
                 </div>
               </div>
@@ -261,29 +295,15 @@ const Scaner = ({ data }) => {
                               onDrag={dragHandler}
                               onDragOver={dragOverHandler}
                             >
-                              <svg
-                                aria-hidden="true"
-                                className="mb-3 h-10 w-10 text-gray-400"
-                                fill="none"
-                                stroke="currentColor"
-                                viewBox="0 0 24 24"
-                                xmlns="http://www.w3.org/2000/svg"
-                              >
-                                <path
-                                  strokeLinecap="round"
-                                  strokeLinejoin="round"
-                                  strokeWidth="2"
-                                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"
-                                ></path>
-                              </svg>
+                            <CloudArrowUpIcon className='h-12' />
                               <p className="mb-2 text-sm text-gray-500 dark:text-gray-400">
                                 <span className="font-semibold">
-                                  Kliknij aby załadować
+                                  {translatedStatic[languageSelected][0]}
                                 </span>{' '}
-                                albo upuść tutaj plik.
+                                {translatedStatic[languageSelected][1]}
                               </p>
                               <p className="text-xs text-gray-500 dark:text-gray-400">
-                                SVG, PNG, JPG or GIF (MAX. 1200x1200px).
+                                {translatedStatic[languageSelected][2]}
                               </p>
                             </div>
                             <input
@@ -346,8 +366,9 @@ const Scaner = ({ data }) => {
                       </div>
                     ) : (
                       <div className="">
-                        <div type="button" className="content h-52">
-                          <MDXRemote {...mdxContent} components={shortcodes} />
+                        <div type="button" className="content">
+                          <p> {translatedStatic[languageSelected][7]}</p>
+                          <p>{translatedStatic[languageSelected][8]}</p>
                         </div>
                       </div>
                     )}
