@@ -6,8 +6,9 @@ const LanguageToggler = ({ handleLanguageToggle }) => {
   const [language, setLanguage] = useState(languagesAvailable[0]);
 
   const languageToggle = () => {
-    language === 'pol' ? setLanguage('eng') : setLanguage('pol');
-    handleLanguageToggle(language)
+    let newLang = language === 'pol' ? 'eng' : 'pol';
+    setLanguage(newLang);
+    handleLanguageToggle(newLang);
   };
 
   return (
@@ -16,7 +17,7 @@ const LanguageToggler = ({ handleLanguageToggle }) => {
       onClick={languageToggle}
       aria-label="Toggle Dark Mode"
     >
-      <LanguageIcon className="h-5 w-5 text-gray-700" /> 
+      <LanguageIcon className="h-5 w-5 text-gray-700" />
     </button>
   );
 };

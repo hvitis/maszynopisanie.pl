@@ -221,7 +221,7 @@ const Scaner = ({ data }) => {
                   <div></div>
                   {ocrTextResult ? (
                     <div className="lg:col-span-1">
-                      <div className="ml-auto w-full max-w-md">
+                      {/* <div className="ml-auto w-full max-w-md">
                         <label htmlFor="mobile-search" className="sr-only">
                           {translatedStatic[languageSelected][3]}
                         </label>
@@ -240,7 +240,7 @@ const Scaner = ({ data }) => {
                             name="search"
                           />
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   ) : (
                     <div className="ml-auto">
