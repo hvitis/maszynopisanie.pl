@@ -3,9 +3,9 @@ import { Head, Html, Main, NextScript } from "next/document";
 
 const Document = () => {
   return (
-    <Html lang="en" class="h-full">
+    <Html lang="en" className="h-full">
       <Head />
-      <body class="h-full">
+      <body className="h-full">
         <Main />
         <TwSizeIndicator />
         <NextScript />
