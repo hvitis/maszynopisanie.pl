@@ -8,7 +8,10 @@ import { useState, useRef, useEffect } from 'react';
 import Tesseract from 'tesseract.js';
 import { Fragment } from 'react';
 import { Menu, Popover, Transition } from '@headlessui/react';
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
+import {
+  ClipboardDocumentListIcon,
+  ClipboardDocumentCheckIcon,
+} from '@heroicons/react/24/outline';
 import { MagnifyingGlassIcon } from '@heroicons/react/20/solid';
 
 const loaderSvg = () => {
@@ -44,8 +47,10 @@ const Scaner = ({ data }) => {
   const [isFilePicked, setIsFilePicked] = useState(false);
   const [selectedFile, setSelectedFile] = useState();
   const [isScanning, setIsScanning] = useState(false);
+  const [progress, setProgress] = useState(0);
   const [preview, setPreview] = useState();
   const [ocrTextResult, setText] = useState('');
+  const [isCopied, setIsCopied] = useState(false);
 
   // create a preview as a side effect, whenever selected file is changed
   useEffect(() => {
@@ -83,6 +88,22 @@ const Scaner = ({ data }) => {
     }
   };
 
+  const onCopyToClipboard = (event) => {
+    navigator.clipboard.writeText(ocrTextResult);
+    setIsCopied(true);
+    setTimeout(() => setIsCopied(false), 800);
+  };
+
+  const resetFiles = (event) => {
+    setIsFilePicked(false);
+    setSelectedFile();
+    setIsScanning(false);
+    setPreview();
+    setText('');
+    setProgress(0);
+    setIsCopied(false);
+  };
+
   const canvasRef = useRef(null);
   const imageRef = useRef(null);
 
@@ -96,11 +117,18 @@ const Scaner = ({ data }) => {
     const dataUrl = canvas.toDataURL('image/jpeg');
 
     Tesseract.recognize(dataUrl, 'eng', {
-      logger: (m) => console.log(m),
+      logger: (msg) => {
+        console.log(msg);
+        if (msg.progress !== 1 && msg.progress !== 0.5) {
+          let percentageOfScanning = (msg.progress * 100).toFixed(0) + '%';
+          setProgress(percentageOfScanning);
+        }
+      },
     })
       .catch((err) => {
         console.error(err);
         setIsScanning(false);
+        setProgress(0);
       })
       .then((result) => {
         if (result.data && result.data.text) {
@@ -117,12 +145,12 @@ const Scaner = ({ data }) => {
         <Popover as="header" className="bg-gray-50 pb-24">
           {({ open }) => (
             <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-              <div className="hidden border-t border-white border-opacity-20 py-5 lg:block">
+              <div className="border-t border-white border-opacity-20 py-5">
                 <div className="grid grid-cols-4 items-center gap-8">
                   <div className="col-span-2">
                     <nav className="flex space-x-4">
                       {!selectedFile ? (
-                        <div>
+                        <div className="hidden lg:block">
                           <label
                             className="mb-2 block text-sm font-medium text-gray-900 dark:text-gray-300"
                             htmlFor="file_input"
@@ -146,21 +174,35 @@ const Scaner = ({ data }) => {
                         </div>
                       ) : null}
 
-                      <button
-                        disabled={!selectedFile && !isFilePicked}
-                        onClick={startScan}
-                        className={classNames(
-                          'my-auto mr-2 inline-flex h-min items-center rounded-lg bg-blue-700 px-5 py-2.5 text-center text-sm font-medium text-white  focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 ' +
-                            (!selectedFile
-                              ? 'bg-opacity-50'
-                              : 'bg-opacity-100 hover:bg-blue-800')
-                        )}
-                        type="button"
-                        aria-current={'page'}
-                      >
-                        {isScanning ? loaderSvg() : null}
-                        Skanuj
-                      </button>
+                      {selectedFile ? (
+                        <button
+                          onClick={resetFiles}
+                          className={classNames(
+                            'my-auto mr-2 inline-flex h-min items-center rounded-lg bg-red-700 bg-opacity-100 px-5 py-2.5 text-center text-sm font-medium  text-white hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-800'
+                          )}
+                          type="button"
+                          aria-current={'page'}
+                        >
+                          Wyczyść
+                        </button>
+                      ) : null}
+                      {!ocrTextResult ? (
+                        <button
+                          disabled={!selectedFile && !isFilePicked}
+                          onClick={startScan}
+                          className={classNames(
+                            'my-auto mr-2 inline-flex h-min items-center rounded-lg bg-blue-700 px-5 py-2.5 text-center text-sm font-medium text-white  focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 ' +
+                              (!selectedFile
+                                ? 'bg-opacity-50'
+                                : 'bg-opacity-100 hover:bg-blue-800')
+                          )}
+                          type="button"
+                          aria-current={'page'}
+                        >
+                          {isScanning ? loaderSvg() : null}
+                          Skanuj
+                        </button>
+                      ) : null}
                     </nav>
                   </div>
                   <div></div>
@@ -199,9 +241,14 @@ const Scaner = ({ data }) => {
           <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 className="sr-only">{title}</h1>
             {/* Main 3 column grid */}
-            <div className="grid grid-cols-1 items-start gap-4 lg:grid-cols-4 lg:gap-2">
+            <div className={classNames(
+                            'grid grid-cols-1 items-start gap-4 lg:grid-cols-4 lg:gap-2 lg:order-first order-last' 
+                          )}>
               {/* Left column */}
-              <div className="grid gap-4 lg:col-span-2">
+              {/* Switching columns on mobile when scanning or text available */}
+              <div className={classNames('grid gap-4 lg:col-span-2 ' +  (ocrTextResult || isScanning
+                                ? 'lg:order-first order-last'
+                                : '') )}>
                 <section>
                   <div className="overflow-hidden rounded-lg bg-white shadow">
                     <div className="p-6">
@@ -209,7 +256,7 @@ const Scaner = ({ data }) => {
                         <img
                           src={preview}
                           ref={imageRef}
-                          className="App-logo"
+                          className=""
                           alt="Preview"
                         />
                       ) : (
@@ -271,16 +318,46 @@ const Scaner = ({ data }) => {
               </div>
 
               {/* Right column */}
-              <div className="grid gap-4 lg:col-span-2">
+              <div className="grid gap-4 lg:col-span-2 ">
                 <div className="overflow-hidden rounded-lg bg-white shadow">
                   <div className="p-10">
                     {isScanning ? (
-                      <div className="text-center">{loaderSvg()}</div>
+                      <div className="text-center">
+                        {progress} {loaderSvg()}
+                      </div>
                     ) : ocrTextResult ? (
-                      ocrTextResult
+                      <div className="">
+                        <div className="flex justify-end">
+                          <div></div>
+                          <div>
+                            <button
+                              className="mb-7 flex text-right"
+                              onClick={onCopyToClipboard}
+                            >
+                              <span className="pointer-events-auto font-mono text-sm font-medium underline underline-offset-8 hover:font-bold">
+                                Skopiuj do Schowka
+                              </span>
+                              {isCopied ? (
+                                <ClipboardDocumentCheckIcon
+                                  className="mx-1 h-5 w-5 text-green-500"
+                                  aria-hidden="true"
+                                />
+                              ) : (
+                                <ClipboardDocumentListIcon
+                                  className="mx-1 h-5 w-5"
+                                  aria-hidden="true"
+                                />
+                              )}
+                            </button>
+                          </div>
+                        </div>
+                        {ocrTextResult}
+                      </div>
                     ) : (
-                      <div className="content h-52">
-                        <MDXRemote {...mdxContent} components={shortcodes} />
+                      <div className="">
+                        <div type="button" className="content h-52">
+                          <MDXRemote {...mdxContent} components={shortcodes} />
+                        </div>
                       </div>
                     )}
                   </div>

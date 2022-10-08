@@ -6,4 +6,6 @@ layout: "scaner"
 draft: false
 ---
 
-Użycie technologii OCR jest łatwe. Załaduj zdjęcie i kliknij przycisk. Skanowanie maszynopisów nigdy nie było łatwiejsze!
+Załaduj zdjęcie i kliknij przycisk Skanuj. 
+
+Skanowanie maszynopisów nigdy nie było łatwiejsze!
