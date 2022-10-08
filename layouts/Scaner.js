@@ -134,6 +134,7 @@ const Scaner = ({ data }) => {
       'Załaduj Zdjęcie',
       'Załaduj zdjęcie i kliknij przycisk Skanuj',
       'Skanowanie maszynopisów nigdy nie było łatwiejsze',
+      'Skopiuj do Schowka',
     ],
     eng: [
       'Click to load',
@@ -145,10 +146,9 @@ const Scaner = ({ data }) => {
       'Load Image',
       'Load image and click Scan',
       'Scanning your typewritten texts has never been easier',
+      'Copy to Clipboard',
     ],
   };
-
-  const imageSpecifics = 'PNG, JPG, JPEG or WEBP (max. 1200x1200px).';
 
   return (
     <>
@@ -235,7 +235,7 @@ const Scaner = ({ data }) => {
                           <input
                             id="desktop-search"
                             className="block w-full rounded-md border border-transparent bg-white bg-opacity-100 py-2 pl-10 pr-3 leading-5 text-gray-900 placeholder-gray-500 focus:border-transparent focus:bg-opacity-80 focus:placeholder-gray-300 focus:outline-none focus:ring-0 sm:text-sm"
-                            placeholder="Szukaj"
+                            placeholder={translatedStatic[languageSelected][3]}
                             type="search"
                             name="search"
                           />
@@ -295,7 +295,7 @@ const Scaner = ({ data }) => {
                               onDrag={dragHandler}
                               onDragOver={dragOverHandler}
                             >
-                            <CloudArrowUpIcon className='h-12' />
+                              <CloudArrowUpIcon className="h-12" />
                               <p className="mb-2 text-sm text-gray-500 dark:text-gray-400">
                                 <span className="font-semibold">
                                   {translatedStatic[languageSelected][0]}
@@ -345,7 +345,7 @@ const Scaner = ({ data }) => {
                               onClick={onCopyToClipboard}
                             >
                               <span className="pointer-events-auto font-mono text-sm font-medium underline underline-offset-8 hover:font-bold">
-                                Skopiuj do Schowka
+                                {translatedStatic[languageSelected][9]}
                               </span>
 
                               {isCopied ? (
