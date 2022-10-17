@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind prism;
+@tailwind utilities;
+
+@layer base {
+  @import "base";
+}
+
+@layer components {
+  @import "components";
+  @import "navigation";
+  @import "buttons";
+}
+
+@layer utilities {
+  @import "utilities";
+}
+@layer prism {
+  @import "prism";
+}

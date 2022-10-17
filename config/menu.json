@@ -1,0 +1,59 @@
+{
+  "main": [
+    {
+      "name": "Główna",
+      "url": "/"
+    },
+    {
+      "name": "Książki",
+      "url": "/books"
+    },
+    {
+      "name": "Manifest",
+      "url": "/manifesto"
+    },
+    {
+      "name": "Więcej",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        
+        {
+          "name": "Maszynopisacze",
+          "url": "/authors"
+        },
+        {
+          "name": "Maszynolity",
+          "url": "/maszynolity"
+        },
+        {
+          "name": "O Nas",
+          "url": "/about"
+        },
+       
+        {
+          "name": "Skaner",
+          "url": "/ocr-scaner"
+        },
+        {
+          "name": "Kontakt",
+          "url": "/contact"
+        },
+        {
+          "name": "Pobierz",
+          "url": "/pobierz"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "O Nas",
+      "url": "/about"
+    },
+    {
+      "name": "Kontakt",
+      "url": "/contact"
+    }
+  ]
+}
