@@ -4,6 +4,7 @@ import { Popover } from '@headlessui/react';
 // Project extensions
 import preprocessImage from '../lib/preprocess';
 import LanguageToggler from './components/LanguageToggler';
+import { humanize, markdownify, slugify } from '@lib/utils/textConverter';
 
 // Icons
 import {
@@ -23,7 +24,7 @@ function classNames(...classes) {
 
 const Scaner = ({ data }) => {
   const { frontmatter, mdxContent } = data;
-  const { title } = frontmatter;
+  const { title, description } = frontmatter;
 
   const [isFilePicked, setIsFilePicked] = useState(false);
   const [selectedFile, setSelectedFile] = useState();
@@ -155,7 +156,9 @@ const Scaner = ({ data }) => {
         <Popover as="header" className="bg-gray-50 pb-24">
           {({ open }) => (
             <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-              <div className="border-t border-white border-opacity-20 py-5">
+              {markdownify(title, 'h1', 'p-5')}
+              {markdownify(description, 'p', 'p-2')}
+              <div className="border-t border-white border-opacity-20 pb-5 lg:pt-10 pt-3">
                 <div className="grid grid-cols-4 items-center gap-8">
                   <div className="col-span-2">
                     <nav className="flex space-x-4">
@@ -320,8 +323,8 @@ const Scaner = ({ data }) => {
                   <canvas
                     className="hidden"
                     ref={canvasRef}
-                    width={1200}
-                    height={1200}
+                    width={1500}
+                    height={1500}
                   ></canvas>
                 </section>
               </div>
@@ -332,6 +335,7 @@ const Scaner = ({ data }) => {
                   <div className="p-10">
                     {isScanning ? (
                       <div className="text-center">
+                        <Loader className="mr-1 inline h-4 w-4 animate-spin" />{' '}
                         <span classNames="mx-2 p-1">{progress}</span>
                       </div>
                     ) : ocrTextResult ? (
@@ -361,7 +365,7 @@ const Scaner = ({ data }) => {
                             </button>
                           </div>
                         </div>
-                        <div>{ocrTextResult}</div>
+                        <div className='font-mono text-base font-medium'>{ocrTextResult}</div>
                       </div>
                     ) : (
                       <div className="">
