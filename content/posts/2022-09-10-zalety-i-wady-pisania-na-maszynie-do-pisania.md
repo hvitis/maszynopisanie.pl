@@ -63,6 +63,9 @@ Moi faworyci to:
 ![Pisanie na Maszynie w Wannie](./images/posts/2022-09-10/maszyna-do-pisania-w-wannie.jpeg)
 
 
+![Zalety Pisania na Maszynie](./images/posts/2022-09-10/zalety-pisania-na-maszynie-do-pisania.png)
+
+
 
 Wady:
 
