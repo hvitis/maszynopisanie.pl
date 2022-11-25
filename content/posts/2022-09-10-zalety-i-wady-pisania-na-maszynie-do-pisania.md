@@ -54,24 +54,18 @@ Najrzadziej wymieniane jednak po namyśle najważniejsze:
 - To ostatni bastion poufnego pisania. Żadne złośliwe oprogramowanie nie może szpiegować naciśnięć klawiszy.
 - To teraz forma mojej Terapii. Po udarze zostałem częściowo sparaliżowany i moja żona kazała mi kupić maszynę do pisania. Teraz mam ich ponad 20. Po prostu CZUJE SIĘ WŁAŚCIWE kiedy piszę na niej i wlewam swoją duszę w list. Wyobrażam sobie, że ktoś to bardziej doceni. Kup jedną a pokochasz ją!
 
-
 Moi faworyci to:
-- Można zabrać maszynę do pisania w parku, gdziekolwiek.
+
+- Można zabrać maszynę do pisania w parku, [gdziekolwiek][3].
 - Radość płynąca z tego, że piszesz dzięki umiejętności majsterkowania (jeśli wyczyściłeś lub naprawiłeś swoją maszynę)
 - Można z powodzeniem pisać w wannie.
 
 ![Pisanie na Maszynie w Wannie](./images/posts/2022-09-10/maszyna-do-pisania-w-wannie.jpeg)
 
-
-![Zalety Pisania na Maszynie](./images/posts/2022-09-10/zalety-pisania-na-maszynie-do-pisania.png)
-
-
-
 Wady:
 
 - Wydawnictwa nie przyjmują już maszynopisów. (Radą może być wyjaśnienie tego [Jak Zeskanować Swoje Maszynopisy][1])
 
-
-
 [1]: https://github.com/kba/awesome-ocr
 [2]: https://www.maszynopisanie.pl/2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania
+[3]: https://www.instagram.com/reel/ClRaOqbOeO4/
