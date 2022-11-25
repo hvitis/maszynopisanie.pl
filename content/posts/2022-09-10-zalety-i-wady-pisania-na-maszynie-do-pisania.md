@@ -64,8 +64,8 @@ Moi faworyci to:
 
 Wady:
 
-- Wydawnictwa nie przyjmują już maszynopisów. (Radą może być wyjaśnienie tego [Jak Zeskanować Swoje Maszynopisy][1])
+- Wydawnictwa nie przyjmują już maszynopisów. (Radą może być [zeskanowanie swoich Maszynopisów][1])
 
-[1]: https://github.com/kba/awesome-ocr
+[1]: https://www.maszynopisanie.pl/ocr-scaner
 [2]: https://www.maszynopisanie.pl/2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania
 [3]: https://www.instagram.com/reel/ClRaOqbOeO4/
