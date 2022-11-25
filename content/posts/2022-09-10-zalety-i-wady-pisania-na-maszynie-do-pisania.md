@@ -52,7 +52,7 @@ Mniej ale nadal często:
 Najrzadziej wymieniane jednak po namyśle najważniejsze:
 
 - To ostatni bastion poufnego pisania. Żadne złośliwe oprogramowanie nie może szpiegować naciśnięć klawiszy.
-- To teraz forma mojej Terapii. Po udarze zostałem częściowo sparaliżowany i moja żona kazała mi kupić maszynę do pisania. Teraz mam ich ponad 20. Po prostu CZUJE SIĘ WŁAŚCIWE kiedy piszę na niej i wlewam swoją duszę w list. Wyobrażam sobie, że ktoś to bardziej doceni. Kup jedną a pokochasz ją!
+- To teraz forma mojej Terapii. Po udarze zostałem częściowo sparaliżowany i moja żona kazała mi kupić maszynę do pisania. Teraz mam ich ponad 20. Po prostu CZUJE SIĘ WŁAŚCIWE kiedy piszę na niej i wlewam swoją duszę w list. Wyobrażam sobie, że ktoś to bardziej doceni a do tego ćwiczę władzę w rękach i rehabilituję się robiąc coś co lubię. Kup jedną a pokochasz ją tak, że kolejne zakupy będą kwestią czasu!
 
 Moi faworyci to:
 
