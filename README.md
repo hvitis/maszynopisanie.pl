@@ -2,15 +2,17 @@
 
 First polish webpage about typewriters and typewriting.
 
-## Local Development
-
-### Run Next.js frontend
+### Local Run Next.js frontend
 
 You can use the normal Next.js method to run the frontend. Just run the following command and a live server will open on `http://localhost:3000`
 
 ```
 Yarn && yarn dev
 ```
+
+### Production run o Netlify
+
+Use Netlify CLI
 
 ### Contributors
 
