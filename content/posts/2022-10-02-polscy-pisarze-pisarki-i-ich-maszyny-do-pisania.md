@@ -13,7 +13,7 @@ Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wiek
 
 ## Maszyny do Pisania i ich Twórczy Właściciele
 
-1. Stanisław Lem otwiera naszą listę słynnych pisarzy jako jeden z moich ulubionych autorów. Pisał na różnych maszynach, jednak zaczynał od modelu Underwood Portable, który dostał od ojca. Lema mówiącego o maszynie do pisania można posłuchać [tutaj][4].
+1. Stanisław Lem otwiera naszą listę słynnych pisarzy jako jeden z moich ulubionych autorów. Pisał na różnych maszynach, jednak zaczynał od modelu Underwood Noiseless Portable 77, który dostał od ojca. Lema mówiącego o maszynie do pisania można posłuchać [tutaj][4].
 
 > Lem miał bowiem zwyczaj, że gdy coś mu nie wychodziło, zaczynał od początku. Wyciągał z maszyny kartki i rzucał obok. W listach wspominał, że gdy pisał "Golema XIV", cały pokój był zasłany kartkami jak śniegiem. ([źródło][3])
 
