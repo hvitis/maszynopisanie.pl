@@ -2,14 +2,14 @@
 title: "Jak Kupić Maszynę do Pisania?"
 description: "Wybór maszyny w cyfrowych czasach jest jeszcze trudniejszy! Na co zwracać uwagę? Jaką maszynę kupić? Które modele omijać?"
 date: 2022-10-02T05:00:00Z
-image: "/images/posts/2023-05-02/remington-maszyna-do-pisania.jpg"
+image: "/images/posts/2023-05-02/remington-maszyna-do-pisania.png"
 categories: ["zakupy"]
 authors: ["Adam"]
 tags: ["maszyny", "zakupy"]
 draft: false
 ---
 
-Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będziemy mieli problemu. Tak przedstawia się wybór maszyn do pisania na rynku - nie jest tak bogaty jak w dawniej. Niestety paradoksalnie powoduje to jeszcze większe kłopoty! Maszyna może być zepsuta, niesprawna, niewarta i sprawić przyjemność tylko temu, kto skorzysta z naszej niewiedzy i się jej pozbędzie.
+Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będziemy mieli problemu. Tak przedstawia się wybór maszyn do pisania na rynku - nie jest tak bogaty jak dawniej. Niestety paradoksalnie powoduje to jeszcze większe kłopoty! Maszyna może być zepsuta, niesprawna, niewarta swojej ceny i może sprawić przyjemność tylko temu, kto skorzysta z naszej niewiedzy i się jej pozbędzie.
 
 ## Na co zwracać uwagę przy zakupie?
 
@@ -17,7 +17,9 @@ Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będ
 
 Wydaje się to być oczywiste, jednak ludzie coraz częściej kupują maszyny głównie w celach kolekcjonerskich. Po postawieniu w odpowiednim miejscu, taki zalążek kolekcjonera nie wie nawet jak napisać na maszynie jedno zdanie. Nic w tym złego! Wszystko wymaga przecież nauki i nikt po urodzeniu nie pisał na maszynie już w kołysce. 
 
-Trzeba jednak pamiętać, że prawdziwy kolekcjoner uwielbia działające maszyny do pisania. Nie musi na niej wcale pisać, tym bardziej jeśli ma ich 10. Wystarczy sam fakt, że ktoś mógłby na niej coś napisać. Sprawność maszyny jest świadectwem jej idealnego stanu a im lepszy stan tym większa cena.
+Trzeba jednak pamiętać, że prawdziwy kolekcjoner uwielbia działające maszyny do pisania. Nie musi na niej wcale pisać, tym bardziej jeśli ma ich 10. Wystarczy sam fakt, że ktoś mógłby na niej coś napisać. Sprawność maszyny jest świadectwem jej idealnego stanu, a im lepszy stan, tym większa cena.
+
+Sprawa ma się oczywiście inaczej, jeśli już sami jesteśmy wprawieni w naprawianiu. Istnieją również miejsca i ludzie, którzy się tym trudnią. Jeśli znalazłeś/aś starą maszynę, która nie działa - nie wyrzucaj jej! Po prostu sprzedaj taniej.
 
 ### Prośba o napisanie konkretnego zdania
 
@@ -33,7 +35,7 @@ Moje ulubione zdania, które wykorzystują *każdą literę alfabetu*.
 
 Piszę do sprzedającego - "Proszę o napisanie mi zdania X". Ja mam wtedy pewność, że klawiatura działa a sprzedający dodatkowy uśmiech.
 
-Nasz kraj przez żelazną kurtynę, pomimo takich wspaniałych ludzi jak [Władysław Pacior](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) i takich wynalazków jak Łucznik, niestety nie miała takich możliwości i takie cuda jak Smith Corona, Underwood czy Hermes z polską czcionką to znalezisko na skalę krajową.
+Nasz kraj znajdował się za żelazną kurtyną. Oczywiście nasza myśl w postaci takich wspaniałych ludzi jak [Władysław Paciorkiewicz](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) czy takich wynalazków jak Łucznik istniała, ale nie dorównywała zachodnim cudom techniki. Takie maszyny jak modele Smith Corona, Underwood czy Hermes z polską czcionką to u nas znalezisko na skalę krajową.
 
 Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś chce maszynę wyłącznie na pokaz, to straci ona efekt jeśli będzie posiadać np. szwedzkie znaki (chyba, że ten ktoś akurat mówi po szwedzku). 
 
