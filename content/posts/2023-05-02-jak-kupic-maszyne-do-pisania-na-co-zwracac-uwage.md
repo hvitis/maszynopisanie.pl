@@ -9,7 +9,7 @@ tags: ["maszyny", "zakupy"]
 draft: false
 ---
 
-Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będziemy mieli problemu. Tak przedstawia się wybór maszyn do pisania na rynku - nie jest tak bogaty jak dawniej. Niestety paradoksalnie powoduje to jeszcze większe kłopoty! Maszyna może być zepsuta, niesprawna, niewarta swojej ceny i może sprawić przyjemność tylko temu, kto skorzysta z naszej niewiedzy i się jej pozbędzie.
+Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będziemy mieli problemu które wybrać. Tak przedstawia się wybór maszyn do pisania na rynku - nie jest tak bogaty jak dawniej. Niestety paradoksalnie powoduje to jeszcze większe kłopoty! Maszyna może być zepsuta, niesprawna, niewarta swojej ceny i może sprawić przyjemność tylko temu, kto skorzysta z naszej niewiedzy i się jej pozbędzie.
 
 ## Na co zwracać uwagę przy zakupie?
 
