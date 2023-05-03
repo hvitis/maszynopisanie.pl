@@ -3,7 +3,7 @@ import { Head, Html, Main, NextScript } from "next/document";
 
 const Document = () => {
   return (
-    <Html lang="en" className="h-full">
+    <Html lang="pl" className="h-full">
       <Head />
       <body className="h-full">
         <Main />

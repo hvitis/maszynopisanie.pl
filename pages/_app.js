@@ -6,8 +6,6 @@ import { useEffect, useState } from "react";
 import "styles/style.scss";
 import { GoogleAnalytics } from "nextjs-google-analytics";
 import { ThemeProvider } from 'next-themes';
-// import 'flowbite';
-// import Script from 'next/script';
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
