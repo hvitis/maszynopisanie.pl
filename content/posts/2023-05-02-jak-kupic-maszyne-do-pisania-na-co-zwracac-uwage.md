@@ -46,9 +46,9 @@ Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przer
 
 ### Szereg pytań asekuracyjnych
 
-Najczęściej psujące się elementy to sprężyna, szyny, sprężyny. Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta. Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to __stan mechanizmu blokującego szynę__.
+Najczęściej psujące się elementy to sprężyna naciągające, szyny, sprężynki. Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta (w rzeczywistości też może być trudno za pierwszym razem). Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to __stan mechanizmu blokującego szynę__.
 
-Nawet jeśli ktoś napisze, że maszyna nie działa to jest szansa, że nie odblokował szyny, która powinna się przesuwać. Większość maszyn posiada taką blokadę ze względu na bezpieczeństwo podczas transportu w walizce.
+Nawet jeśli ktoś napisze, że maszyna nie działa, to jest szansa, że nie odblokował szyny, która powinna się przesuwać. Większość maszyn posiada taką blokadę ze względu na bezpieczeństwo podczas transportu w walizce.
 
 Jeśli kupujemy maszynę sami, to powinniśmy wiedzieć gdzie taki mechanizm może się znajdować. Zazwyczaj jest on na dole lub z boku po proawej stronie. Jeśli nie jesteśmy pewni, zawsze możemy sprawdzić [instrukcję obsługi](https://site.xavier.edu/polt/typewriters/tw-manuals.html) danej maszyny i dowiedzieć się.
 
@@ -64,7 +64,7 @@ Chodzi tutaj o potraktowanie farbą mechanizmów co uszkadza lub zupełnie psuje
 
 Jeśli jesteś początkującą/cym i interesuje Cię śliczna maszyna - zaoszczędź więcej pieniędzy i "daj komuś zarobić". Próba odnowienia takiego sprzętu na własną rękę jest żmudna, trudna i prawdopodobieństwo, że się uda jest małe. Możesz oczywiście ekseprymentować ale spróbuj użyć do tego modeli popularnych lub tanich (np. Łucznik), które bez szwanku dla społeczności kolekcjonerów, mogłyby skorzystać na krzykliwym kolorze.
 
-### Wstążka
+### Wstążka / Taśma barwiąca
 
 Wiele osób dodaje "wstążkę gratis" lub wspomina o "nigdy nie używanej" maszynie lub "oryginalnej wstążce". Pomimo antracytowych i niezwykle trwałych substancji użytych do nasączania tuszem czcionki, po upływie dziesięcioleci często wstążka (np. po przechowywaniu na gorącym strychu) staje się kleista lub wyblakła.
 
