@@ -1,7 +1,7 @@
 ---
 title: "Jak Kupić Maszynę do Pisania?"
 description: "Wybór maszyny w cyfrowych czasach jest jeszcze trudniejszy! Na co zwracać uwagę? Jaką maszynę kupić? Które modele omijać?"
-date: 2022-10-02T05:00:00Z
+date: 2023-05-04T01:00:00Z
 image: "/images/posts/2023-05-02/remington-maszyna-do-pisania.png"
 categories: ["zakupy"]
 authors: ["Adam"]
