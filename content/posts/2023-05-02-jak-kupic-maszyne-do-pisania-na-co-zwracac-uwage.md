@@ -36,7 +36,7 @@ Moje ulubione zdania, które wykorzystują __każdą literę alfabetu__.
 
 Piszę do sprzedającego - "Proszę o napisanie mi zdania X". Ja mam wtedy pewność, że klawiatura działa a sprzedający dodatkowy uśmiech.
 
-Nasz kraj znajdował się za żelazną kurtyną. Oczywiście nasza myśl w postaci takich wspaniałych ludzi jak [Władysław Paciorkiewicz](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) czy takich wynalazków jak Łucznik istniała, ale pomimo wspaniałym rozwiązaniom technicznym, nie dorównywała zachodniemu design'owi. Takie maszyny jak modele Smith Corona, Underwood, Olivetti czy Hermes z polską czcionką to u nas znalezisko na skalę krajową.
+Nasz kraj znajdował się za żelazną kurtyną. Oczywiście nasza myśl w postaci takich wspaniałych ludzi jak [Władysław Paciorkiewicz](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) czy takich wynalazków jak Łucznik istniała, ale pomimo wspaniałych rozwiązań technicznych, nie dorównywała np. zachodniemu design'owi. Takie maszyny jak Smith Corona, Underwood, Olivetti czy Hermes z polską czcionką to u nas znalezisko na skalę krajową.
 
 Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś chce maszynę wyłącznie na pokaz, to na pewno _"traci efektywność"_ jeśli będzie posiadać np. szwedzkie znaki (chyba, że ten ktoś akurat mówi po szwedzku).
 
