@@ -42,7 +42,7 @@ Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś 
 
 ### Klawiatura raz jeszcze
 
-Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przerabiane na konieczność użycia w polskich warunkach. Warto przyjrzeć się zdjęciu - polskie litery po dokładnym porównaniu klawiszy, różnią się od innych. Oznacza to, że czcionka oraz klawisze były dodawane "na siłę" tj. pomimo braku dopasowania formy klawisza lub czcionki wybijającej litery.
+Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przerabiane na konieczność użycia w polskich warunkach. Warto przyjrzeć się polskim literom. Po dokładnym porównaniu klawiszy, różnią się od innych. Oznacza to, że czcionka oraz klawisze były dodawane "na siłę" tj. pomimo braku dopasowania do formy innych klawiszy czy czcionki wybijającej litery.
 
 ### Szereg pytań asekuracyjnych
 
