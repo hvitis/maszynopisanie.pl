@@ -15,7 +15,7 @@ Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będ
 
 ### Musi działać
 
-Wydaje się to być oczywiste, jednak ludzie coraz częściej kupują maszyny głównie w celach kolekcjonerskich. Po postawieniu w odpowiednim miejscu, taki zalążek kolekcjonera nie wie nawet jak napisać na maszynie jedno zdanie. Nic w tym złego! Wszystko wymaga przecież nauki i nikt po urodzeniu nie pisał na maszynie już w kołysce. 
+Wydaje się to być oczywiste, jednak ludzie coraz częściej kupują maszyny głównie w celach kolekcjonerskich. Po postawieniu w odpowiednim miejscu, taki zalążek kolekcjonera nie wie nawet jak napisać na maszynie jedno zdanie. Nic w tym złego! Wszystko wymaga przecież nauki i nikt po urodzeniu nie pisał na maszynie już w kołysce.
 
 Trzeba jednak pamiętać, że prawdziwy kolekcjoner uwielbia działające maszyny do pisania. Nie musi na niej wcale pisać, tym bardziej jeśli ma ich 10. Wystarczy sam fakt, że ktoś mógłby na niej coś napisać. Sprawność maszyny jest świadectwem jej idealnego stanu, a im lepszy stan, tym większa cena.
 
@@ -23,11 +23,11 @@ Sprawa ma się oczywiście inaczej, jeśli już sami jesteśmy wprawieni w napra
 
 ### Prośba o napisanie konkretnego zdania
 
-Nie wystarczy poprosić _kogoś o napisanie czegoś_. Nawet jeśli właściciel ma dobre intencje i napisze nam coś na papierze to może przypadkowo ominąć klawisze, które nie działają. 
+Nie wystarczy poprosić _kogoś o napisanie czegoś_. Nawet jeśli właściciel ma dobre intencje i napisze nam coś na papierze to może przypadkowo ominąć klawisze, które nie działają.
 
-Istnieje coś takiego jak[ __anagram__](https://pl.wikipedia.org/wiki/Anagram). Jest to wyraz powstały z przestawienia liter innego wyrazu. My potrzebujemy przetestować wszystkie znaki jakimi operuje maszyna - zakładamy, że jest to maszyna z Polskimi literami. Bierzemy alfabet, zamieniamy szyk liter całego alfabetu i otrzymujemy -[ __pangram__](https://pl.wikipedia.org/wiki/Pangram)
+Istnieje coś takiego jak[ __anagram__](https://pl.wikipedia.org/wiki/Anagram). Jest to wyraz powstały z przestawienia liter innego wyrazu. My potrzebujemy przetestować wszystkie znaki jakimi operuje maszyna - zakładamy, że jest to maszyna z Polskimi literami. Bierzemy alfabet, zamieniamy szyk liter całego alfabetu i otrzymujemy - [__pangram__](https://pl.wikipedia.org/wiki/Pangram).
 
-Moje ulubione zdania, które wykorzystują *każdą literę alfabetu*.
+Moje ulubione zdania, które wykorzystują __każdą literę alfabetu__.
 
 - Dość błazeństw, żrą mój pęk luźnych fig [L. Jakubowicz; "Wiadomości Literackie" (nr 1, 1936, str. 7)]
 - Filmuj rzeź żądań, pość, gnęb chłystków! [Stanisław Barańczak "Pegaz zdębiał"(Prószyński i S-ka, 2008, str. 13-14)]
@@ -35,17 +35,17 @@ Moje ulubione zdania, które wykorzystują *każdą literę alfabetu*.
 
 Piszę do sprzedającego - "Proszę o napisanie mi zdania X". Ja mam wtedy pewność, że klawiatura działa a sprzedający dodatkowy uśmiech.
 
-Nasz kraj znajdował się za żelazną kurtyną. Oczywiście nasza myśl w postaci takich wspaniałych ludzi jak [Władysław Paciorkiewicz](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) czy takich wynalazków jak Łucznik istniała, ale nie dorównywała zachodnim cudom techniki. Takie maszyny jak modele Smith Corona, Underwood czy Hermes z polską czcionką to u nas znalezisko na skalę krajową.
+Nasz kraj znajdował się za żelazną kurtyną. Oczywiście nasza myśl w postaci takich wspaniałych ludzi jak [Władysław Paciorkiewicz](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Paciorkiewicz) czy takich wynalazków jak Łucznik istniała, ale pomimo wspaniałym rozwiązaniom technicznym, nie dorównywała zachodniemu design'owi. Takie maszyny jak modele Smith Corona, Underwood, Olivetti czy Hermes z polską czcionką to u nas znalezisko na skalę krajową.
 
-Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś chce maszynę wyłącznie na pokaz, to straci ona efekt jeśli będzie posiadać np. szwedzkie znaki (chyba, że ten ktoś akurat mówi po szwedzku). 
+Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś chce maszynę wyłącznie na pokaz, to na pewno _"traci efektywność"_ jeśli będzie posiadać np. szwedzkie znaki (chyba, że ten ktoś akurat mówi po szwedzku).
 
 ### Klawiatura raz jeszcze
 
-Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przerabiane na konieczność użycia w polskich warunkach.
+Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przerabiane na konieczność użycia w polskich warunkach. Warto przyjrzeć się zdjęciu - polskie litery po dokładnym porównaniu klawiszy, różnią się od innych. Oznacza to, że czcionka oraz klawisze były dodawane "na siłę" tj. pomimo braku dopasowania formy klawisza lub czcionki wybijającej litery.
 
 ### Szereg pytań asekuracyjnych
 
-Najczęściej psujące się elementy to sprężyna, szyny, sprężyny. Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta. Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to **stan mechanizmu blokującego szynę**.
+Najczęściej psujące się elementy to sprężyna, szyny, sprężyny. Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta. Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to __stan mechanizmu blokującego szynę__.
 
 Nawet jeśli ktoś napisze, że maszyna nie działa to jest szansa, że nie odblokował szyny, która powinna się przesuwać. Większość maszyn posiada taką blokadę ze względu na bezpieczeństwo podczas transportu w walizce.
 
@@ -57,11 +57,15 @@ Warto też zapytać o poprzednich właścicieli, choćby z ciekawości.
 
 Absolutnie. Nigdy. Słowa klucze, które absolutnie każdemu przynoszą smutek i łezkę w oku:
 
-- Piaskowanie
-- Malowanie
-- Spray
-- Farba
+- Malowanie całości, spray, farba.
 
-Wyjątkiem jest zmiana lub odnowienie koloru **wyłącznie obudowy**. W przeciwnym wypadku maszyna nie stanowi już żadnej wartości.
+Chodzi tutaj o potraktowanie farbą mechanizmów co uszkadza lub zupełnie psuje maszynę. W takim wypadku jedynym, mało prawdopodobnym ratunkiem jest piaskowanie przez specjalistę. Co zrobić jednak w przypadku sprężyn i mechanizmów, które piasek może uszkodzić? Dlatego unikajmy malowanej maszyny, chyba, że została odnowiona przez specjalistę. Wtedy odnowa wiąże się z rozebraniem maszyny i starannym naniesieniem nowego koloru tylko na odpowiednie części - z reguły obudowy. Takie maszyny wyglądają jak nowe i na pewno zauważymy to po wyglądzie i cenie.
 
+Jeśli jesteś początkującą/cym i interesuje Cię śliczna maszyna - zaoszczędź więcej pieniędzy i "daj komuś zarobić". Próba odnowienia takiego sprzętu na własną rękę jest żmudna, trudna i prawdopodobieństwo, że się uda jest małe. Możesz oczywiście ekseprymentować ale spróbuj użyć do tego modeli popularnych lub tanich (np. Łucznik), które bez szwanku dla społeczności kolekcjonerów, mogłyby skorzystać na krzykliwym kolorze.
+
+### Wstążka
+
+Wiele osób dodaje "wstążkę gratis" lub wspomina o "nigdy nie używanej" maszynie lub "oryginalnej wstążce". Pomimo antracytowych i niezwykle trwałych substancji użytych do nasączania tuszem czcionki, po upływie dziesięcioleci często wstążka (np. po przechowywaniu na gorącym strychu) staje się kleista lub wyblakła.
+
+Jeśli zamierzamy pisać na maszynie to na pewno dobrym pomysłem będzie zakup nowej wstążki na allegro. Cena waha się od 15 do 20 złotych, więc nie jest to majątek a starczy nam na bardzo długo (w maszynach ze zmianą koloru pisania, można jednokolorowej wstążki używać dwa razy dłużej).
 
