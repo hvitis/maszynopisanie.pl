@@ -13,6 +13,7 @@ Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będ
 
 ## Na co zwracać uwagę przy zakupie?
 
+
 ### Musi działać
 
 Wydaje się to być oczywiste, jednak ludzie coraz częściej kupują maszyny głównie w celach kolekcjonerskich. Po postawieniu w odpowiednim miejscu, taki zalążek kolekcjonera nie wie nawet jak napisać na maszynie jedno zdanie. Nic w tym złego! Wszystko wymaga przecież nauki i nikt po urodzeniu nie pisał na maszynie już w kołysce.
@@ -68,4 +69,26 @@ Jeśli jesteś początkującą/cym i interesuje Cię śliczna maszyna - zaoszcz�
 Wiele osób dodaje "wstążkę gratis" lub wspomina o "nigdy nie używanej" maszynie lub "oryginalnej wstążce". Pomimo antracytowych i niezwykle trwałych substancji użytych do nasączania tuszem czcionki, po upływie dziesięcioleci często wstążka (np. po przechowywaniu na gorącym strychu) staje się kleista lub wyblakła.
 
 Jeśli zamierzamy pisać na maszynie to na pewno dobrym pomysłem będzie zakup nowej wstążki na allegro. Cena waha się od 15 do 20 złotych, więc nie jest to majątek a starczy nam na bardzo długo (w maszynach ze zmianą koloru pisania, można jednokolorowej wstążki używać dwa razy dłużej).
+
+## Cena - Ile kosztuje?
+
+Cena może się wahać od kilkudziesięciu do kilkuset złotych. Głównie zależy ona od czynników kolekcjonerskich. Tych, które wymieniłem wyżej jak i tych, które dostępne są dla wprawniejszego oka - modelu, roku produkcji itd, które mają znaczenie raczej rzadziej. 
+
+### Pisanie na maszynie czy kolekcjonowanie
+
+Jeśli chcemy rozpocząć kolekcjonowanie, możemy zacząć naukę od modeli za kilkadziesiąt złotych.
+
+Jeśli jesteśmy zdeterminowani, żeby tylko pisać i robić to często - wtedy lepiej przeznaczyć wyższą kwotę na "ewidentnie" sprawną maszynę lub poradzić się specjalisty. Jako pierwsza maszyna do pisania sprawdzi się zarówno Erika jak i Łucznik. Nawet aspirujący do pisania lub praktykujący pisarze powinni zapoznać się z samą ideą, dopiero potem kupić maszynę _wymarzoną_. 
+
+Pisanie na maszynie bardzo różni się od komputerowego - dobrze przekonać się, czy będziemy w stanie oswoić się z siłą nacisku, blokowaniem czcionki, konserwacją, obsługą itd. Trzeba też pamiętać, że maszyny się różnią i na różnych modelach pisze się inaczej. Nie zrażajmy się więc po pierwszym zakupie!
+
+Przypomnę, że cały artykuł jest o maszynach, które nie wymagają do pisania prądu. Maszyny elektryczne to trochę inna dziedzina, której nie znam. Na pewno rządzi się innymi prawami i cenami.
+
+### Kupię / Sprzedam Maszynę do Pisania
+
+Działającą maszynę do pisania można kupić na pchlim targu, lokalnej giełdzie, giełdach dzielnicowych w większych miastach. Tam możemy oczywiście dotknąć i obejrzeć - zdobyć pewność. Powyższe rady pomogą nam jednak w szukaniu maszyn na allegro, allegrolokalnie oraz olx. Możemy na tych stronach polować na konkretny model np. jeśli insteresuje nas maszyna, która jest niedostępna, możemy zacząć [obserwować wyszukiwanie](https://allegro.pl/pomoc/dla-kupujacych/wyszukiwanie-i-obserwowanie/jak-obserwowac-ulubionych-sprzedajacych-kategorie-oraz-wyszukiwania-z8Dmgzbags8). Zostaniemy wtedy powiadomieni, gdy ktoś w Polsce wystawi interesującą nas ofertę.
+
+Możemy też odwiedzić fora pasjonatów lub lokalne lombardy i poinformować ludzi o naszych poszukiwaniach. Dobrze też uzbroić się w cierpliwość, która pomoże nam w znalezieniu maszyny, która będzie cieszyć oko lub palce przez kolejne 50 lat.
+
+I pamiętajmy: nie istnieje coś takiego jak __"nowa maszyna do pisania"__. Ostatnia nowa maszyna do pisania (elektryczna) została wyprodukowana [w 2011 roku w Indiach](https://www.theatlantic.com/technology/archive/2011/04/last-typewriter-factory-in-the-world-shuts-its-doors/237838/). Wtedy zamknięto ostatnią na świecie fabrykę maszyn do pisania.
 
