@@ -13,7 +13,6 @@ Można pomyśleć, że jeśli mamy do wyboru mydło białe lub szare to nie będ
 
 ## Na co zwracać uwagę przy zakupie?
 
-
 ### Musi działać
 
 Wydaje się to być oczywiste, jednak ludzie coraz częściej kupują maszyny głównie w celach kolekcjonerskich. Po postawieniu w odpowiednim miejscu, taki zalążek kolekcjonera nie wie nawet jak napisać na maszynie jedno zdanie. Nic w tym złego! Wszystko wymaga przecież nauki i nikt po urodzeniu nie pisał na maszynie już w kołysce.
@@ -42,15 +41,15 @@ Kolejny powód dlaczego warto uczyć się języków obcych - nawet jeśli ktoś 
 
 ### Klawiatura raz jeszcze
 
-Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne były przerabiane na konieczność użycia w polskich warunkach. Warto przyjrzeć się polskim literom. Po dokładnym porównaniu klawiszy, różnią się od innych. Oznacza to, że czcionka oraz klawisze były dodawane "na siłę" tj. pomimo braku dopasowania do formy innych klawiszy czy czcionki wybijającej litery.
+Bardzo ważne - oryginalność klawiszy. Często maszyny zagraniczne z konieczności używania w polskich warunkach, były przerabiane. Warto przyjrzeć się polskim literom. Po dokładnym porównaniu klawiszy, różnią się od innych. Oznacza to, że czcionka oraz klawisze były dodawane "na siłę" tj. pomimo braku dopasowania do formy innych klawiszy czy czcionki wybijającej litery.
 
 ### Szereg pytań asekuracyjnych
 
-Najczęściej psujące się elementy to sprężyna naciągające, szyny, sprężynki. Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta (w rzeczywistości też może być trudno za pierwszym razem). Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to __stan mechanizmu blokującego szynę__.
+Najczęściej psujące się elementy to sprężyna naciągająca, szyny i sprężynki (odrobina rdzy wystarczy, żeby osłabić ich sprężystość). Trudno niestety laikowi na odległość sprawdzić czy maszyna jest faktycznie popsuta (w rzeczywistości też może być to trudne za pierwszym razem). Może być tak, że kurz i pająki plotą silne liny na muchy i przez przypadek blokują mechanizm przeskoku. To co wiemy na pewno i o co powinniśmy zapytać to __stan mechanizmu blokującego szynę__.
 
 Nawet jeśli ktoś napisze, że maszyna nie działa, to jest szansa, że nie odblokował szyny, która powinna się przesuwać. Większość maszyn posiada taką blokadę ze względu na bezpieczeństwo podczas transportu w walizce.
 
-Jeśli kupujemy maszynę sami, to powinniśmy wiedzieć gdzie taki mechanizm może się znajdować. Zazwyczaj jest on na dole lub z boku po proawej stronie. Jeśli nie jesteśmy pewni, zawsze możemy sprawdzić [instrukcję obsługi](https://site.xavier.edu/polt/typewriters/tw-manuals.html) danej maszyny i dowiedzieć się.
+Jeśli kupujemy maszynę sami, powinniśmy wiedzieć, gdzie taki mechanizm może się znajduje. Zazwyczaj jest on na dole lub z boku po proawej stronie. Jeśli nie jesteśmy pewni, zawsze możemy sprawdzić [instrukcję obsługi](https://site.xavier.edu/polt/typewriters/tw-manuals.html) danej maszyny i dowiedzieć się.
 
 Warto też zapytać o poprzednich właścicieli, choćby z ciekawości.
 
@@ -78,7 +77,7 @@ Cena może się wahać od kilkudziesięciu do kilkuset złotych. Głównie zale�
 
 Jeśli chcemy rozpocząć kolekcjonowanie, możemy zacząć naukę od modeli za kilkadziesiąt złotych.
 
-Jeśli jesteśmy zdeterminowani, żeby tylko pisać i robić to często - wtedy lepiej przeznaczyć wyższą kwotę na "ewidentnie" sprawną maszynę lub poradzić się specjalisty. Jako pierwsza maszyna do pisania sprawdzi się zarówno Erika jak i Łucznik. Nawet aspirujący do pisania lub praktykujący pisarze powinni zapoznać się z samą ideą, dopiero potem kupić maszynę _wymarzoną_. 
+Jeśli jesteśmy zdeterminowani do częstego pisania to wtedy lepiej przeznaczyć wyższą kwotę na "ewidentnie" sprawną maszynę lub poradzić się specjalisty. Jako pierwsza maszyna do pisania sprawdzi się zarówno Erika jak i Łucznik. Nawet aspirujący czy już praktykujący pisarze, powinni zapoznać się z samą ideą a dopiero potem kupić maszynę _wymarzoną_.
 
 Pisanie na maszynie bardzo różni się od komputerowego - dobrze przekonać się, czy będziemy w stanie oswoić się z siłą nacisku, blokowaniem czcionki, konserwacją, obsługą itd. Trzeba też pamiętać, że maszyny się różnią i na różnych modelach pisze się inaczej. Nie zrażajmy się więc po pierwszym zakupie!
 
@@ -90,5 +89,5 @@ Działającą maszynę do pisania można kupić na pchlim targu, lokalnej giełd
 
 Możemy też odwiedzić fora pasjonatów lub lokalne lombardy i poinformować ludzi o naszych poszukiwaniach. Dobrze też uzbroić się w cierpliwość, która pomoże nam w znalezieniu maszyny, która będzie cieszyć oko lub palce przez kolejne 50 lat.
 
-I pamiętajmy: nie istnieje coś takiego jak __"nowa maszyna do pisania"__. Ostatnia nowa maszyna do pisania (elektryczna) została wyprodukowana [w 2011 roku w Indiach](https://www.theatlantic.com/technology/archive/2011/04/last-typewriter-factory-in-the-world-shuts-its-doors/237838/). Wtedy zamknięto ostatnią na świecie fabrykę maszyn do pisania.
+I pamiętajmy: nie istnieje coś takiego jak __"nowa maszyna do pisania"__. Ostatnia nowa maszyna do pisania (elektryczna / elektroniczna) została wyprodukowana [w 2011 roku w Indiach](https://www.theatlantic.com/technology/archive/2011/04/last-typewriter-factory-in-the-world-shuts-its-doors/237838/). Wtedy zamknięto ostatnią na świecie fabrykę maszyn do pisania.
 
