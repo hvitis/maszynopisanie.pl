@@ -124,7 +124,7 @@ function BuyingOptions({ title, ...props }) {
   );
 }
 
-const Photos = ({ image, ...props }) => {
+const BookCollagePhotos = ({ image, ...props }) => {
   let rotations = [
     'rotate-2',
     '-rotate-2',
@@ -132,7 +132,11 @@ const Photos = ({ image, ...props }) => {
     'rotate-2',
     '-rotate-2',
   ];
-  let imgUrl = image.split('--')[0];
+  let [baseImgUrl, imgIndex] = image.split('--');
+  let [_, imgExtension] = imgIndex.split('.');
+  let name = baseImgUrl.split('-');
+  let altName = `Zdjęcie książki ${name.join(' ')}`;
+
   return (
     <div className="mt-16 sm:mt-20">
       <div className="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
@@ -145,8 +149,8 @@ const Photos = ({ image, ...props }) => {
             )}
           >
             <Image
-              src={`${imgUrl}--${index}.jpg`}
-              alt=""
+              src={`${baseImgUrl}--${index}.${imgExtension}`}
+              alt={altName}
               sizes="(min-width: 640px) 18rem, 11rem"
               className="absolute inset-0 h-full w-full object-cover"
               layout="fill"
@@ -259,13 +263,15 @@ const BookSingle = ({ frontmatter, content, mdxContent }) => {
                 {bookAuthorSocial.website ? (
                   Array.isArray(bookAuthorSocial.website) ? (
                     bookAuthorSocial.website.map((link) => {
-                      return <SocialLink
-                        href={link}
-                        aria-label="Follow on website"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        icon={GlobeAltIcon}
-                      />;
+                      return (
+                        <SocialLink
+                          href={link}
+                          aria-label="Follow on website"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          icon={GlobeAltIcon}
+                        />
+                      );
                     })
                   ) : (
                     <SocialLink
@@ -281,7 +287,7 @@ const BookSingle = ({ frontmatter, content, mdxContent }) => {
             ) : null}
           </div>
         </Container>
-        <Photos image={image} />
+        <BookCollagePhotos image={image} />
         <Container className="mt-16 md:mt-28">
           <div className="mx-auto max-w-xl grid-cols-8 gap-2 gap-y-20 lg:grid lg:max-w-none">
             <div class="col-start-2 col-end-7 p-2 pt-2 indent-8 lg:pb-28">
