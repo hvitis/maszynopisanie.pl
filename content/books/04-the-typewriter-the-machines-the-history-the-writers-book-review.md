@@ -1,6 +1,6 @@
 ---
 title: The Typewriter
-image: /images/books/04-typewriter-machines-history/typewriter-history-machines-writes--04.jpg
+image: /images/books/04-typewriter-machines-history/typewriter-history-machines-writes--4.jpg
 date: 2023-05-05T01:00:00Z
 description: Skorowidz ciekawostek gotowy zaszczepić ideę maszynową u każdego.
 bookAuthor: 'Tony Allan'
@@ -26,4 +26,4 @@ Nawet jako wprawiony kolekcjoner znalazłem tam kilka ciekawostek o których nie
 Jeśli kogoś powstrzymuje cena, zapraszam do kontaktu. Chętnie pożyczę swoją.
 
 
-![Wewnatrz Typewriter History Książki](/images/books/04-typewriter-machines-history/typewriter-history-machines-writes--05.jpg)
+![Wewnatrz Typewriter History Książki](/images/books/04-typewriter-machines-history/typewriter-history-machines-writes.jpg)
