@@ -9,39 +9,33 @@
       "url": "/books"
     },
     {
-      "name": "Manifest",
-      "url": "/manifesto"
+      "name": "Napisz",
+      "url": "/contact"
     },
     {
       "name": "Więcej",
       "url": "",
       "hasChildren": true,
       "children": [
-        
         {
-          "name": "Maszynopisacze",
-          "url": "/authors"
+          "name": "Manifest",
+          "url": "/manifesto"
         },
         {
           "name": "Maszynolity",
           "url": "/maszynolity"
         },
         {
-          "name": "O Nas",
-          "url": "/about"
+          "name": "Pobieranie",
+          "url": "/pobierz"
         },
-       
         {
           "name": "Skaner",
           "url": "/ocr-scaner"
         },
         {
-          "name": "Kontakt",
-          "url": "/contact"
-        },
-        {
-          "name": "Pobieranie",
-          "url": "/pobierz"
+          "name": "O Nas",
+          "url": "/about"
         }
       ]
     }

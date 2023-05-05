@@ -1,10 +1,9 @@
 import Pagination from "@components/Pagination";
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
+import BookList from "@layouts/partials/BookList";
 import { getListPage, getSinglePages, getSinglePagesSlug } from "@lib/contents";
 import { parseMDX } from "@lib/utils/mdxParser";
-import { markdownify } from "@lib/utils/textConverter";
-import BookList from "@layouts/partials/BookList";
 
 // blog pagination
 const BookPagination = ({
