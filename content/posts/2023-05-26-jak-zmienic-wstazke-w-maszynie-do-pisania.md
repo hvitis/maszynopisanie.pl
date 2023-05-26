@@ -13,7 +13,7 @@ Jedna wstążka nawet wprawnym pisarzom może starczyć na dziesiątki lub setki
 
 Najważniejsze informacje w tym poście dotyczą samej wymiany wstążki, którą najlepiej zobaczyć. Na potrzeby tego wpisu zacznijmy od obejrzenia filmu:
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/OHTm9j05t3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHTm9j05t3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Wymiana wstążki w maszynie do pisania
 
