@@ -2,7 +2,7 @@
 title: "Jak Wymienić Taśmę w Maszynie do Pisania"
 description: "Jak wymienić oraz dlaczego nie nasączać i nie regenerować wstążki do maszyny do pisania."
 date: 2023-05-26T21:20:00Z
-image: "/images/posts/2023-05-16-wstazka-ribbon-kolorowa-na-maszynie-do-pisania.jpeg"
+image: "/images/posts/2023-05-26-wstazka-ribbon-kolorowa-na-maszynie-do-pisania.jpeg"
 categories: ["taśma", "wstążka"]
 authors: ["Adam"]
 tags: ["maszyny", "taśmy", "wstążki"]
