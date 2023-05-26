@@ -6,3 +6,4 @@ node_modules
 .netlify
 .obsidian
 .DS_Store
+posts.json
