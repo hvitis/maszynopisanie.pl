@@ -18,7 +18,11 @@ Najczęściej wymieniane:
 - Nieprzerwane skupienie.
 - Magiczne przeżycie.
 - Namacalne osiągnięcie.
+- Ma nieskończoną pojemność baterii.
+- Nie nagrzewa się na słońcu (a jeśli tak, to i tak mniej, plus nie szkodzi to jej tak jak komponentom laptopa).
 - Dźwięki są bardzo satysfakcjonujące! Za każdym razem, gdy maszyna do pisania robi DING! Czuję się super szczęśliwy.
+
+![Olivetti Valentine](./images/posts/2022-09-10/olivetti-valentine.jpeg)
 
 Mniej ale nadal często:
 - Rodzaj rytuału kiedy trzeba maszynę rozpakować i do niej przysiąść.
@@ -41,7 +45,7 @@ Mniej ale nadal często:
 - To o wiele przyjemniejsze niż pisanie na komputerze.
 - Setki, a nawet tysiące malutkich uderzeń dopaminy podczas każdej sesji.
 - Podnieca lepszych członków płci przeciwnej. Nudni ludzie będą cię unikać, gorące, błyskotliwe i ciekawe osoby uznają że jesteś zniewalający.
-- Spowalnia mnie, jednocześnie pozwalając mi pisać, gdy pracuję nad opowiadaniem lub powieścią, która sprawia mi kłopoty. 
+- Spowalnia mnie, jednocześnie pozwalając mi pisać, gdy pracuję nad opowiadaniem lub powieścią, która sprawia mi kłopoty.
 - Maszyny do pisania są szczególnie dobre do pisania poezji, ponieważ uświadamiają ci czcionkę na stronie, rytm, przestrzeń i uświadamiają ci wybór każdego słowa.
 - Daje pewność w wyrażaniu swoich uczuć.
 - Nawet przenośna maszyna do pisania jest solidna, trwała i wytrzymała. Ma duszę.
