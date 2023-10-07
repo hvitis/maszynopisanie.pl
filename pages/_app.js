@@ -7,7 +7,7 @@ import 'styles/style.scss';
 import { GoogleAnalytics } from 'nextjs-google-analytics';
 import { ThemeProvider } from 'next-themes';
 import { Analytics } from 'pliny/analytics';
-import siteMetadata from './data/siteMetadata';
+import siteMetadata from 'data/siteMetadata';
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
