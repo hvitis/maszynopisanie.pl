@@ -1,11 +1,13 @@
-import config from "@config/config.json";
-import theme from "@config/theme.json";
-import { JsonContext } from "context/state";
-import Head from "next/head";
-import { useEffect, useState } from "react";
-import "styles/style.scss";
-import { GoogleAnalytics } from "nextjs-google-analytics";
+import config from '@config/config.json';
+import theme from '@config/theme.json';
+import { JsonContext } from 'context/state';
+import Head from 'next/head';
+import { useEffect, useState } from 'react';
+import 'styles/style.scss';
+import { GoogleAnalytics } from 'nextjs-google-analytics';
 import { ThemeProvider } from 'next-themes';
+import { Analytics } from 'pliny/analytics';
+import siteMetadata from './data/siteMetadata';
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
@@ -17,40 +19,40 @@ const App = ({ Component, pageProps }) => {
   useEffect(() => {
     fetch(
       `https://fonts.googleapis.com/css2?family=${pf}${
-        sf ? "&family=" + sf : ""
+        sf ? '&family=' + sf : ''
       }&display=swap`
     ).then((res) => res.text().then((css) => setFontcss(css)));
   }, [pf, sf]);
 
   return (
     <ThemeProvider enableSystem={true} attribute="class">
+      <JsonContext>
+        <Head>
+          {/* favicon */}
+          <link rel="shortcut icon" href={favicon} />
 
-    <JsonContext>
-      <Head>
-        {/* favicon */}
-        <link rel="shortcut icon" href={favicon} />
+          {/* google font css */}
+          <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossOrigin="true"
+          />
+          <style
+            dangerouslySetInnerHTML={{
+              __html: `${fontcss}`,
+            }}
+          />
 
-        {/* google font css */}
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="true"
-        />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `${fontcss}`,
-          }}
-        />
-
-        {/* responsive meta */}
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=5"
-        />
-      </Head>
-      <GoogleAnalytics trackPageViews />
-      <Component {...pageProps} />
-    </JsonContext>
+          {/* responsive meta */}
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, maximum-scale=5"
+          />
+        </Head>
+        <GoogleAnalytics trackPageViews />
+        <Analytics analyticsConfig={siteMetadata.analytics} />
+        <Component {...pageProps} />
+      </JsonContext>
     </ThemeProvider>
   );
 };
