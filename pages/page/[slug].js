@@ -25,12 +25,12 @@ const BlogPagination = ({
     <Base>
       <section className="section">
         <div className="container">
-          <div className="mx-auto mb-7  pr-6 ">
-            <div className="mx-auto  lg:mx-0">
-              <h1 className="text-2xl font-bold tracking-tight text-gray-700 sm:text-6xl">
+          <div className="mx-auto mb-7 pr-6 ">
+            <div className="mx-auto lg:mx-0">
+              <h1 className="text-xl font-bold tracking-tight text-gray-700 lg:text-4xl">
                 {siteMetadata.headerTitle}
               </h1>
-              <h2 className="mt-6 pl-0 text-sm font-normal leading-8 text-gray-500 lg:pl-4 lg:text-lg">
+              <h2 className="lg:text-md mt-6 w-4/5 pl-0 text-sm font-normal leading-8 text-gray-500 lg:text-lg">
                 {siteMetadata.description}
               </h2>
             </div>

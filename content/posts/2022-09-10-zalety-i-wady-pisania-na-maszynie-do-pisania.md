@@ -5,7 +5,7 @@ date: 2022-09-10T05:00:00Z
 image: "/images/posts/2022-09-10/zalety-i-wady-pisania-na-maszynie.jpg"
 categories: ["maszyny"]
 authors: ["Adam"]
-tags: ["pisanie publicznie"]
+tags: ["pisanie", "zalety", "wady"]
 draft: false
 ---
 
@@ -15,6 +15,7 @@ Ludzie używający maszyn do pisania dzisiaj wymieniają liczne zalety ich użyt
 Ludzie uwielbiają pisać na maszynie. Mnóstwo zachwytu odnosiło się do podobnych plusów. Wymieniano ich mnóstwo, niektóre się powtarzały. Podsumowałem te wypowiedzi tak, że można z nich wyciągnąć następujące zalety:
 
 Najczęściej wymieniane:
+
 - Nieprzerwane skupienie.
 - Magiczne przeżycie.
 - Namacalne osiągnięcie.
@@ -25,6 +26,7 @@ Najczęściej wymieniane:
 ![Olivetti Valentine](./images/posts/2022-09-10/olivetti-valentine.jpeg)
 
 Mniej ale nadal często:
+
 - Rodzaj rytuału kiedy trzeba maszynę rozpakować i do niej przysiąść.
 - Po intensywnym pisaniu mam inny chwyt i dotyk podczas używania rąk
 - Odgłos klakania jest bardzo przyjemny. Użytkownicy faworyzują maszyny, które wydają głośne dźwięki. (Warto wspomnieć, że maszyny posiadają też dzwoneczek sygnalizujący koniec wiersza.)

@@ -5,7 +5,7 @@ const siteMetadata = {
   author: 'Adam Piskorek',
   headerTitle: 'Wszystko o maszynach do pisania',
   description:
-    'Olivetti, Erika, Łucznik, Hermes a może Olympia albo Underwood? Zastanawiasz się jaką i gdzie kupić? Jak działa? Tu znajdziesz wszystko o maszynach do pisania.',
+    'Olivetti, Erika, Łucznik, Hermes a może Olympia albo Underwood? Zastanawiasz się jaką i gdzie kupić? Jak działa? Tutaj znajdziesz o nich wszystko.',
   language: 'pl-PL',
   baseUrl: 'https://maszynopisanie.pl',
   imageUrl: '/olivetti-maszyna-valentine.webp',
