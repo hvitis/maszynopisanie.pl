@@ -30,7 +30,7 @@ const BlogPagination = ({
               <h1 className="text-2xl font-bold tracking-tight text-gray-700 sm:text-6xl">
                 {siteMetadata.headerTitle}
               </h1>
-              <h2 className="mt-6 pl-4 text-lg font-normal leading-8 text-gray-500">
+              <h2 className="mt-6 pl-0 text-sm font-normal leading-8 text-gray-500 lg:pl-4 lg:text-lg">
                 {siteMetadata.description}
               </h2>
             </div>
