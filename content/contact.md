@@ -1,5 +1,5 @@
 ---
-title: "Napisz do Nas"
+title: "Napisz do mnie"
 layout: "contact"
 draft: false
 ---

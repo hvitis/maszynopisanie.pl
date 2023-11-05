@@ -9,8 +9,8 @@
       "url": "/books"
     },
     {
-      "name": "Napisz",
-      "url": "/contact"
+      "name": "Skaner",
+      "url": "/ocr-scaner"
     },
     {
       "name": "Więcej",
@@ -22,19 +22,15 @@
           "url": "/manifesto"
         },
         {
-          "name": "Maszynolity",
-          "url": "/maszynolity"
+          "name": "Kontakt",
+          "url": "/contact"
         },
         {
-          "name": "Pobieranie",
+          "name": "Do pobrania",
           "url": "/pobierz"
         },
         {
-          "name": "Skaner",
-          "url": "/ocr-scaner"
-        },
-        {
-          "name": "O Nas",
+          "name": "O mnie",
           "url": "/about"
         }
       ]
@@ -42,7 +38,7 @@
   ],
   "footer": [
     {
-      "name": "O Nas",
+      "name": "O mnie",
       "url": "/about"
     },
     {

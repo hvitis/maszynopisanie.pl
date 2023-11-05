@@ -1,16 +1,21 @@
-import { dateFormat } from "@lib/utils/dateFormat";
-import { similerItems } from "@lib/utils/similarItems";
-import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
-import { shortcodes } from "@shortcodes/all";
-import { MDXRemote } from "next-mdx-remote";
-import Image from "next/image";
-import Link from "next/link";
-import Share from "./components/Share";
-import SimilarPosts from "./partials/SimilarPosts";
+import { dateFormat } from '@lib/utils/dateFormat';
+import { similerItems } from '@lib/utils/similarItems';
+import {
+  humanize,
+  markdownify,
+  slugify,
+} from '@lib/utils/textConverter';
+import { shortcodes } from '@shortcodes/all';
+import { MDXRemote } from 'next-mdx-remote';
+import Image from 'next/image';
+import Link from 'next/link';
+import Share from './components/Share';
+import SimilarPosts from './partials/SimilarPosts';
 
 const PostSingle = ({ post, posts, authors, slug }) => {
   const { frontmatter, content, mdxContent } = post;
-  let { description, title, date, image, categories, tags } = frontmatter;
+  let { description, title, date, image, categories, tags } =
+    frontmatter;
   description = description ? description : content.slice(0, 120);
   const similarPosts = similerItems(post, posts, slug);
 
@@ -19,7 +24,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
       <section className="section">
         <div className="container">
           <article className="text-center">
-            {markdownify(title, "h1", "h2")}
+            {markdownify(title, 'h1', 'h2')}
             <ul className="mt-4 mb-8 text-text">
               <li className="mb-2 mr-4 inline-block">
                 {authors
@@ -30,7 +35,9 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                   )
                   .map((author, i) => (
                     <Link
-                      href={`/authors/${slugify(author.frontmatter.title)}`}
+                      href={`/authors/${slugify(
+                        author.frontmatter.title
+                      )}`}
                       key={`author-${i}`}
                       passHref
                     >
@@ -50,12 +57,20 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                     </Link>
                   ))}
               </li>
-              <li className="mb-2 mr-4 inline-block">{dateFormat(date)}</li>
+              <li className="mb-2 mr-4 inline-block">
+                {dateFormat(date)}
+              </li>
               <li className="mb-2 mr-4 inline-block">
                 <ul>
                   {categories.map((category, i) => (
-                    <li className="inline-block" key={`category-${i}`}>
-                      <Link href={`/categories/${slugify(category)}`} passHref>
+                    <li
+                      className="inline-block"
+                      key={`category-${i}`}
+                    >
+                      <Link
+                        href={`/categories/${slugify(category)}`}
+                        passHref
+                      >
                         <a className="mr-3 hover:text-primary">
                           &#9635; {humanize(category)}
                         </a>

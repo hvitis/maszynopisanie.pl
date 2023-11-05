@@ -1,9 +1,9 @@
-import Base from "@layouts/Baseof";
-import Posts from "@layouts/partials/Posts";
-import { getSinglePages } from "@lib/contents";
-import { slugify } from "@lib/utils/textConverter";
-import { useSearchContext } from "context/state";
-import { useRouter } from "next/router";
+import Base from '@layouts/Baseof';
+import PostsList from '@layouts/partials/PostsList';
+import { getSinglePages } from '@lib/contents';
+import { slugify } from '@lib/utils/textConverter';
+import { useSearchContext } from 'context/state';
+import { useRouter } from 'next/router';
 
 const SearchPage = ({ authors }) => {
   const router = useRouter();
@@ -21,7 +21,9 @@ const SearchPage = ({ authors }) => {
     ) {
       return product;
     } else if (
-      product.frontmatter.tags.find((tag) => slugify(tag).includes(keyword))
+      product.frontmatter.tags.find((tag) =>
+        slugify(tag).includes(keyword)
+      )
     ) {
       return product;
     } else if (slugify(product.content).includes(keyword)) {
@@ -34,10 +36,11 @@ const SearchPage = ({ authors }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Search results for <span className="text-primary">{query.key}</span>
+            Search results for{' '}
+            <span className="text-primary">{query.key}</span>
           </h1>
           {searchResults.length > 0 ? (
-            <Posts posts={searchResults} authors={authors} />
+            <PostsList posts={searchResults} authors={authors} />
           ) : (
             <div className="py-24 text-center text-h3 shadow">
               No Search Found
@@ -53,7 +56,7 @@ export default SearchPage;
 
 // get authors data
 export const getStaticProps = () => {
-  const authors = getSinglePages("content/authors");
+  const authors = getSinglePages('content/authors');
   return {
     props: {
       authors: authors,

@@ -1,10 +1,14 @@
-import Pagination from "@components/Pagination";
-import config from "@config/config.json";
-import Base from "@layouts/Baseof";
-import { getListPage, getSinglePages, getSinglePagesSlug } from "@lib/contents";
-import { parseMDX } from "@lib/utils/mdxParser";
-import { markdownify } from "@lib/utils/textConverter";
-import AuthorList from "@layouts/partials/AuthorList";
+import Pagination from '@components/Pagination';
+import Base from '@layouts/Baseof';
+import {
+  getListPage,
+  getSinglePages,
+  getSinglePagesSlug,
+} from '@lib/contents';
+import { parseMDX } from '@lib/utils/mdxParser';
+import { markdownify } from '@lib/utils/textConverter';
+import AuthorList from '@layouts/partials/AuthorList';
+import siteMetadata from 'data/siteMetadata';
 
 // blog pagination
 const AuthorPagination = ({
@@ -16,7 +20,10 @@ const AuthorPagination = ({
   const indexOfLastAuthor = currentPage * pagination;
   const indexOfFirstAuthor = indexOfLastAuthor - pagination;
   const totalPages = Math.round(authors.length / pagination);
-  const currentAuthors = authors.slice(indexOfFirstAuthor, indexOfLastAuthor);
+  const currentAuthors = authors.slice(
+    indexOfFirstAuthor,
+    indexOfLastAuthor
+  );
   const { frontmatter, content } = authorIndex;
   const { title } = frontmatter;
 
@@ -24,7 +31,7 @@ const AuthorPagination = ({
     <Base title={title}>
       <section className="section">
         <div className="container text-center">
-          {markdownify(title, "h1", "h2 mb-16")}
+          {markdownify(title, 'h1', 'h2 mb-16')}
           <AuthorList authors={currentAuthors} />
           <Pagination
             section="authors"
@@ -41,8 +48,8 @@ export default AuthorPagination;
 
 // get blog pagination slug
 export const getStaticPaths = () => {
-  const allSlug = getSinglePagesSlug("content/authors");
-  const { pagination } = config.settings;
+  const allSlug = getSinglePagesSlug('content/authors');
+  const { pagination } = siteMetadata.settings;
   const totalPages = Math.round(allSlug.length / pagination);
   let paths = [];
 
@@ -63,9 +70,9 @@ export const getStaticPaths = () => {
 // get blog pagination content
 export const getStaticProps = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
-  const { pagination } = config.settings;
-  const authors = getSinglePages("content/authors");
-  const authorIndex = await getListPage("content/authors");
+  const { pagination } = siteMetadata.settings;
+  const authors = getSinglePages('content/authors');
+  const authorIndex = await getListPage('content/authors');
   const mdxContent = await parseMDX(authorIndex.content);
 
   return {

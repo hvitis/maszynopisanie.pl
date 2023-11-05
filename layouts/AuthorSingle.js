@@ -8,7 +8,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import clsx from 'clsx';
 
-
 import { Container } from './components/Container';
 import {
   TwitterIcon,
@@ -75,7 +74,7 @@ const AuthorSingle = ({ frontmatter, content, mdxContent }) => {
                   src={image}
                   width={400}
                   height={400}
-                  alt=""
+                  alt="Autor bloga"
                   sizes="(min-width: 1024px) 32rem, 20rem"
                   className="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
                 />
@@ -92,16 +91,31 @@ const AuthorSingle = ({ frontmatter, content, mdxContent }) => {
             {social ? (
               <div className="lg:pl-20">
                 <ul role="list">
-                  <SocialLink href={social.twitter} icon={TwitterIcon}>
+                  <SocialLink
+                    href={social.twitter}
+                    icon={TwitterIcon}
+                  >
                     Follow on Twitter
                   </SocialLink>
-                  <SocialLink href={social.instagram} icon={InstagramIcon} className="mt-4">
+                  <SocialLink
+                    href={social.instagram}
+                    icon={InstagramIcon}
+                    className="mt-4"
+                  >
                     Follow on Instagram
                   </SocialLink>
-                  <SocialLink href={social.github} icon={GitHubIcon} className="mt-4">
+                  <SocialLink
+                    href={social.github}
+                    icon={GitHubIcon}
+                    className="mt-4"
+                  >
                     Follow on GitHub
                   </SocialLink>
-                  <SocialLink href={social.linkedin} icon={LinkedInIcon} className="mt-4">
+                  <SocialLink
+                    href={social.linkedin}
+                    icon={LinkedInIcon}
+                    className="mt-4"
+                  >
                     Follow on LinkedIn
                   </SocialLink>
                   <SocialLink

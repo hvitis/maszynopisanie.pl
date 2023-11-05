@@ -1,32 +1,42 @@
-import config from "@config/config.json";
-import NotFound from "@layouts/404";
-import About from "@layouts/About";
-import Base from "@layouts/Baseof";
-import Books from "@layouts/BookSingle";
-import Contact from "@layouts/Contact";
-import Scaner from "@layouts/Scaner";
-import Default from "@layouts/Default";
-import PostSingle from "@layouts/PostSingle";
+import NotFound from '@layouts/404';
+import About from '@layouts/About';
+import Base from '@layouts/Baseof';
+import Books from '@layouts/BookSingle';
+import Contact from '@layouts/Contact';
+import Scaner from '@layouts/Scaner';
+import Default from '@layouts/Default';
+import PostSingle from '@layouts/PostSingle';
 import {
   getRegularPage,
   getRegularPageSlug,
   getSinglePages,
   getSinglePagesSlug,
-} from "@lib/contents";
-import { plainify } from "@lib/utils/textConverter";
-const { blog_folder } = config.settings;
+} from '@lib/contents';
+import { plainify } from '@lib/utils/textConverter';
+import siteMetadata from 'data/siteMetadata';
+
+const { blog_folder } = siteMetadata.settings;
 
 // for all regular pages
 const RegularPages = ({ slug, data, postSlug, authors, posts }) => {
-  const { title, meta_title, description, image, noindex, canonical, layout } =
-    data.frontmatter;
+  const {
+    title,
+    meta_title,
+    description,
+    image,
+    noindex,
+    canonical,
+    layout,
+  } = data.frontmatter;
   const { content } = data;
 
   return (
     <Base
       title={plainify(title)}
       description={
-        description ? plainify(description) : plainify(content.slice(0, 120))
+        description
+          ? plainify(description)
+          : plainify(content.slice(0, 120))
       }
       meta_title={plainify(meta_title)}
       image={image}
@@ -35,18 +45,23 @@ const RegularPages = ({ slug, data, postSlug, authors, posts }) => {
     >
       {/* single post */}
       {postSlug.includes(slug) ? (
-        <PostSingle slug={slug} post={data} authors={authors} posts={posts} />
-      ) : layout === "404" ? (
+        <PostSingle
+          slug={slug}
+          post={data}
+          authors={authors}
+          posts={posts}
+        />
+      ) : layout === '404' ? (
         <NotFound data={data} />
-      ) : layout === "about" ? (
+      ) : layout === 'about' ? (
         <About data={data} />
-      ) : layout === "contact" ? (
+      ) : layout === 'contact' ? (
         <Contact data={data} />
-      ) : layout === "scaner" ? (
+      ) : layout === 'scaner' ? (
         <Scaner data={data} />
-      ): layout === "books" ? (
+      ) : layout === 'books' ? (
         <Books data={data} />
-      ): (
+      ) : (
         <Default data={data} />
       )}
     </Base>
@@ -56,7 +71,7 @@ export default RegularPages;
 
 // for regular page routes
 export const getStaticPaths = async () => {
-  const slugs = getRegularPageSlug("content");
+  const slugs = getRegularPageSlug('content');
   const paths = slugs.map((slug) => ({
     params: {
       regular: slug,
@@ -76,7 +91,7 @@ export const getStaticProps = async ({ params }) => {
   // get posts folder slug for filtering
   const postSlug = getSinglePagesSlug(`content/${blog_folder}`);
   // aughor data
-  const authors = getSinglePages("content/authors");
+  const authors = getSinglePages('content/authors');
   // all single pages
   const posts = getSinglePages(`content/${blog_folder}`);
 

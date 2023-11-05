@@ -1,9 +1,13 @@
-import Pagination from "@components/Pagination";
-import config from "@config/config.json";
-import Base from "@layouts/Baseof";
-import BookList from "@layouts/partials/BookList";
-import { getListPage, getSinglePages, getSinglePagesSlug } from "@lib/contents";
-import { parseMDX } from "@lib/utils/mdxParser";
+import Pagination from '@components/Pagination';
+import Base from '@layouts/Baseof';
+import BookList from '@layouts/partials/BookList';
+import {
+  getListPage,
+  getSinglePages,
+  getSinglePagesSlug,
+} from '@lib/contents';
+import { parseMDX } from '@lib/utils/mdxParser';
+import siteMetadata from 'data/siteMetadata';
 
 // blog pagination
 const BookPagination = ({
@@ -25,7 +29,7 @@ const BookPagination = ({
     <Base title={title}>
       <section className="section">
         <div className="container text-center">
-          <BookList books={currentBooks} authors={allAuthors}/>
+          <BookList books={currentBooks} authors={allAuthors} />
           <Pagination
             section="books"
             totalPages={totalPages}
@@ -41,8 +45,8 @@ export default BookPagination;
 
 // get blog pagination slug
 export const getStaticPaths = () => {
-  const allSlug = getSinglePagesSlug("content/books");
-  const { pagination } = config.settings;
+  const allSlug = getSinglePagesSlug('content/books');
+  const { pagination } = siteMetadata.settings;
   const totalPages = Math.round(allSlug.length / pagination);
   let paths = [];
 
@@ -63,11 +67,11 @@ export const getStaticPaths = () => {
 // get blog pagination content
 export const getStaticProps = async ({ params }) => {
   const currentPage = parseInt((params && params.slug) || 1);
-  const { pagination } = config.settings;
-  const books = getSinglePages("content/books");
-  const authors = getSinglePages("content/authors");
+  const { pagination } = siteMetadata.settings;
+  const books = getSinglePages('content/books');
+  const authors = getSinglePages('content/authors');
 
-  const bookIndex = await getListPage("content/books");
+  const bookIndex = await getListPage('content/books');
   const mdxContent = await parseMDX(bookIndex.content);
 
   return {

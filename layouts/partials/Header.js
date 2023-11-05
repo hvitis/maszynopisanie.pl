@@ -71,7 +71,7 @@ const Header = () => {
             {main.map((menu, i) => (
               <React.Fragment key={`menu-${i}`}>
                 {menu.hasChildren ? (
-                  <div className="flex">
+                  <div className="flex w-full justify-center">
                     <li className="nav-item nav-dropdown group relative">
                       <span className="nav-link inline-flex items-center">
                         {menu.name}
@@ -82,24 +82,22 @@ const Header = () => {
                           <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                         </svg>
                       </span>
-                      <ul className="nav-dropdown-list hidden group-hover:block md:invisible md:absolute md:block md:opacity-0 md:group-hover:visible md:group-hover:opacity-100">
+                      <ul className="nav-dropdown-list hidden w-40 text-center group-hover:block md:invisible md:absolute md:block md:opacity-0 md:group-hover:visible md:group-hover:opacity-100">
                         {menu.children.map((child, i) => (
                           <li
-                            className="nav-dropdown-item"
+                            className="nav-dropdown-item my-3 text-lg"
                             key={`children-${i}`}
                           >
                             <Link href={child.url} passHref>
-                              <a className="nav-dropdown-link block">
-                                {child.name}
-                              </a>
+                              {child.name}
                             </Link>
                           </li>
                         ))}
                       </ul>
                     </li>
-                    <ul className="my-auto">
+                    {/* <ul className="my-auto">
                       <ThemeToggler />
-                    </ul>
+                    </ul> */}
                   </div>
                 ) : (
                   <li className="nav-item mr-5">

@@ -1,33 +1,30 @@
-import config from "@config/config.json";
-import Image from "next/image";
-import Link from "next/link";
+import siteMetadata from 'data/siteMetadata';
+import Image from 'next/image';
+import Link from 'next/link';
 
 const Logo = () => {
-  // destructuring items from config object
-  const { base_url, logo, logo_width, logo_height, logo_text, title } =
-    config.site;
+  const { logo, logo_width, logo_height, logo_text } =
+    siteMetadata.settings;
 
   return (
-    <Link href={base_url} passHref>
+    <Link href={siteMetadata.baseUrl} passHref>
       <a
         className="navbar-brand block"
         style={{
-          height: logo_height.replace("px", "") + "px",
-          width: logo_width.replace("px", "") + "px",
+          height: logo_height.replace('px', '') + 'px',
+          width: logo_width.replace('px', '') + 'px',
         }}
       >
         {logo ? (
           <Image
-            width={logo_width.replace("px", "") * 2}
-            height={logo_height.replace("px", "") * 2}
+            width={logo_width.replace('px', '') * 2}
+            height={logo_height.replace('px', '') * 2}
             src={logo}
-            alt={title}
+            alt={logo_text}
             priority
           />
-        ) : logo_text ? (
-          logo_text
         ) : (
-          title
+          logo_text
         )}
       </a>
     </Link>

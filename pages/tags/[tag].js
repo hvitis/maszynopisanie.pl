@@ -1,10 +1,11 @@
-import config from "@config/config.json";
-import Base from "@layouts/Baseof";
-import { getSinglePages } from "@lib/contents";
-import { getTaxonomy } from "@lib/taxonomies";
-import { slugify } from "@lib/utils/textConverter";
-import Posts from "@partials/Posts";
-const { blog_folder } = config.settings;
+import Base from '@layouts/Baseof';
+import { getSinglePages } from '@lib/contents';
+import { getTaxonomy } from '@lib/taxonomies';
+import { slugify } from '@lib/utils/textConverter';
+import PostsList from '@partials/PostsList';
+import siteMetadata from 'data/siteMetadata';
+
+const { blog_folder } = siteMetadata.settings;
 
 // tag page
 const Tag = ({ tag, posts, authors }) => {
@@ -13,9 +14,9 @@ const Tag = ({ tag, posts, authors }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Showing posts from <span className="text-primary">{tag}</span> tag
+            Posty z <span className="text-primary">{tag}</span> tag
           </h1>
-          <Posts posts={posts} authors={authors} />
+          <PostsList posts={posts} authors={authors} />
         </div>
       </div>
     </Base>
@@ -26,7 +27,7 @@ export default Tag;
 
 // tag page routes
 export const getStaticPaths = () => {
-  const allCategories = getTaxonomy(`content/${blog_folder}`, "tags");
+  const allCategories = getTaxonomy(`content/${blog_folder}`, 'tags');
 
   const paths = allCategories.map((tag) => ({
     params: {
@@ -41,9 +42,11 @@ export const getStaticPaths = () => {
 export const getStaticProps = ({ params }) => {
   const posts = getSinglePages(`content/${blog_folder}`);
   const filterPosts = posts.filter((post) =>
-    post.frontmatter.tags.find((tag) => slugify(tag).includes(params.tag))
+    post.frontmatter.tags.find((tag) =>
+      slugify(tag).includes(params.tag)
+    )
   );
-  const authors = getSinglePages("content/authors");
+  const authors = getSinglePages('content/authors');
 
   return {
     props: { posts: filterPosts, tag: params.tag, authors: authors },

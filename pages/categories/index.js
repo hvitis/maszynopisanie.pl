@@ -1,16 +1,16 @@
-import config from "@config/config.json";
-import Base from "@layouts/Baseof";
-import { humanize, markdownify } from "@lib/utils/textConverter";
-import { getTaxonomy } from "lib/taxonomies";
-import Link from "next/link";
-const { blog_folder } = config.settings;
+import Base from '@layouts/Baseof';
+import { humanize, markdownify } from '@lib/utils/textConverter';
+import siteMetadata from 'data/siteMetadata';
+import { getTaxonomy } from 'lib/taxonomies';
+import Link from 'next/link';
+const { blog_folder } = siteMetadata.settings;
 
 const Categories = ({ categories }) => {
   return (
-    <Base title={"categories"}>
+    <Base title={'categories'}>
       <section className="section">
         <div className="container text-center">
-          {markdownify("Kategorie", "h1", "h2 mb-16")}
+          {markdownify('Kategorie', 'h1', 'h2 mb-16')}
           <ul className="space-x-4">
             {categories.map((category, i) => (
               <li key={`category-${i}`} className="inline-block">
@@ -31,7 +31,10 @@ const Categories = ({ categories }) => {
 export default Categories;
 
 export const getStaticProps = () => {
-  const categories = getTaxonomy(`content/${blog_folder}`, "categories");
+  const categories = getTaxonomy(
+    `content/${blog_folder}`,
+    'categories'
+  );
 
   return {
     props: {

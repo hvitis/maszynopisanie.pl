@@ -1,12 +1,11 @@
-// import Social from "@components/Social";
-import config from "@config/config.json";
-import menu from "@config/menu.json";
-// import social from "@config/social.json";
-import { markdownify } from "@lib/utils/textConverter";
-import Link from "next/link";
+import Social from '@components/Social';
+import menu from '@config/menu.json';
+import { markdownify } from '@lib/utils/textConverter';
+import siteMetadata from 'data/siteMetadata';
+import Link from 'next/link';
 
 const Footer = () => {
-  const { copyright } = config.params;
+  const { copyright } = siteMetadata;
   return (
     <footer className="section bg-dark">
       <div className="container text-center">
@@ -23,9 +22,12 @@ const Footer = () => {
           ))}
         </ul>
         {/* social icons */}
-        {/* <Social source={social} className="social-icons mb-8" /> */}
+        <Social
+          source={siteMetadata.social}
+          className="social-icons mb-8"
+        />
         {/* copyright */}
-        {markdownify(copyright, "p", "text-text-light")}
+        {markdownify(copyright, 'p', 'text-text-light')}
       </div>
     </footer>
   );

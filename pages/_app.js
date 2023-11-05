@@ -1,4 +1,3 @@
-import config from '@config/config.json';
 import theme from '@config/theme.json';
 import { JsonContext } from 'context/state';
 import Head from 'next/head';
@@ -11,7 +10,7 @@ import siteMetadata from 'data/siteMetadata';
 
 const App = ({ Component, pageProps }) => {
   // destructuring items from config object
-  const { favicon } = config.site;
+  const { favicon } = siteMetadata.settings;
   // import google font css
   const pf = theme.fonts.font_family.primary;
   const sf = theme.fonts.font_family.secondary;

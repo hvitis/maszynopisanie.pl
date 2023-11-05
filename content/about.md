@@ -1,12 +1,12 @@
 ---
-title: "To strona o maszynach do pisania ale i ich właścicielach. Napisz do nas jeśli chciałbyś ją współtworzyć."
-meta_title: "Strona Miłośników Maszyn do Pisania - zacznij swoją przygodę a może i dołącz do nas!"
+title: "Po co maszyna do pisania?"
+meta_title: "Strona Miłośników Maszyn do Pisania - zacznij swoją przygodę!"
 image: /images/noc-maszynopisania.jpg
 layout: "about"
 draft: false
 
 ---
 
-Jeśli jesteś zainteresowany podzieleniem się swoją historią, wiedzą albo swoimi przemyśleniami - napisz! Pomożemy Ci dodać artykuł na stronę i zaistnieć w sieci. Organizujemy spotkania [takie jak te][1] i wymieniamy się doświadczeniem w naprawie, kupnie oraz użytkowaniu maszyn.
+Cześć!
 
-[1]: https://www.instagram.com/p/ClWu8xqua99/
+Nazywam się Adam. Od kilku lat piszę na maszynie. Raczej już nigdy nie przestanę. Pasja tylko się pogłębia. Na tej stronie pojawiają się artykuły i informacje o maszynach. Jeśli masz jakieś pytania, pisz śmiało.

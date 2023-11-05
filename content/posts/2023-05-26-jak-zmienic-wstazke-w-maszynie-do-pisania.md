@@ -9,9 +9,9 @@ tags: ["maszyny", "taśmy", "wstążki"]
 draft: false
 ---
 
-Jedna wstążka nawet wprawnym pisarzom może starczyć na dziesiątki lub setki stron. Ten moment, kiedy trzeba będzie ją wymienić jednak przyjdzie. Co wtedy zrobić?
+Jedna wstążka nawet wprawnym pisarzom może starczyć na dziesiątki lub setki stron. Ten moment, kiedy trzeba będzie ją wymienić jednak przyjdzie. Co wtedy zrobić? Regenerować taśmy maszyny do pisania?
 
-Najważniejsze informacje w tym poście dotyczą samej wymiany wstążki, którą najlepiej zobaczyć. Na potrzeby tego wpisu zacznijmy od obejrzenia filmu:
+Sam proces zmiany można zobaczyć w tym filmie. Jeśli chcesz się dowiedzieć czy regeneracja taśmy to dobry pomysł - czytaj niżej.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHTm9j05t3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -41,44 +41,44 @@ str 432
 Tusz do Maszyn do Pisania
 
 Atrament do maszyn do pisania jest dwojakiego rodzaju, z których jeden
- jest wykonany z wazeliny i sadzy lub podobnych a drugi z gliceryny 
- z alkoholem i aniliny. Jeśli uzyskany efekt ma być permanentny 
+ jest wykonany z wazeliny i sadzy lub podobnych a drugi z gliceryny
+ z alkoholem i aniliny. Jeśli uzyskany efekt ma być permanentny
  należy użyć przepisu pierwszego.
 
-Robiąc pierwszy przepis, umieść trochę najlepszej jakości wazeliny 
-do odpowiedniego naczynia i stop ją, umieszczając naczynie w ogniu; 
-Następnie włożyć tyle sadzy lub węgla kostnego, ile wazelina 
-wchłonie bez robienia grudek. Aby je połączyć, czarny pigment 
-należy umieścić w trochę wcześniej i całość dokładnie wymieszać 
-dokonując uzupełnień. Pilnuj, aby wazelina była w nadmiarze, 
-ponieważ spowoduje to tłusty kontur nadruku; podczas gdy z drugiej strony, 
-jeśli to pigment będzie w nadmiarze, wydruk nie będzie wyraźny. 
+Robiąc pierwszy przepis, umieść trochę najlepszej jakości wazeliny
+do odpowiedniego naczynia i stop ją, umieszczając naczynie w ogniu;
+Następnie włożyć tyle sadzy lub węgla kostnego, ile wazelina
+wchłonie bez robienia grudek. Aby je połączyć, czarny pigment
+należy umieścić w trochę wcześniej i całość dokładnie wymieszać
+dokonując uzupełnień. Pilnuj, aby wazelina była w nadmiarze,
+ponieważ spowoduje to tłusty kontur nadruku; podczas gdy z drugiej strony,
+jeśli to pigment będzie w nadmiarze, wydruk nie będzie wyraźny.
 
 [..]
 
 Zawartość lotnego rozpuszczalnika powinna być wystarczająca
 aby uzyskać płynny atrament o konsystencji
-farby olejnej ; rezultatem będzie dobry, trwały czarny tusz, 
+farby olejnej ; rezultatem będzie dobry, trwały czarny tusz,
 który nie będzie się zmywał wodą jak atramenty anilinowe. Dla kolorowych
 tusze tej klasy używają błękitu pruskiego, czerwonego ołowiu,
-chromu żółtego; a dla atramentów aniliny używa się tych barwników 
-rozpuszczonych w równych częściach w alkoholu i glicerynie; 
+chromu żółtego; a dla atramentów aniliny używa się tych barwników
+rozpuszczonych w równych częściach w alkoholu i glicerynie;
 
 [...]
 
-Po przygotowaniu atramentu przejdź do przygotowanie wstążki; 
+Po przygotowaniu atramentu przejdź do przygotowanie wstążki;
 tajemnica sukcesu tkwi w prawidłowym nałożenie tuszu na taśmę.
-Możesz to zrobić ten sposób: nawiń wstążkę na kartkę lub deskę, 
+Możesz to zrobić ten sposób: nawiń wstążkę na kartkę lub deskę,
 rozłóż na stole kilka warstw gazety, a następnie rozwiń wstążkę w taki sposób,
-długości, jakie mogą być najwygodniejsze, i ułóż płasko na papierze; 
-nałóż tusz dobrze wcierając, za pomocą miękkiej szczotki. 
-Możesz użyć szczoteczki do zębów, aby dobrze wetrzeć w pory wstążki. 
+długości, jakie mogą być najwygodniejsze, i ułóż płasko na papierze;
+nałóż tusz dobrze wcierając, za pomocą miękkiej szczotki.
+Możesz użyć szczoteczki do zębów, aby dobrze wetrzeć w pory wstążki.
 Nic nie powinno pozostać widoczne na powierzchni.
 
 [...]
 
-Konieczne jest, aby wstążka mogła zachować pewien stopień wilgoci, 
-np. guma i cukier sprawiają, że jest sucha i szorstka, dlatego 
+Konieczne jest, aby wstążka mogła zachować pewien stopień wilgoci,
+np. guma i cukier sprawiają, że jest sucha i szorstka, dlatego
 nakładana jest powłoka glicerynowa;
 
 ```
