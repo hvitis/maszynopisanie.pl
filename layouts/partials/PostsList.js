@@ -14,15 +14,23 @@ const PostsList = ({ posts, authors, className }) => {
           className={i === 0 ? 'col-12' : 'col-12 sm:col-6'}
         >
           {post.frontmatter.image && (
-            <Image
-              className="rounded-lg object-cover"
-              src={post.frontmatter.image}
-              alt={post.frontmatter.title}
-              width={i === 0 ? '925' : '445'}
-              height={i === 0 ? '475' : '230'}
-              layout="responsive"
-              priority={i === 0 ? true : false}
-            />
+            <Link
+              href={`/${post.slug}`}
+              passHref
+              className="cursor-pointer"
+            >
+              <div className="cursor-pointer rounded-lg border-2 border-solid border-red-100 p-2 hover:border-2 hover:border-teal-500">
+                <Image
+                  className="cursor-pointer rounded-lg object-cover"
+                  src={post.frontmatter.image}
+                  alt={post.frontmatter.title}
+                  width={i === 0 ? '925' : '445'}
+                  height={i === 0 ? '475' : '230'}
+                  layout="responsive"
+                  priority={i === 0 ? true : false}
+                />
+              </div>
+            </Link>
           )}
           <ul className="mt-4 text-text">
             <li className="mb-2 mr-4 inline-block">
