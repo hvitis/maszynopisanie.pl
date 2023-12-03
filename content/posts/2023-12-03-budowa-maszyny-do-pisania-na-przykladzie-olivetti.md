@@ -31,7 +31,7 @@ Spójrzmy na jej budowę i opiszmy te elementy w legendzie poniżej.
 
 ![budowa maszyny remington do pisania](./images/posts/2023-12-03/legenda-budowa-maszyny-do-pisania.jpg)
 
-1. 11-calowy wózek z pełną linią pisania 10-3/10 cali.
+1. 28 centymetrowy wózek z pełną linią pisania szeroką na 25 cm.
 2. Wektor przestrzenny pojedynczej, podwójnej i potrójnej linii.
 3. Zmienny odstęp liniowy.
 4. Zapadkowa dźwignia blokująca lub zwalniająca.
@@ -46,11 +46,11 @@ Spójrzmy na jej budowę i opiszmy te elementy w legendzie poniżej.
 13. Opatentowany uproszczony zmieniacz taśmy.
 14. Stały uchwyt do montowania dodatkowych karteczek.
 15. Przesunięcie segmentu z blokadą Featherlight w celu szybszej zmiany na wielkie litery.
-16. ~synchronizowane skale do ustawiania marginesów, centrowania papieru i lokalizowania linii pisania.
+16. Synchronizowane skale do ustawiania marginesów, centrowania papieru i lokalizowania linii pisania.
 17. Dźwignia wałka papierowego (prawa i lewa).
 18. Dźwignia zwalniająca papier.
 19. Dźwignia centrująca wózek.
-20. Automatyczny rewers taśmy z jednym skokiem.
+20. Automatyczny rewers [taśmy][2] z jednym skokiem.
 21. Pozytywny dwukolorowy mechanizm kontroli wstążki i szablonu.
 22. Zwolnienie marginesu umożliwia pisanie poza prawym lub lewym marginesem.
 23. Osobisty regulator dotyku umożliwia dostosowanie kluczowych działań do osobistych preferencji.
@@ -62,9 +62,14 @@ Spójrzmy na jej budowę i opiszmy te elementy w legendzie poniżej.
 29. Standardowa spacja.
 30. Tab.
 31. Zakładka ustawia i kasuje tabulatory bezpośrednio z klawiatury za pomocą jednej dźwigni.
-32. Pomocniczy ręczny rewers taśmy.
+32. Pomocniczy ręczny rewers [taśmy][2].
 33. Pełna wstążka o długości 10 metrów.
-34. Górna pokrywa na zawiasach zapewnia łatwy dostęp do szpul taśmy i rutynowe czyszczenie.
+34. Górna pokrywa na zawiasach zapewnia łatwy dostęp do szpul [taśmy][2] i rutynowe czyszczenie.
+
+W filmie wspominam jeszcze o innych rzeczach. Na przykład czcionka w maszynie do pisania może mieć różne kroje pisma. Jednym z moich ulubionych jest ta obecna w maszynach Hermes:
+
+![czcionka, font, krój pisma w maszynie do pisania](./images/posts/2023-12-03/hermes-3000-font.webp)
+
 
 <div className="hidden">
 1 11-inch carriage with full 10-3/10-inch writing line.
@@ -119,3 +124,4 @@ Jeśli interesuje cię jakiś temat związany z maszynami [napisz][1].
 
 
 [1]: https://maszynopisanie.pl/contact
+[2]: https://maszynopisanie.pl/2023-05-26-jak-zmienic-wstazke-w-maszynie-do-pisania
