@@ -19,7 +19,7 @@ Pamflet. Pamflet informacyjny. Tak bym podsumował tę książkę. Ma dziwny roz
 
 Jako początkujący maszynopisacze, będziemy mogli po prostu skorzystać na tej książce. To idealna forma wprowadzenia kogoś do "tamtego świata". Jest tu sporo informacji, które zachęcają do nabycia maszyny i wciągają ciekawostkami.
 
-Poza historią i wprowadzeniem (gdzie dowiadujemy się również o pierwszej maszynie, na której nie potrafił pisać Nietzsche) przechodzimy do pisarzy i pisarek (stenotypistek). Kilka stron jest poświęconych pisarzon a na jednej z nich mamy listę właścicieli poszczególnych modeli. My na blogu mamy [listę polskich pisarzy, pisarek i ich maszyn](https://www.maszynopisanie.pl/2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania).
+Poza historią i wprowadzeniem (gdzie dowiadujemy się również o pierwszej maszynie, na której nie potrafił pisać Nietzsche) przechodzimy do pisarzy i pisarek (stenotypistek). Kilka stron jest poświęconych pisarzon a na jednej z nich mamy listę właścicieli poszczególnych modeli. My na blogu mamy [listę polskich pisarzy, pisarek i ich maszyn](https://www.maszynopisani.pl/2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania).
 
 Nawet jako wprawiony kolekcjoner znalazłem tam kilka ciekawostek o których nie miałem pojęcia. Pierwszy korektor w płynie? Detektywi odkrywający zbrodnie przy pomocy mikro różnic w czcionce różnych modeli? I wiele innych.
 

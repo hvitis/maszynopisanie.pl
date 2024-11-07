@@ -165,7 +165,7 @@ _Melchior Wańkowicz, Warszawa, 1963Foto: PAP/CAF-Stanisław Dąbrowiecki /bp/_
 Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarczuk][6], Władysław Konopczyński, [Jerzy Kosinski][20] czy Stefan Łoś.
 
 [1]: https://site.xavier.edu/polt/typewriters/typers.html
-[2]: https://www.maszynopisanie.pl/contact
+[2]: https://www.maszynopisani.pl/contact
 [3]: https://gazetakrakowska.pl/milosz-i-lem-swoje-najwieksze-dziela-pisali-na-maszynie/ar/8917
 [4]: https://galaktykalema.pl/pl/warsztatpisarski/
 [5]: https://culture.pl/pl/tworca/leopold-tyrmand
@@ -176,7 +176,7 @@ Na maszynie do pisania swoje dzieła tworzyli też tacy autorzy jak [Olga Tokarc
 [10]: https://pl.wikipedia.org/wiki/Muzeum_Haliny_Poświatowskiej
 [11]: http://gs.uni.opole.pl/nie-dzwonic-umarlam/
 [12]: https://rcin.org.pl/Content/64416/PDF/WA248_83673_P-I-2795_kuniczuk-boleslawa_o.pdf
-[13]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
+[13]: https://www.maszynopisani.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
 [14]: https://www.rybna-zdjeciaispacery.com/amp/rybna-odrodzenie
 [15]: http://polaneis.pl/miejsca/muzeum-boleslawa-prusa-w-naleczowie-lubelszczyzna-jakosc-obslugi-zwiedzajacych-w-tym-muzeum-to-dramat
 [16]: https://www.polishnews.com/lesmian-czyli-wycieczka-do-ilzy

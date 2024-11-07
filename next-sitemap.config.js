@@ -1,5 +1,5 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-    siteUrl: process.env.SITE_URL || 'https://maszynopisanie.pl',
+    siteUrl: process.env.SITE_URL || 'https://maszynopisani.pl',
     changefreq: `monthly`,
   }

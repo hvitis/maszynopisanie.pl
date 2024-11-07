@@ -31,7 +31,7 @@ Możemy znaleźć taśmy w [różnych kolorach](https://www.ebay.com/itm/1544010
 
 ### Z czego zrobione są taśmy do maszyn do pisania
 
-W książce [Standardowe Formuły od Eberta i Hissa](https://catalog.lib.uchicago.edu/vufind/Record/2708924) wydanej prawie sto lat temu (do pobrania [tutaj](https://www.maszynopisanie.pl/pobierz/The-Standard-Formulary-by-Albert-E-Ebert-and-An-Emil-Hiss.pdf)), możemy znaleźć taki przepis:
+W książce [Standardowe Formuły od Eberta i Hissa](https://catalog.lib.uchicago.edu/vufind/Record/2708924) wydanej prawie sto lat temu (do pobrania [tutaj](https://www.maszynopisani.pl/pobierz/The-Standard-Formulary-by-Albert-E-Ebert-and-An-Emil-Hiss.pdf)), możemy znaleźć taki przepis:
 
 ![chemiczny przepis na wstazke](./images/posts/2023-05-26/przepis-na-tusz-do-tasiemki.png)
 

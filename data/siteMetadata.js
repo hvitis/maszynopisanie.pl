@@ -7,16 +7,16 @@ const siteMetadata = {
   description:
     'Olivetti, Erika, Łucznik, Hermes a może Olympia albo Underwood? Zastanawiasz się jaką i gdzie kupić? Jak działa? Tutaj znajdziesz o nich wszystko.',
   language: 'pl-PL',
-  baseUrl: 'https://maszynopisanie.pl',
+  baseUrl: 'https://maszynopisani.pl',
   imageUrl: '/olivetti-maszyna-valentine.webp',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://maszynopisanie.pl',
-  siteRepo: 'https://github.com/hvitis/maszynopisanie.pl',
+  siteUrl: 'https://maszynopisani.pl',
+  siteRepo: 'https://github.com/hvitis/maszynopisani.pl',
   siteLogo: '/images/olivetti-maszyna-valentine.webp',
   socialBanner: '/images/olivetti-maszyna-valentine-small.webp',
   locale: 'pl-PL',
   copyright: 'Copyright © 2022',
-  meta_author: 'Maszynopisanie.pl - Maszyny do Pisania',
+  meta_author: 'maszynopisani.pl - Maszyny do Pisania',
   meta_image: '/images/favicon.png',
   meta_description:
     'Olivetti, Erika, Łucznik, Hermes a może Olympia albo Underwood? Zastanawiasz się jaką i gdzie kupić? Jak działa? Tu znajdziesz wszystko o maszynach do pisania.',
@@ -125,7 +125,7 @@ const siteMetadata = {
     logo: '/images/logo.png',
     logo_width: '200',
     logo_height: '34',
-    logo_text: 'Maszynopisanie.pl',
+    logo_text: 'maszynopisani.pl',
   },
 };
 

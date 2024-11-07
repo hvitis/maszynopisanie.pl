@@ -1,4 +1,4 @@
-# Maszynopisanie.pl
+# maszynopisani.pl
 
 First polish webpage about typewriters and typewriting.
 
@@ -23,5 +23,5 @@ Analytics can be found on umami.is
 [Ping me][1] if you want to collaborate (or want to enter the typosphere).
 We run a [trello board][2] with progress where we learn together.
 
-[1]: https://www.maszynopisanie.pl/contact
+[1]: https://www.maszynopisani.pl/contact
 [2]: https://trello.com/b/yHlUGUG6/coding

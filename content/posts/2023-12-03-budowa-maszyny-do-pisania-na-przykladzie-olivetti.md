@@ -125,5 +125,5 @@ Dziękuję za uwagę.
 Jeśli interesuje cię jakiś temat związany z maszynami [napisz][1].
 
 
-[1]: https://maszynopisanie.pl/contact
-[2]: https://maszynopisanie.pl/2023-05-26-jak-zmienic-wstazke-w-maszynie-do-pisania
+[1]: https://maszynopisani.pl/contact
+[2]: https://maszynopisani.pl/2023-05-26-jak-zmienic-wstazke-w-maszynie-do-pisania

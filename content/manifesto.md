@@ -24,8 +24,8 @@ aby wyrwać się ze Strumienia Danych.
 
 Zadajemy cios w imię samodzielności,
     prywatności
-       i spójności 
-           przeciwko 
+       i spójności
+           przeciwko
 byciu zależnym,
      inwigilacji,
         i rozpadowi.
@@ -46,4 +46,4 @@ REWOLUCJA BĘDZIE NAPISANA NA MASZYNIE
 Tłum. Maszynista
 
 [0]: https://typewriterinsurgency.webstarts.com/
-[1]: https://www.maszynopisanie.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
+[1]: https://www.maszynopisani.pl/2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania
