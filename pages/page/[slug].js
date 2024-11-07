@@ -18,7 +18,7 @@ const BlogPagination = ({
   const indexOfFirstPost = indexOfLastPost - pagination;
   const totalPages = Math.round(posts.length / pagination);
   const currentPosts = posts
-    .slice(indexOfFirstPost, indexOfLastPost)
+    // .slice(indexOfFirstPost, indexOfLastPost)
     .reverse();
 
   return (

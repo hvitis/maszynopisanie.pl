@@ -48,7 +48,6 @@ const App = ({ Component, pageProps }) => {
             content="width=device-width, initial-scale=1, maximum-scale=5"
           />
         </Head>
-        <GoogleAnalytics trackPageViews />
         <Analytics analyticsConfig={siteMetadata.analytics} />
         <Component {...pageProps} />
       </JsonContext>
