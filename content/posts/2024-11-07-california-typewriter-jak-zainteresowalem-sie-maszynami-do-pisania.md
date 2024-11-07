@@ -8,7 +8,10 @@ categories: ["maszyny"]
 authors: ["Szymon", "Adam"]
 proofreading: ["Szymon"]
 tags: ["filmy", "olivetti"]
-draft: false
+draft: true
 ---
 
-Nowy post napisany na gitbie
+
+Na razie draft (nie widoczny na stronie)
+
+Jak napiszesz daj znać! Powodzenia :)
