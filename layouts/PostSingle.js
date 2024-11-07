@@ -11,6 +11,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Share from './components/Share';
 import SimilarPosts from './partials/SimilarPosts';
+import Author from './components/Author';
 
 const PostSingle = ({ post, posts, authors, slug }) => {
   const { frontmatter, content, mdxContent } = post;
@@ -18,7 +19,18 @@ const PostSingle = ({ post, posts, authors, slug }) => {
     frontmatter;
   description = description ? description : content.slice(0, 120);
   const similarPosts = similerItems(post, posts, slug);
+  let correction = authors.filter((author) =>
+    frontmatter.proofreading
+      .map((author) => slugify(author))
+      .includes(slugify(author.frontmatter.title))
+  );
 
+  authors = authors.filter((author) =>
+    frontmatter.authors
+      .map((author) => slugify(author))
+      .includes(slugify(author.frontmatter.title))
+  );
+  console.log(frontmatter.authors);
   return (
     <>
       <section className="section">
@@ -26,37 +38,6 @@ const PostSingle = ({ post, posts, authors, slug }) => {
           <article className="text-center">
             {markdownify(title, 'h1', 'h2')}
             <ul className="mt-4 mb-8 text-text">
-              <li className="mb-2 mr-4 inline-block">
-                {authors
-                  .filter((author) =>
-                    frontmatter.authors
-                      .map((author) => slugify(author))
-                      .includes(slugify(author.frontmatter.title))
-                  )
-                  .map((author, i) => (
-                    <Link
-                      href={`/authors/${slugify(
-                        author.frontmatter.title
-                      )}`}
-                      key={`author-${i}`}
-                      passHref
-                    >
-                      <a className="inline-block hover:text-primary">
-                        {author.frontmatter.image && (
-                          <span className="author-image">
-                            <Image
-                              src={author.frontmatter.image}
-                              alt={author.frontmatter.title}
-                              height={50}
-                              width={50}
-                            />
-                          </span>
-                        )}
-                        <span>{author.frontmatter.title}</span>
-                      </a>
-                    </Link>
-                  ))}
-              </li>
               <li className="mb-2 mr-4 inline-block">
                 {dateFormat(date)}
               </li>
@@ -111,6 +92,19 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                 description={description}
                 slug={slug}
               />
+              <div>
+                <span className="mx-2"> Autor: </span>
+                {authors.map((author) => {
+                  return <Author author={author} />;
+                })}
+
+                {correction.length > 1 && (
+                  <span className="mx-2"> Korekta: </span>
+                )}
+                {correction.map((author) => {
+                  return <Author author={author} />;
+                })}
+              </div>
             </div>
           </article>
         </div>

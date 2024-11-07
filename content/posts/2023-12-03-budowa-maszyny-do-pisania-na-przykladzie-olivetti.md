@@ -5,6 +5,7 @@ date: 2023-12-03T00:00:00Z
 image: "/images/posts/2023-12-03/budowa-maszyny-do-pisania.jpeg"
 categories: ["maszyny", "budowa"]
 authors: ["Adam"]
+proofreading: []
 tags: ["budowa", "olivetti"]
 draft: false
 ---

@@ -5,6 +5,7 @@ date: 2023-05-25T21:20:00Z
 image: "/images/posts/2023-05-26/wstazka-ribbon-kolorowa-na-maszynie-do-pisania.jpeg"
 categories: ["taśma", "wstążka"]
 authors: ["Adam"]
+proofreading: []
 tags: ["maszyny", "taśmy", "wstążki"]
 draft: false
 ---

@@ -5,6 +5,7 @@ date: 2022-09-26T05:00:00Z
 image: "/images/posts/2022-09-26/maszynopisanie-pl.jpeg"
 categories: ["wydarzenia"]
 authors: ["Adam"]
+proofreading: []
 tags: ["kupowanie", "pisanie publicznie"]
 draft: false
 ---
@@ -17,7 +18,7 @@ Oczywiście inni mieli różności na swoich stanowiskach. Na jednym znalazłem 
 
 Dawno nie byłem handlarzem, więc zapomniałem, że pracą handlarza jest generować ciekawość
 i zachęcać ludzi do zakupu. Na szczęście maszyna do pisania, spisała się idealnie jako
-element przykuwający uwagę. 
+element przykuwający uwagę.
 
 Klak, klak, klak, ding. Delikatny dzwoneczek przykuwał uwagę i ludzie nawet pytali się co piszę i jak się sprawuje maszyna. No właśnie - co pisałem?
 

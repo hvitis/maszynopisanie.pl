@@ -4,12 +4,13 @@ description: "Kiedy tak naprawdę się zaczęła i co popchnęło ją do przodu.
 date: 2022-08-04T05:00:00Z
 image: "/images/posts/2022-08-18/maszyna-do-pisania-hello-world-horizontal.jpeg"
 categories: ["początki"]
-authors: ["Adam", "Szymon"]
+authors: ["Adam"]
+proofreading: []
 tags: ["historie", "hermes", "olivetti"]
 draft: false
 ---
 
-Większość wspomnień z dzieciństwa wyparowuje. Co tak naprawdę człowiek pamięta z czasów, kiedy jego wiek zbliżał się do dekady? Oczywiście bez patrzenia na zdjęcia. Z trudnością przychodzą jakieś wrażenia, jakieś odczucia sytuacji, kiedy staramy się sięgnąć pamięcią tak daleko. Jak je przywołać? 
+Większość wspomnień z dzieciństwa wyparowuje. Co tak naprawdę człowiek pamięta z czasów, kiedy jego wiek zbliżał się do dekady? Oczywiście bez patrzenia na zdjęcia. Z trudnością przychodzą jakieś wrażenia, jakieś odczucia sytuacji, kiedy staramy się sięgnąć pamięcią tak daleko. Jak je przywołać?
 
 Myślę, że często one przywołują się same, bez naszej ingerencji. Drzemią w nieświadomości i tak jak Tove Ditlevsen pisała:
 
@@ -36,7 +37,7 @@ Padło na Hermes Baby za 80zł. Musi mieć polską czcionkę - po co komu maszyn
 
 ![hermes baby z polskimi klawiszami](./images/posts/2022-08-18/maszyna-do-pisania-hermes-baby-szwajcarska-made-in-germany.jpg)
 
-Kupiłem oczywiście z obudową, ale palce tak ciągnęło do naprawy i majsterkowania, że nie zdążyłem zrobić zdjęcia. 
+Kupiłem oczywiście z obudową, ale palce tak ciągnęło do naprawy i majsterkowania, że nie zdążyłem zrobić zdjęcia.
 
 
 [1]: https://assets2.cbsnewsstatic.com/hub/i/r/2016/01/08/4247093e-69a4-4e6d-94b8-0d484d6b40c2/thumbnail/1200x630/3d637c934fbeeace8e773bf18fcb4555/ernest-hemingway-typewriter-promo.jpg

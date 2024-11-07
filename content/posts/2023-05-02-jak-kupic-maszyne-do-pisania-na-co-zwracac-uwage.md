@@ -5,6 +5,7 @@ date: 2023-05-04T01:00:00Z
 image: "/images/posts/2023-05-02/remington-maszyna-do-pisania.png"
 categories: ["zakupy"]
 authors: ["Adam"]
+proofreading: []
 tags: ["maszyny", "zakupy"]
 draft: false
 ---
@@ -71,7 +72,7 @@ Jeśli zamierzamy pisać na maszynie to na pewno dobrym pomysłem będzie zakup 
 
 ## Cena - Ile kosztuje?
 
-Cena może się wahać od kilkudziesięciu do kilkuset złotych. Głównie zależy ona od czynników kolekcjonerskich. Tych, które wymieniłem wyżej jak i tych, które dostępne są dla wprawniejszego oka - modelu, roku produkcji itd, które mają znaczenie raczej rzadziej. 
+Cena może się wahać od kilkudziesięciu do kilkuset złotych. Głównie zależy ona od czynników kolekcjonerskich. Tych, które wymieniłem wyżej jak i tych, które dostępne są dla wprawniejszego oka - modelu, roku produkcji itd, które mają znaczenie raczej rzadziej.
 
 ### Pisanie na maszynie czy kolekcjonowanie
 

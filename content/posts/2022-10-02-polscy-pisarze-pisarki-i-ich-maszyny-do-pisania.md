@@ -5,11 +5,12 @@ date: 2022-10-02T05:00:00Z
 image: "/images/posts/2022-10-02/01-stanisław-lem-w-swoim-gabinecie-PAP-henryk-makarewicz-maszyna-do-pisania.png"
 categories: ["pisarze", "pisarki"]
 authors: ["Adam"]
+proofreading: []
 tags: ["maszyny", "pisanie"]
 draft: false
 ---
 
-Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak kto używał ich w Polsce? Na to pytanie postaramy się tutaj odpowiedzieć. Jeśli wiesz jeszcze o kimś kogo tutaj nie wymieniłem lub któraś z maszyn jest źle nazwana - [daj mi znać][2]. 
+Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak kto używał ich w Polsce? Na to pytanie postaramy się tutaj odpowiedzieć. Jeśli wiesz jeszcze o kimś kogo tutaj nie wymieniłem lub któraś z maszyn jest źle nazwana - [daj mi znać][2].
 
 ## Maszyny do Pisania i ich Twórczy Właściciele
 
@@ -37,7 +38,7 @@ _Publicysta "Przekroju" Leopold Tyrmand pisze na maszynie podczas meczu Pucharu 
 
 
 
-4. Anna Świrszczyńska - polska poetka, dramatopisarka, prozaiczka. Opisała swoje przeżycia z Powstania Warszawskiego w powieści _Budowałam Barykadę_. 
+4. Anna Świrszczyńska - polska poetka, dramatopisarka, prozaiczka. Opisała swoje przeżycia z Powstania Warszawskiego w powieści _Budowałam Barykadę_.
 
 ![maszyna do pisania i Anna Świrszczyńska](./images/posts/2022-10-02/03-anna-swirszczynska-maszyna-do-pisania.webp)
 
@@ -99,7 +100,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 
 
-11. Gustaw Herling-Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu. 
+11. Gustaw Herling-Grudziński - polski pisarz, eseista, krytyk literacki, dziennikarz, żołnierz, więzień obozów pracy Gułagu.
 
 ![maszyna do pisania i Gustaw Herling‑Grudziński](./images/posts/2022-10-02/13-herling-grudzinski-maisons-lafitte-1987-wk.jpeg)
 

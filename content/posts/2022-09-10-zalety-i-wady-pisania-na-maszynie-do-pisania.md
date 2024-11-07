@@ -5,6 +5,7 @@ date: 2022-09-10T05:00:00Z
 image: "/images/posts/2022-09-10/zalety-i-wady-pisania-na-maszynie.jpg"
 categories: ["maszyny"]
 authors: ["Adam"]
+proofreading: []
 tags: ["pisanie", "zalety", "wady"]
 draft: false
 ---
