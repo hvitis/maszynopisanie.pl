@@ -1,4 +1,5 @@
 ---
+slug: "2023-05-26-jak-zmienic-wstazke-w-maszynie-do-pisania"
 title: "Jak Wymienić Taśmę w Maszynie do Pisania"
 description: "Jak wymienić oraz dlaczego nie nasączać i nie regenerować wstążki do maszyny do pisania."
 date: 2023-05-25T21:20:00Z

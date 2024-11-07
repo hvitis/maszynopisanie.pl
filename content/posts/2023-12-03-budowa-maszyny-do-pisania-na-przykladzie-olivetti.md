@@ -1,4 +1,5 @@
 ---
+slug: "2023-12-03-budowa-maszyny-do-pisania-na-przykladzie-olivetti"
 title: "Budowa Maszyny do Pisania"
 description: "Na przykładzie Olivetti Lettera sprawdźmy jak zbudowana jest maszyna do pisania."
 date: 2023-12-03T00:00:00Z

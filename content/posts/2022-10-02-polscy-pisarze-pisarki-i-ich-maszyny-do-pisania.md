@@ -1,4 +1,5 @@
 ---
+slug: "2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania"
 title: "Polscy Pisarze, Pisarki i ich Maszyny do Pisania"
 description: "Na czym pisali, co czuli i co mówili o swoich najważniejszych narzędziach do pracy."
 date: 2022-10-02T05:00:00Z

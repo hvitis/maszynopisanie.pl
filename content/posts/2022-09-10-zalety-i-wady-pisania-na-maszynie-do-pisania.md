@@ -1,4 +1,5 @@
 ---
+slug: "2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania"
 title: "Zalety i Wady Pisania na Maszynie."
 description: "Dlaczego w XXI wieku pisanie na maszynie może być zbawienne?"
 date: 2022-09-10T05:00:00Z

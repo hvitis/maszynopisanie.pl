@@ -1,4 +1,5 @@
 ---
+slug: "2023-05-01-historia-maszyny-do-pisania"
 title: "Historia maszyny do pisania"
 description: "Dlaczego QWERTY i po co pisać na maszynie?"
 date: 2023-05-01T01:00:00Z

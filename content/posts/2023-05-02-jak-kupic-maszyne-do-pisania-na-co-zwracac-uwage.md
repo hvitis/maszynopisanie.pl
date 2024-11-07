@@ -1,4 +1,5 @@
 ---
+slug: "2023-05-02-jak-kupic-maszyne-do-pisania-na-co-zwracac-uwage"
 title: "Jak Kupić Maszynę do Pisania?"
 description: "Wybór maszyny w cyfrowych czasach jest jeszcze trudniejszy! Na co zwracać uwagę? Jaką maszynę kupić? Które modele omijać?"
 date: 2023-05-04T01:00:00Z

@@ -1,4 +1,5 @@
 ---
+slug: "2022-09-26-garazowka-z-maszyna-do-pisania"
 title: "Maszynopisanie na Garażówce."
 description: "Dlaczego warto mieć ze sobą maszynę na wyprzedażach i wydarzeniach."
 date: 2022-09-26T05:00:00Z
