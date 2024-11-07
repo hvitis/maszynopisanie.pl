@@ -1,5 +1,5 @@
 ---
-title: "Początek przygody z maszynami do pisania."
+title: "Początek przygody z maszynami do pisania"
 description: "Kiedy tak naprawdę się zaczęła i co popchnęło ją do przodu."
 date: 2022-08-04T05:00:00Z
 image: "/images/posts/2022-08-18/maszyna-do-pisania-hello-world-horizontal.jpeg"
