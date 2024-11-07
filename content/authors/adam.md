@@ -1,6 +1,6 @@
 ---
 title: Adam
-image: /images/authors/avatar.jpeg
+image: /images/authors/adam.jpeg
 description: Jak zaczęła się moja przygoda i gdzie jest teraz.
 ---
 
