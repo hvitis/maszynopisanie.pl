@@ -30,7 +30,6 @@ const PostSingle = ({ post, posts, authors, slug }) => {
       .map((author) => slugify(author))
       .includes(slugify(author.frontmatter.title))
   );
-  console.log(frontmatter.authors);
   return (
     <>
       <section className="section">
