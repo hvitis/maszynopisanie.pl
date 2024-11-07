@@ -1,6 +1,6 @@
 ---
 title: "Budowa Maszyny do Pisania"
-description: "Ma przykładzie Olivetti Lettera sprawdźmy jak zbudowana jest maszyna do pisania."
+description: "Na przykładzie Olivetti Lettera sprawdźmy jak zbudowana jest maszyna do pisania."
 date: 2023-12-03T00:00:00Z
 image: "/images/posts/2023-12-03/budowa-maszyny-do-pisania.jpeg"
 categories: ["maszyny", "budowa"]
