@@ -30,16 +30,16 @@
           "url": "/pobierz"
         },
         {
-          "name": "O mnie",
-          "url": "/about"
+          "name": "O nas",
+          "url": "/authors"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "O mnie",
-      "url": "/about"
+      "name": "O nas",
+      "url": "/authors"
     },
     {
       "name": "Kontakt",
