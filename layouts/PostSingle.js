@@ -12,8 +12,11 @@ import Link from 'next/link';
 import Share from './components/Share';
 import SimilarPosts from './partials/SimilarPosts';
 import Author from './components/Author';
+import { DiscussionEmbed } from 'disqus-react';
+import siteMetadata from 'data/siteMetadata';
 
 const PostSingle = ({ post, posts, authors, slug }) => {
+  console.log(post);
   const { frontmatter, content, mdxContent } = post;
   let { description, title, date, image, categories, tags } =
     frontmatter;
@@ -91,13 +94,13 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                 description={description}
                 slug={slug}
               />
-              <div>
+              <div className='my-auto'>
                 <span className="mx-2"> Autor: </span>
                 {authors.map((author) => {
                   return <Author author={author} />;
                 })}
 
-                {correction.length > 1 && (
+                {correction.length >= 1 && (
                   <span className="mx-2"> Korekta: </span>
                 )}
                 {correction.map((author) => {
@@ -106,6 +109,17 @@ const PostSingle = ({ post, posts, authors, slug }) => {
               </div>
             </div>
           </article>
+          <div className='mt-10'>
+            <DiscussionEmbed
+              shortname="maszynopisanie"
+              config={{
+                url: `${siteMetadata.siteUrl}/${post.frontmatter.slug}`,
+                identifier: `${post.frontmatter.date}`,
+                title: `${post.frontmatter.title}`,
+                language: 'pl_PL', //e.g. for Traditional Chinese (Taiwan)
+              }}
+            />
+          </div>
         </div>
       </section>
       <section className="section">
