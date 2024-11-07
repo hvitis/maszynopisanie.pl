@@ -9,4 +9,4 @@ tags: ["filmy", "olivetti"]
 draft: false
 ---
 
-Nowy post
+Nowy post napisany na gitbie
