@@ -1,6 +1,6 @@
 ---
 title: Szymon
-image: /images/authors/szymon.jpeg
+image: /images/authors/avatar_default.jpeg
 description: O mnie.
 ---
 
