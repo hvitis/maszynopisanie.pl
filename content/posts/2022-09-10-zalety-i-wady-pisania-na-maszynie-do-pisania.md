@@ -5,7 +5,7 @@ description: "Dlaczego w XXI wieku pisanie na maszynie może być zbawienne?"
 date: 2022-09-10T05:00:00Z
 image: "/images/posts/2022-09-10/zalety-i-wady-pisania-na-maszynie.jpg"
 categories: ["maszyny"]
-authors: ["Adam"], ["Szymon"]
+authors: ["Adam", "Szymon"]
 proofreading: []
 tags: ["pisanie", "zalety", "wady"]
 draft: false
