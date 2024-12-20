@@ -1,6 +1,6 @@
 ---
 slug: "2022-09-10-zalety-i-wady-pisania-na-maszynie-do-pisania"
-title: "Zalety i Wady Pisania na Maszynie."
+title: "Zalety i wady pisania na maszynie."
 description: "Dlaczego w XXI wieku pisanie na maszynie może być zbawienne?"
 date: 2022-09-10T05:00:00Z
 image: "/images/posts/2022-09-10/zalety-i-wady-pisania-na-maszynie.jpg"
@@ -37,7 +37,7 @@ Mniej, ale nadal często:
 - Piękna prostota ekspresji umysłu poprzez stukanie w natychmiast drukujące klawisze.
 - Natychmiastowy fizyczny dostęp do wyniku Twojej pracy na papierze.
 - Doświadczenie czasów, których już nie ma.
-- Cena - maszyny są dziś tanie.
+- Cena – maszyny są dziś tanie.
 - Stukot nawet najcichszej maszyny do pisania to dobry sygnał dla mojej żony, że jestem zajęty pisaniem.
 - Most łączący pomiędzy wewnętrznym umysłem a sferą zewnętrzną.
 - Łatwiejsze pisanie poezji poprzez fizyczną kontrolę tekstu, marginesów, akapitów i kolorów. (Polecam [tekst o polskich pisarkach][2], które używały maszyn do pisania.)
