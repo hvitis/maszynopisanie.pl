@@ -1,33 +1,33 @@
 ---
 slug: "2022-10-02-polscy-pisarze-pisarki-i-ich-maszyny-do-pisania"
-title: "Polscy Pisarze, Pisarki i ich Maszyny do Pisania"
-description: "Na czym pisali, co czuli i co mówili o swoich najważniejszych narzędziach do pracy."
+title: "Polscy pisarze, pisarki i ich maszyny do pisania"
+description: "Na czym pisali, co czuli i co mówili o swoich najważniejszych narzędziach do pracy?"
 date: 2022-10-02T05:00:00Z
 image: "/images/posts/2022-10-02/01-stanisław-lem-w-swoim-gabinecie-PAP-henryk-makarewicz-maszyna-do-pisania.png"
 categories: ["pisarze", "pisarki"]
-authors: ["Adam"]
+authors: ["Adam", "Szymon"]
 proofreading: []
 tags: ["maszyny", "pisanie"]
 draft: false
 ---
 
-Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak kto używał ich w Polsce? Na to pytanie postaramy się tutaj odpowiedzieć. Jeśli wiesz jeszcze o kimś kogo tutaj nie wymieniłem lub któraś z maszyn jest źle nazwana - [daj mi znać][2].
+Maszyny do pisania są już z nami od ponad wieku. Przez przynajmniej pół wieku XX, ludzie posługiwali się maszynami do pisania do tworzenia swoich głównych dzieł. Na początku wieku XX w Polsce tym narzędziem było jeszcze pióro, natomiast pod koniec wieku były to już maszyny elektryczne a potem komputer. Przez chwilę jednak, maszyna była nieodłącznem kompanem literata, dziennikarza, pisarki. Możemy dowiedzieć się o [ulubionych maszynach zagranicznych pisarzy][1], jednak kto używał ich w Polsce? Na to pytanie postaramy się tutaj odpowiedzieć. Jeśli wiesz jeszcze o kimś, kogo tutaj nie wymieniłem lub któraś z maszyn jest źle nazwana - [daj mi znać][2].
 
-## Maszyny do Pisania i ich Twórczy Właściciele
+## Maszyny do Pisania i ich twórczy właściciele
 
 1. Stanisław Lem otwiera naszą listę słynnych pisarzy jako jeden z moich ulubionych autorów. Pisał na różnych maszynach, jednak zaczynał od modelu Underwood Noiseless Portable 77, który dostał od ojca. Lema mówiącego o maszynie do pisania można posłuchać [tutaj][4].
 
-> Lem miał bowiem zwyczaj, że gdy coś mu nie wychodziło, zaczynał od początku. Wyciągał z maszyny kartki i rzucał obok. W listach wspominał, że gdy pisał "Golema XIV", cały pokój był zasłany kartkami jak śniegiem. ([źródło][3])
+> Lem miał bowiem zwyczaj, że gdy coś mu nie wychodziło, zaczynał od początku. Wyciągał z maszyny kartki i rzucał obok. W listach wspominał, że gdy pisał „Golema XIV”, cały pokój był zasłany kartkami jak śniegiem. ([źródło][3])
 
-![maszyna do pisania i Stanisław Lem](./images/posts/2022-10-02/02-stanislaw-lem-maszyna-do-pisania.jpeg)
+![Maszyna do pisania i Stanisław Lem](./images/posts/2022-10-02/02-stanislaw-lem-maszyna-do-pisania.jpeg)
 
 
 
-2. Wisława Szymborska - poetka, laureatka nagrody Nobla.
+2. Wisława Szymborska – poetka, laureatka Nagrody Nobla.
 
-> Gotowe wiersze Szymborska przepisuje na maszynie marki Erika albo Łucznik natomiast korekty redakcyjne wprowadza już w komputerze. ([źródło][3])
+> Gotowe wiersze Szymborska przepisuje na maszynie marki Erika albo Łucznik, natomiast korekty redakcyjne wprowadza już w komputerze. ([źródło][3])
 
-![maszyna do pisania Wisławy Szymborskiej](./images/posts/2022-10-02/05-wislawa-szymborska-maszyna-do-pisania.jpeg)
+![Maszyna do pisania Wisławy Szymborskiej](./images/posts/2022-10-02/05-wislawa-szymborska-maszyna-do-pisania.jpeg)
 _Maszyna do pisania Łucznik 1301 Wisławy Szymborskiej w [Muzeum Narodowym w Krakowie](https://mnk.pl/wystawy/szuflada-szymborskiej)_
 
 
@@ -47,30 +47,30 @@ _Publicysta "Przekroju" Leopold Tyrmand pisze na maszynie podczas meczu Pucharu 
 
 5. [Ryszard Kapuściński][7] - dziennikarz, pisarz, podróżnik.
 
-O warsztacie pisania mówi rozlegle w książce "[Pisanie][7]", która jest wywiadem do którego dołączony jes film DVD nakręconym podczas rozmowy. W wywiadzie, który można częściowo przesłuchać [tutaj][8], pada cytat:
+O warsztacie pisania mówi rozlegle w książce "[Pisanie][7]", która jest wywiadem, do którego dołączony jest film DVD nakręcony podczas rozmowy. W wywiadzie, który można częściowo przesłuchać [tutaj][8], pada cytat:
 
 > Maszyna do pisania jest dla niego bogiem.
 
 O ile w podróż zabierał przenośną maszynę Hermes Baby to w domu miał [różne maszyny][9], wliczając w to Erikę.
 
-![maszyna do pisania i Ryszard Kapuściński](./images/posts/2022-10-02/06-ryszard-kapuscinski-w-swojej-pracowni-maszyna-do-pisania.jpeg)
+![Maszyna do pisania i Ryszard Kapuściński](./images/posts/2022-10-02/06-ryszard-kapuscinski-w-swojej-pracowni-maszyna-do-pisania.jpeg)
 _Ryszard Kapuściński w swojej pracowni w 1992 r. (fot. Krzysztof Miller/AG)_
 
 
 
 6. [Agnieszka Osiecka][11] - poetka, reżyserka, dziennikarka.
 
-![maszyna do pisania i Agnieszka Osiecka](./images/posts/2022-10-02/09-agnieszka-osiecka-maszyna-do-pisania.jpeg)
+![Maszyna do pisania i Agnieszka Osiecka](./images/posts/2022-10-02/09-agnieszka-osiecka-maszyna-do-pisania.jpeg)
 _Agnieszka Osiecka pisząca na maszynie Rheinmetall._
 
-![maszyna do pisania Agnieszki Osieckiej](./images/posts/2022-10-02/10-maszyna-do-pisania-agnieszki-osieckiej.jpeg)
+![Maszyna do pisania Agnieszki Osieckiej](./images/posts/2022-10-02/10-maszyna-do-pisania-agnieszki-osieckiej.jpeg)
 _Maszyna do pisania Agnieszki Osieckiej._
 
 
 
 7. Halina Poświatowska - poetka.
 
-Swoją Olympie przywiozła ze Stanów Zdjednoczonych.
+Swoją Olympię przywiozła ze Stanów Zdjednoczonych.
 
 ![maszyna do pisania i Ryszard Kapuściński](./images/posts/2022-10-02/08-halina-poswiatowska-maszyna-do-pisania-muzeum.jpeg)
 _Maszyna do Pisania Haliny Poświatowskiej_
@@ -91,7 +91,7 @@ _Maszyna do Pisania Hammond należąca do Bolesława Prusa. [źródło][15]_
 
 9. Jan Himilsbach - aktor, pisarz.
 
-![maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/26-jan-himilsbach-maszyna-do-pisania.jpg) _Maszyna do pisania i Jan Himilsbach_
+![Maszyna do pisania i Jan Himilsbach](./images/posts/2022-10-02/26-jan-himilsbach-maszyna-do-pisania.jpg) _Maszyna do pisania i Jan Himilsbach_
 
 
 
