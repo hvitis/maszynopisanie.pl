@@ -5,6 +5,15 @@
 const nextConfig = {
   reactStrictMode: true,
   experimental: { images: { allowFutureImage: true } },
+  async redirects() {
+    return [
+      {
+        source: '/:path((?!_next|images|favicon.png|manifest.json).+)',
+        destination: 'https://palantiri.pl/blog/:path',
+        permanent: true,
+      },
+    ];
+  },
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
@@ -13,7 +22,6 @@ const nextConfig = {
 
     return config;
   }
-
 };
 
 module.exports = nextConfig;

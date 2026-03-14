@@ -1,6 +1,4 @@
 import { plainify } from '@lib/utils/textConverter';
-import Footer from '@partials/Footer';
-import Header from '@partials/Header';
 import siteMetadata from 'data/siteMetadata';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
@@ -127,10 +125,8 @@ const Base = ({
           }`}
         />
       </Head>
-      <Header />
       {/* main site */}
       <main>{children}</main>
-      <Footer />
     </>
   );
 };
