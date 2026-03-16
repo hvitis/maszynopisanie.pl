@@ -8,6 +8,11 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/ocr-scaner',
+        destination: 'https://www.palantiri.pl/narzedzia/rozpoznawanie-ocr',
+        permanent: true,
+      },
+      {
         source: '/:path((?!_next|images|favicon.png|manifest.json).+)',
         destination: 'https://palantiri.pl/blog/:path',
         permanent: true,
